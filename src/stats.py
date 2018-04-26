@@ -4,18 +4,35 @@ import os
 from subprocess import call
 from fileNames import FileNames
 
-class Stat(object):
-    trainFile = FileNames.TRAIN.value
-    testFile = FileNames.TEST.value
-    directory = FileNames.STATS_DIR.value
-    tok_pos_probsFile = FileNames.TOK_POS_PROBS.value
-    lexiconFile = FileNames.LEXICON.value
-    prob_unkFile = FileNames.PROB_UNK.value
-    sentecesTagsFile = FileNames.SENT_TAGS.value
 
-    def __init__(self):
+#stat loads all default filenames
+
+#for different test/train just set trainFile and testFile, in this case
+#all files in stats will be overwritten, change working directory if you don't
+#want to overwrite current statistics
+
+class Stat(object):
+
+    def __init__(self, directory="", trainFile=""):
+
+        if not directory:
+            self.directory = FileNames.STATS_DIR.value
+            print(self.directory)
+        else:
+            self.directory = directory
         if not os.path.exists(self.directory):
             os.makedirs(self.directory)
+
+        if not trainFile:
+            self.trainFile = FileNames.TRAIN.value
+        else:
+            self.trainFile = trainFile
+        self.testFile = FileNames.TEST.value
+        self.tok_pos_probsFile = self.directory + FileNames.TOK_POS_PROBS.value
+        self.lexiconFile = self.directory + FileNames.LEXICON.value
+        self.prob_unkFile = self.directory + FileNames.PROB_UNK.value
+        self.sentecesTagsFile = self.directory + FileNames.SENT_TAGS.value
+        self.unigram_conc_unk = self.directory + FileNames.UNIGRAM_CONCEPT_UNK.value
 
     def load_data(self):
         self.data = pd.read_csv(self.trainFile, sep='\t', header=None)
@@ -56,15 +73,18 @@ class Stat(object):
     def write_token_unk_pos_probs(self):
         cols_to_keep = ['from_state', 'to_state', 'tokens', 'tags', 'neg_log_tokens_given_tags_probs']
         self.tok_pos_probs_to_keep = pd.DataFrame(self.tok_pos_probs[cols_to_keep])
-        self.tok_pos_probs_to_keep.to_csv(FileNames.UNIGRAM_CONCEPT_UNK.value, index=None,  header=None,sep='\t', mode='w')
-        self.unk_probs[cols_to_keep].to_csv(FileNames.UNIGRAM_CONCEPT_UNK.value, header=None, index = None, sep = '\t', mode='a')
-        with open(FileNames.UNIGRAM_CONCEPT_UNK.value, "a") as f:
+        self.tok_pos_probs_to_keep.to_csv(self.unigram_conc_unk, index=None,  header=None,sep='\t', mode='w')
+        self.unk_probs[cols_to_keep].to_csv(self.unigram_conc_unk, header=None, index = None, sep = '\t', mode='a')
+        with open(self.unigram_conc_unk, "a") as f:
             f.write('0')
 
     def create_lexicon(self):
         call('ngramsymbols < ' + self.trainFile + ' > ' + self.lexiconFile, shell=True)
+        print(self.lexiconFile)
 
-    def write_sentences_tags(self, fileOut=sentecesTagsFile):
+    def write_sentences_tags(self, fileOut=""):
+        if not fileOut:
+            fileOut = self.sentecesTagsFile
         sentences = pd.read_csv(self.trainFile, sep='\t', header=None, skip_blank_lines=False)
         sentences.columns = ['tokens', 'tags']
 
@@ -85,6 +105,8 @@ class Stat(object):
                 thefile.write("%s\t" % l)
             thefile.write("\n")
         thefile.close()
+
+#change testFile name if different testFile is used
 
     def read_sentences_tokens_tags(self):
         sentences = pd.read_csv(self.testFile, sep="\s+", header=None, skip_blank_lines=False)
