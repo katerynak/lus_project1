@@ -2,11 +2,17 @@ from concept_tagger import ConceptTagger
 from stats import Stat
 from fileNames import FileNames
 import os
-from subprocess import call
+from subprocess import call, check_output
 import pandas as pd
 import itertools
+import random
+import numpy as np
 
-def train_test_minimum(trainFile=""):
+#function tests a minimum requirement model
+#outputs f1 score of the model
+#input : trainFile, testFile
+
+def train_test_minimum(trainFile="", testFile="", smoothing = "witten_bell", ngram_order = 3):
 
     #default working dir + test/train files
 
@@ -31,6 +37,8 @@ def train_test_minimum(trainFile=""):
     test_out_file = test_out_dir + FileNames.TEST_OUT.value
 
     st = Stat(trainFile=trainFile)
+    if testFile:
+        st.testFile = testFile
     st.load_data()
     st.count_tokens()
     st.count_tags()
@@ -45,8 +53,7 @@ def train_test_minimum(trainFile=""):
 
     ct.create_unigram_tagger(st.lexiconFile, st.unigram_conc_unk, unigram_taggerFstFile)
     # default smoothing and order for now
-    ct.create_language_model(st.lexiconFile, st.sentecesTagsFile, ngram_lmFile)
-
+    ct.create_language_model(st.lexiconFile, st.sentecesTagsFile, ngram_lmFile, smoothing=smoothing, order=ngram_order)
 
     test_tokens_sentences, test_tags, test_tokens = st.read_sentences_tokens_tags()
     out_list = []
@@ -74,5 +81,147 @@ def train_test_minimum(trainFile=""):
     pred_data = pred_data.transpose()
     pred_data.to_csv(test_out_file, index=None, header=None, sep=' ', mode='w')
 
+    call('./conlleval.pl < {0} > {1}_{2}_{3}'.format(test_out_file, res_out_file, smoothing, ngram_order), shell=True)
+
+    f1_score = check_output("awk '{print $8}' "+"{0}_{1}_{2} |sed '2q;d'".format(res_out_file, smoothing, ngram_order), shell=True).decode("utf-8")
+
+    return f1_score
+
+# def tokenize():
+#     tokenize_dir = 'tokenize/'
+#
+#
+#
+# def POS_tagging():
+#
+
+def baseline_random(trainFile="", testFile=""):
+    baseline_dir = "baseline/"
+
+    res_out_dir = FileNames.RESULTS_DIR.value + baseline_dir
+    if not os.path.exists(res_out_dir):
+        os.makedirs(res_out_dir)
+
+    res_out_file = res_out_dir + FileNames.RESULT.value + '_random'
+
+    test_out_dir = FileNames.TEST_OUT_DIR.value + baseline_dir
+    if not os.path.exists(test_out_dir):
+        os.makedirs(test_out_dir)
+
+    test_out_file = test_out_dir + FileNames.TEST_OUT.value + '_random'
+
+    st = Stat(trainFile=trainFile)
+    if testFile:
+        st.testFile = testFile
+    st.load_data()
+    tags = st.get_tags()
+    test_tokens_sentences, test_tags, test_tokens = st.read_sentences_tokens_tags()
+    random_tags = []
+
+    for token in test_tokens:
+        if token == '':
+            random_tags.append(token)
+        else:
+            random_tags.append(tags[random.randint(0,tags.size-1)])
+
+    df = pd.DataFrame({'col': random_tags})
+    y_pred = df['col']
+    pred_data = pd.DataFrame([test_tokens, test_tags, y_pred])
+    pred_data = pred_data.transpose()
+    pred_data.to_csv(test_out_file, index=None, header=None, sep=' ', mode='w')
+
     call('./conlleval.pl < {0} > {1}'.format(test_out_file, res_out_file), shell=True)
 
+    f1_score = check_output(
+        "awk '{print $8}' " + "{0} |sed '2q;d'".format(res_out_file),
+        shell=True).decode("utf-8")
+
+    return f1_score
+
+def baseline_majority(trainFile="", testFile=""):
+    baseline_dir = "baseline/"
+
+    res_out_dir = FileNames.RESULTS_DIR.value + baseline_dir
+    if not os.path.exists(res_out_dir):
+        os.makedirs(res_out_dir)
+
+    res_out_file = res_out_dir + FileNames.RESULT.value + '_majority'
+
+    test_out_dir = FileNames.TEST_OUT_DIR.value + baseline_dir
+    if not os.path.exists(test_out_dir):
+        os.makedirs(test_out_dir)
+
+    test_out_file = test_out_dir + FileNames.TEST_OUT.value + '_majority'
+
+    st = Stat(trainFile=trainFile)
+    if testFile:
+        st.testFile = testFile
+    st.load_data()
+    test_tokens_sentences, test_tags, test_tokens = st.read_sentences_tokens_tags()
+    random_tags = []
+
+    majority_tag = st.get_majority_tag()
+
+    for token in test_tokens:
+        if token == '':
+            random_tags.append(token)
+        else:
+            random_tags.append(majority_tag)
+
+    df = pd.DataFrame({'col': random_tags})
+    y_pred = df['col']
+    pred_data = pd.DataFrame([test_tokens, test_tags, y_pred])
+    pred_data = pred_data.transpose()
+    pred_data.to_csv(test_out_file, index=None, header=None, sep=' ', mode='w')
+
+    call('./conlleval.pl < {0} > {1}'.format(test_out_file, res_out_file), shell=True)
+
+    f1_score = check_output(
+        "awk '{print $8}' " + "{0} |sed '2q;d'".format(res_out_file),
+        shell=True).decode("utf-8")
+
+    return f1_score
+
+
+def baseline_random_normal_dist(trainFile="", testFile=""):
+    baseline_dir = "baseline/"
+
+    res_out_dir = FileNames.RESULTS_DIR.value + baseline_dir
+    if not os.path.exists(res_out_dir):
+        os.makedirs(res_out_dir)
+
+    res_out_file = res_out_dir + FileNames.RESULT.value + '_random_normal_dist'
+
+    test_out_dir = FileNames.TEST_OUT_DIR.value + baseline_dir
+    if not os.path.exists(test_out_dir):
+        os.makedirs(test_out_dir)
+
+    test_out_file = test_out_dir + FileNames.TEST_OUT.value + '_random_normal_dist'
+
+    st = Stat(trainFile=trainFile)
+    if testFile:
+        st.testFile = testFile
+    st.load_data()
+    tags = st.get_tags()
+    test_tokens_sentences, test_tags, test_tokens = st.read_sentences_tokens_tags()
+    random_tags = []
+
+    for token in test_tokens:
+        if token == '':
+            random_tags.append(token)
+        else:
+            random_tags.append(tags[min(max(0,int(np.random.normal(20,10))),tags.size -1)])
+
+    df = pd.DataFrame({'col': random_tags})
+    y_pred = df['col']
+    pred_data = pd.DataFrame([test_tokens, test_tags, y_pred])
+    pred_data = pred_data.transpose()
+    pred_data.to_csv(test_out_file, index=None, header=None, sep=' ', mode='w')
+
+    call('./conlleval.pl < {0} > {1}'.format(test_out_file, res_out_file), shell=True)
+
+    f1_score = check_output(
+        "awk '{print $8}' " + "{0} |sed '2q;d'".format(res_out_file),
+        shell=True).decode("utf-8")
+
+    return f1_score

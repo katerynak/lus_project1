@@ -39,3 +39,4 @@ class ConceptTagger(object):
         out = check_output('fsttopsort {1} | fstprint -osymbols={0} | cut -f4 | grep .'.format(lexFile, fstInFile),
                                       shell=True).decode("utf-8")
         return out
+

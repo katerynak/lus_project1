@@ -2289,13 +2289,13 @@
 0	0	<unk>	B-actor.nationality	3.713572066704308
 0	0	<unk>	I-movie.genre	3.713572066704308
 0	0	<unk>	I-movie.location	3.713572066704308
-0	0	<unk>	I-award.ceremony	3.713572066704308
 0	0	<unk>	B-actor.type	3.713572066704308
+0	0	<unk>	I-award.ceremony	3.713572066704308
 0	0	<unk>	B-person.nationality	3.713572066704308
 0	0	<unk>	B-director.nationality	3.713572066704308
 0	0	<unk>	B-movie.description	3.713572066704308
 0	0	<unk>	I-movie.release_region	3.713572066704308
 0	0	<unk>	B-movie.star_rating	3.713572066704308
-0	0	<unk>	I-actor.nationality	3.713572066704308
 0	0	<unk>	B-award.category	3.713572066704308
+0	0	<unk>	I-actor.nationality	3.713572066704308
 0

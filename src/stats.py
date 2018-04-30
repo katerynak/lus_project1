@@ -28,11 +28,15 @@ class Stat(object):
         else:
             self.trainFile = trainFile
         self.testFile = FileNames.TEST.value
+        self.addTrainFile = FileNames.ADD_TRAIN.value
+        self.addTestFile = FileNames.ADD_TEST.value
+
         self.tok_pos_probsFile = self.directory + FileNames.TOK_POS_PROBS.value
         self.lexiconFile = self.directory + FileNames.LEXICON.value
         self.prob_unkFile = self.directory + FileNames.PROB_UNK.value
         self.sentecesTagsFile = self.directory + FileNames.SENT_TAGS.value
         self.unigram_conc_unk = self.directory + FileNames.UNIGRAM_CONCEPT_UNK.value
+        self.random = self.directory + FileNames.RANDOM_TXT.value
 
     def load_data(self):
         self.data = pd.read_csv(self.trainFile, sep='\t', header=None)
@@ -40,6 +44,10 @@ class Stat(object):
 
         # remove $ character from tags
         self.data['tags'] = self.data['tags'].map(lambda x: x.rstrip('$'))
+
+    def load_add_data(self):
+        self.add_data = pd.read_csv(self.addTrainFile, sep='\t', header=None)
+        self.add_data.columns = ['tokens', 'pos_tags', 'unique_tokens']
 
     def count_tokens(self):
         self.tok_counts = pd.DataFrame(self.data['tokens'].value_counts().reset_index())
@@ -127,3 +135,42 @@ class Stat(object):
                 list_tag.append(tag)
                 list_token.append(tok)
         return tok_list_of_lists, sentences_tags.fillna(value=''), sentences_tokens.fillna(value='')
+
+    def write_random_tags(self):
+        """
+        function creates txt fst file with equal probabilities for all tags to be assigned to each word
+        of lexicon
+        ------------
+
+        train.lex file is assumed to exist
+        data is assumed to be loaded in memory
+        """
+
+        #extract unique list of tags and load them in memory
+        #we will not count their probability (1/tot_tokens because it's useless, random number is ok)
+        self.count_tags()
+        self.count_tokens()
+
+        #create new table containing transducer probabilities: for each token list of all tags with equal probability
+        #+ the same for unks
+
+        l = []
+        for token in self.tok_counts['tokens']:
+            for tag in self.pos_counts['tags']:
+                l.append([0,0,token,tag,1])
+        for tag in self.pos_counts['tags']:
+            l.append([0,0,'<unk>', tag, 1])
+
+        self.same_prob_tokens_tags = pd.DataFrame(l, columns=['from_state', 'to_state', 'token', 'tag', 'prob'])
+
+        self.same_prob_tokens_tags.to_csv(self.random, header=None, index=None, sep='\t', mode='w')
+        with open(self.random, "a") as f:
+            f.write('0')
+
+    def get_tags(self):
+        self.count_tags()
+        return self.pos_counts['tags']
+
+    def get_majority_tag(self):
+        self.count_tags()
+        return self.pos_counts['tags'][self.pos_counts['tags_counts'].argmax()]

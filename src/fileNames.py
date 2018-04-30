@@ -7,6 +7,8 @@ class FileNames(Enum):
 
     TRAIN = '../data/NLSPARQL.train.data'
     TEST = '../data/NLSPARQL.test.data'
+    ADD_TRAIN = '../data/NLSPARQL.train.feats.txt'
+    ADD_TEST = '../data/NLSPARQL.test.feats.txt'
     STATS_DIR = "../stats/"
     TOK_POS_PROBS = "tok_pos_probs.txt"
     LEXICON =  "train.lex"
@@ -30,3 +32,7 @@ class FileNames(Enum):
     #results file names
     RESULTS_DIR = "../results/"
     RESULT = "eval_result"
+
+    #baseline files
+    RANDOM_TXT = "random.txt"
+    RANDOM_FST = "random.fst"
