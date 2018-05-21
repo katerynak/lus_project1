@@ -10,6 +10,7 @@ class FileNames(Enum):
     ADD_TRAIN = '../data/NLSPARQL.train.feats.txt'
     ADD_TEST = '../data/NLSPARQL.test.feats.txt'
     STATS_DIR = "../stats/"
+    PLOTS_DIR = "../plots/"
     TOK_POS_PROBS = "tok_pos_probs.txt"
     LEXICON =  "train.lex"
     PROB_UNK =  "train_unk.txt"

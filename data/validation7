@@ -1,0 +1,753 @@
+what	O
+language	O
+is	O
+the	O
+movie	O
+hero	B-movie.name
+in	O
+	
+how	O
+much	O
+was	O
+it	O
+to	O
+make	O
+paranorman	B-movie.name
+	
+hotel	B-movie.name
+rwanda	I-movie.name
+is	O
+based	O
+on	O
+what	O
+	
+select	O
+rio	B-movie.name
+in	O
+chinese	B-movie.language
+	
+find	O
+me	O
+the	O
+first	O
+star	B-movie.name
+wars	I-movie.name
+movie	O
+info	O
+	
+show	O
+me	O
+when	O
+the	O
+movie	O
+was	O
+made	O
+	
+language	O
+of	O
+casa	B-movie.name
+blanca	I-movie.name
+	
+find	O
+newly	O
+released	O
+comedies	B-movie.genre
+from	O
+england	B-country.name
+	
+synopsis	O
+for	O
+the	O
+movie	O
+house	B-movie.name
+at	I-movie.name
+the	I-movie.name
+end	I-movie.name
+of	I-movie.name
+the	I-movie.name
+street	I-movie.name
+	
+r	B-rating.name
+rating	O
+what	O
+does	O
+that	O
+include	O
+	
+show	O
+me	O
+westerns	B-movie.genre
+	
+who	O
+played	O
+hawkeye	B-character.name
+in	O
+mash	B-movie.name
+	
+show	O
+me	O
+the	O
+budget	O
+for	O
+expendables	B-movie.name
+1	I-movie.name
+	
+how	O
+much	O
+did	O
+looper	B-movie.name
+gross	O
+	
+who	O
+is	O
+in	O
+picture	O
+three	O
+	
+is	O
+amelie	B-movie.name
+in	O
+a	O
+different	O
+language	O
+	
+what	O
+genre	O
+is	O
+the	O
+movie	O
+pitch	B-movie.name
+perfect	I-movie.name
+	
+look	O
+for	O
+the	O
+director	O
+of	O
+step	B-movie.name
+up	I-movie.name
+	
+can	O
+you	O
+tell	O
+me	O
+which	O
+movie	O
+made	O
+the	O
+most	O
+at	O
+the	O
+box	O
+office	O
+in	O
+the	O
+weekend	O
+of	O
+september	O
+twenty	O
+eighth	O
+	
+look	O
+for	O
+russian	B-movie.language
+movies	O
+by	O
+mosfilm	B-producer.name
+	
+movie	O
+in	B-movie.name
+july	I-movie.name
+data	O
+	
+is	O
+this	O
+a	O
+musical	B-movie.genre
+	
+forty	O
+three	O
+million	O
+what	O
+	
+what	O
+country	O
+is	O
+shawshank	B-movie.name
+redemption	I-movie.name
+	
+who	O
+was	O
+that	O
+guy	O
+again	O
+who	O
+was	O
+in	O
+the	B-movie.name
+avengers	I-movie.name
+	
+show	O
+me	O
+all	O
+of	O
+the	O
+movies	O
+directed	O
+by	O
+woody	B-director.name
+allen	I-director.name
+	
+cars	B-movie.name
+movie	O
+	
+i	O
+want	O
+to	O
+see	O
+a	O
+pg	B-rating.name
+thirteen	I-rating.name
+movie	O
+	
+find	O
+information	O
+about	O
+french	B-movie.language
+movies	O
+	
+vampire	B-movie.subject
+movies	O
+please	O
+	
+what	O
+other	O
+formats	O
+is	O
+finding	B-movie.name
+nemo	I-movie.name
+in	O
+	
+list	O
+of	O
+french	B-movie.language
+language	I-movie.language
+comedies	B-movie.genre
+	
+what	O
+films	O
+have	O
+been	O
+produced	O
+by	O
+warner	B-producer.name
+bros.	I-producer.name
+	
+find	O
+information	O
+on	O
+charles	B-person.name
+vidor	I-person.name
+	
+what	O
+top	O
+films	O
+have	O
+come	O
+out	O
+of	O
+russia	B-country.name
+	
+look	O
+for	O
+popular	O
+movies	O
+	
+all	O
+of	O
+kung	B-movie.name
+fu	I-movie.name
+panda	I-movie.name
+movies	O
+	
+show	O
+will	B-person.name
+ferrell	I-person.name
+biography	O
+	
+i	O
+need	O
+to	O
+know	O
+the	O
+rating	O
+of	O
+grease	B-movie.name
+	
+when	O
+was	O
+suckerpunch	B-movie.name
+be	O
+released	O
+	
+films	O
+with	O
+chinese	B-movie.language
+	
+exhibit	O
+all	O
+details	O
+of	O
+original	O
+finding	B-movie.name
+nemo	I-movie.name
+movie	O
+	
+where	O
+was	O
+muriel	B-movie.name
+'s	I-movie.name
+wedding	I-movie.name
+shot	O
+	
+find	O
+details	O
+of	O
+in	B-movie.name
+july	I-movie.name
+movie	O
+	
+when	O
+was	O
+avatar	B-movie.name
+released	O
+	
+movie	O
+'s	O
+release	O
+date	O
+	
+genre	O
+for	O
+bad	B-movie.name
+teacher	I-movie.name
+	
+i	O
+want	O
+movies	O
+in	O
+french	B-movie.language
+	
+find	O
+reviews	O
+for	O
+dirty	B-movie.name
+dancing	I-movie.name
+	
+show	O
+information	O
+page	O
+for	O
+finding	B-movie.name
+nemo	I-movie.name
+	
+look	O
+up	O
+movies	O
+starring	O
+the	O
+singer	B-actor.type
+mario	B-actor.name
+	
+i	O
+would	O
+like	O
+to	O
+know	O
+if	O
+this	O
+is	O
+a	O
+real	O
+scary	B-movie.genre
+	
+can	O
+you	O
+please	O
+search	O
+details	O
+about	O
+will	B-person.name
+ferrell	I-person.name
+	
+i	O
+want	O
+more	O
+information	O
+about	O
+alfred	B-person.name
+hitchock	I-person.name
+'s	O
+biography	O
+	
+list	O
+japanese	B-movie.language
+movies	O
+	
+what	O
+are	O
+popular	O
+movie	O
+producers	O
+	
+find	O
+all	O
+johnny	B-actor.name
+depp	I-actor.name
+movies	O
+	
+find	O
+me	O
+information	O
+about	O
+the	B-movie.name
+campaign	I-movie.name
+movie	O
+	
+spanish	B-country.name
+movies	O
+	
+lionsgate	B-producer.name
+movies	O
+	
+show	O
+movies	O
+directed	O
+by	O
+clint	B-director.name
+eastwood	I-director.name
+	
+show	O
+me	O
+a	O
+list	O
+of	O
+all	O
+movies	O
+produced	O
+by	O
+alfred	B-producer.name
+ruddy	I-producer.name
+	
+look	O
+up	O
+the	O
+director	O
+of	O
+freedom	B-movie.name
+writers	I-movie.name
+	
+what	O
+is	O
+the	O
+standard	O
+to	O
+be	O
+rated	O
+g	B-rating.name
+	
+when	O
+will	O
+twilight	B-movie.name
+breaking	I-movie.name
+dawn	I-movie.name
+part	I-movie.name
+2	I-movie.name
+be	O
+released	O
+	
+language	O
+of	O
+spanglish	B-movie.name
+	
+show	O
+robert	B-director.name
+wise	I-director.name
+movies	O
+	
+find	O
+the	O
+actor	O
+that	O
+sings	O
+let	O
+me	O
+love	O
+you	O
+	
+director	O
+information	O
+for	O
+movies	O
+	
+i	O
+want	O
+to	O
+see	O
+movies	O
+with	O
+hugh	B-actor.name
+jackman	I-actor.name
+	
+show	O
+me	O
+celebrities	O
+	
+show	O
+me	O
+belle	B-movie.name
+in	O
+spanish	B-movie.language
+	
+show	O
+me	O
+japanese	B-movie.language
+movies	O
+	
+the	B-movie.name
+godfather	I-movie.name
+was	O
+produced	O
+by	O
+	
+what	O
+was	O
+gross	O
+revenue	O
+for	O
+batman	B-movie.name
+begins	I-movie.name
+	
+what	O
+movies	O
+has	O
+sandra	B-producer.name
+bullock	I-producer.name
+produced	O
+	
+out	O
+camping	O
+	
+find	O
+a	O
+comedy	B-movie.genre
+	
+find	O
+g	B-rating.name
+rated	O
+movies	O
+	
+who	O
+played	O
+mother	B-character.name
+in	O
+tarkovsky	B-director.name
+'s	O
+mirror	B-movie.name
+	
+show	O
+me	O
+the	O
+movie	O
+pot	B-movie.name
+zombies	I-movie.name
+	
+what	O
+is	O
+the	O
+budget	O
+for	O
+epic	B-movie.name
+	
+show	O
+me	O
+movies	O
+with	O
+not	B-rating.name
+rated	I-rating.name
+rating	O
+	
+what	O
+country	O
+is	O
+les	B-movie.name
+mes	I-movie.name
+from	O
+	
+what	O
+movies	O
+has	O
+tom	B-actor.name
+cruise	I-actor.name
+been	O
+in	O
+recently	O
+	
+i	O
+want	O
+to	O
+watch	O
+a	O
+movie	O
+in	O
+chinese	B-movie.language
+	
+what	O
+country	O
+is	O
+bullhead	B-movie.name
+	
+display	O
+7	B-producer.name
+arts	I-producer.name
+movies	O
+	
+bruce	B-producer.name
+lee	I-producer.name
+produced	O
+movie	O
+listing	O
+	
+life	B-movie.name
+is	I-movie.name
+beatiful	I-movie.name
+shortcut	O
+	
+when	O
+did	O
+will	B-actor.name
+ferrell	I-actor.name
+begin	O
+acting	O
+	
+find	O
+information	O
+about	O
+the	O
+cast	O
+and	O
+crew	O
+of	O
+go	B-movie.name
+	
+show	O
+me	O
+the	O
+top	O
+movies	O
+from	O
+spain	B-country.name
+	
+who	O
+is	O
+in	O
+the	O
+cast	O
+of	O
+hitch	B-movie.name
+	
+what	O
+is	O
+a	O
+british	B-country.name
+horror	B-movie.genre
+movie	O
+	
+where	O
+is	O
+punjabi	B-movie.language
+	
+show	O
+me	O
+movies	O
+about	O
+zombies	B-movie.subject
+	
+find	O
+actors	O
+in	O
+movies	O
+	
+interesting	O
+	
+how	O
+many	O
+movies	O
+has	O
+paramount	B-producer.name
+done	O
+	
+what	O
+movies	O
+have	O
+a	O
+pg-13	B-rating.name
+rating	O
+	
+show	O
+me	O
+a	O
+complete	O
+list	O
+of	O
+r	B-rating.name
+rated	O
+movies	O
+that	O
+came	O
+out	O
+in	O
+the	B-movie.release_date
+last	I-movie.release_date
+30	I-movie.release_date
+days	I-movie.release_date
+	
+total	O
+budget	O
+for	O
+the	O
+movie	O
+avatar	B-movie.name
+	
+find	O
+action	B-movie.genre
+films	O
+	
+i	O
+want	O
+tom	B-actor.name
+cruise	I-actor.name
+movies	O
+please	O
+	
+can	O
+i	O
+watch	O
+a	O
+canadian	B-country.name
+film	O
+	
+synopsis	O
+for	O
+star	B-movie.name
+wars	I-movie.name
+four	I-movie.name
+	
+can	O
+i	O
+rent	O
+finding	B-movie.name
+nemo	I-movie.name
+on	O
+netflix	O
+

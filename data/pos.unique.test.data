@@ -1,0 +1,8201 @@
+star	_starNN
+of	_ofIN
+thor	B-movie.name
+	
+who	_whoWP
+is	_beVBZ
+in	_inIN
+the	_theDT
+movie	_movieNN
+the	B-movie.name
+campaign	I-movie.name
+	
+list	_listVV
+the	_theDT
+cast	_castNN
+of	_ofIN
+the	_theDT
+movie	_movieNN
+the	B-movie.name
+campaign	I-movie.name
+	
+who	_whoWP
+was	_beVBD
+in	_inIN
+twilight	B-movie.name
+	
+who	_whoWP
+is	_beVBZ
+in	_inIN
+vulguria	B-movie.name
+	
+actor	_actorNN
+from	_fromIN
+lost	B-movie.name
+	
+who	_whoWP
+played	_playVVD
+in	_inIN
+the	_theDT
+movie	_movieNN
+rocky	B-movie.name
+	
+who	_whoWP
+played	_playVVD
+in	_inIN
+the	_theDT
+movie	_movieNN
+captain	B-movie.name
+america	I-movie.name
+	
+cast	_castNN
+and	_andCC
+crew	_crewNN
+for	_forIN
+in	B-movie.name
+july	I-movie.name
+	
+who	_whoWP
+is	_beVBZ
+in	_inIN
+movie	_movieNN
+in	B-movie.name
+july	I-movie.name
+	
+who	_whoWP
+'s	_beVBZ
+in	_inIN
+star	B-movie.name
+wars	I-movie.name
+episode	I-movie.name
+four	I-movie.name
+	
+who	_whoWP
+was	_beVBD
+in	_inIN
+apollo	B-movie.name
+thirteen	I-movie.name
+	
+who	_whoWP
+was	_beVBD
+apollo	B-movie.name
+thirteen	I-movie.name
+'s	_beVBZ
+cast	_castVVN
+	
+search	_searchNN
+for	_forIN
+information	_informationNN
+about	_aboutIN
+the	_theDT
+cast	_castNN
+and	_andCC
+crew	_crewNN
+of	_ofIN
+appolo	B-movie.name
+thirteen	I-movie.name
+	
+i	_iNP
+would	_wouldMD
+like	_likeVV
+to	_toTO
+know	_knowVV
+more	_moreJJR
+about	_aboutIN
+the	_theDT
+cast	_castNN
+and	_andCC
+crew	_crewNN
+of	_ofIN
+the	_theDT
+movie	_movieNN
+apollo	B-movie.name
+thirteen	I-movie.name
+	
+who	_whoWP
+starred	_starVVD
+in	_inIN
+the	B-movie.name
+avengers	I-movie.name
+	
+cast	_castVVN
+for	_forIN
+finding	B-movie.name
+nemo	I-movie.name
+	
+actor	_actorNN
+from	_fromIN
+lassie	B-movie.name
+	
+list	_listNN
+actors	_actorNNS
+in	_inIN
+the	_theDT
+movie	_movieNN
+midnight	B-movie.name
+cowboy	I-movie.name
+	
+dirty	B-movie.name
+dancing	I-movie.name
+actors	_actorNNS
+	
+who	_whoWP
+are	_beVBP
+cast	_castVVN
+and	_andCC
+crew	_crewNN
+of	_ofIN
+dirty	B-movie.name
+dancing	I-movie.name
+	
+who	_whoWP
+was	_beVBD
+in	_inIN
+hitch	B-movie.name
+	
+who	_whoWP
+is	_beVBZ
+in	_inIN
+the	_theDT
+cast	_castNN
+of	_ofIN
+hitch	B-movie.name
+	
+star	_starNN
+of	_ofIN
+facts	B-movie.name
+of	I-movie.name
+life	I-movie.name
+	
+show	_showVV
+me	_mePP
+movie	_movieNN
+credits	_creditNNS
+	
+who	_whoWP
+does	_doVVZ
+the	_theDT
+voices	_voiceNNS
+for	_forIN
+the	_theDT
+movie	_movieNN
+	
+find	_findVV
+movie	_movieNN
+actors	_actorNNS
+	
+show	_showNN
+credits	_creditNNS
+-	_-:
+forager	B-movie.name
+	
+star	_starNN
+of	_ofIN
+modern	B-movie.name
+family	I-movie.name
+	
+look	_lookVV
+up	_upRP
+information	_informationNN
+about	_aboutIN
+the	_theDT
+cast	_castNN
+crew	_crewNN
+of	_ofIN
+go	B-movie.name
+	
+find	_findVV
+information	_informationNN
+about	_aboutIN
+the	_theDT
+cast	_castNN
+and	_andCC
+crew	_crewNN
+of	_ofIN
+go	B-movie.name
+	
+who	_whoWP
+was	_beVBD
+in	_inIN
+the	_theDT
+cast	_castNN
+of	_ofIN
+go	B-movie.name
+	
+can	_canMD
+you	_youPP
+find	_findVV
+the	_theDT
+lead	_leadJJ
+actor	_actorNN
+in	_inIN
+pretty	B-movie.name
+women	I-movie.name
+	
+what	_whatWP
+are	_beVBP
+the	_theDT
+actors	_actorNNS
+names	_nameNNS
+and	_andCC
+parts	_partNNS
+in	_inIN
+finding	B-movie.name
+nemo	I-movie.name
+	
+searching	_searchVVG
+for	_forIN
+names	_nameNNS
+of	_ofIN
+crew	_crewNN
+members	_memberNNS
+of	_ofIN
+appollo	B-movie.name
+thirteen	I-movie.name
+	
+budget	_budgetNN
+for	_forIN
+dark	B-movie.name
+knight	I-movie.name
+	
+what	_whatWP
+was	_beVBD
+the	_theDT
+budget	_budgetNN
+for	_forIN
+the	B-movie.name
+godfather	I-movie.name
+	
+budget	_budgetNN
+for	_forIN
+twilight	B-movie.name
+	
+please	_pleaseUH
+look	_lookVV
+up	_upRP
+the	_theDT
+budget	_budgetNN
+of	_ofIN
+step	B-movie.name
+up	I-movie.name
+	
+budget	_budgetNN
+for	_forIN
+titanic	B-movie.name
+the	_theDT
+movie	_movieNN
+	
+what	_whatWP
+was	_beVBD
+the	_theDT
+budget	_budgetNN
+for	_forIN
+the	_theDT
+movie	_movieNN
+titanic	B-movie.name
+	
+budget	_budgetNN
+for	_forIN
+iron	B-movie.name
+man	I-movie.name
+2	I-movie.name
+	
+please	_pleaseVV
+tell	_tellVV
+me	_mePP
+how	_howWRB
+much	_muchJJ
+was	_beVBD
+the	_theDT
+budget	_budgetNN
+for	_forIN
+avatar	B-movie.name
+	
+how	_howWRB
+much	_muchJJ
+money	_moneyNN
+did	_doVVD
+they	_theyPP
+spend	_spendVVP
+to	_toTO
+make	_makeVV
+avatar	B-movie.name
+	
+avatar	B-movie.name
+'s	_'sPOS
+budget	_budgetNN
+	
+how	_howWRB
+much	_muchRB
+did	_doVVD
+avatar	B-movie.name
+take	_takeVV
+in	_inIN
+	
+please	_pleaseUH
+show	_showVV
+me	_mePP
+what	_whatWP
+the	_theDT
+budget	_budgetNN
+was	_beVBD
+for	_forIN
+avatar	B-movie.name
+	
+what	_whatWP
+was	_beVBD
+the	_theDT
+budget	_budgetNN
+for	_forIN
+the	_theDT
+avatar	B-movie.name
+movie	_movieNN
+	
+can	_canMD
+you	_youPP
+tell	_tellVV
+me	_mePP
+the	_theDT
+budget	_budgetNN
+of	_ofIN
+the	_theDT
+movie	_movieNN
+avatar	B-movie.name
+	
+total	_totalJJ
+budget	_budgetNN
+for	_forIN
+the	_theDT
+movie	_movieNN
+avatar	B-movie.name
+	
+what	_whatWP
+was	_beVBD
+the	_theDT
+budget	_budgetNN
+for	_forIN
+batman	B-movie.name
+begins	I-movie.name
+	
+what	_whatWP
+was	_beVBD
+the	_theDT
+budget	_budgetNN
+for	_forIN
+the	B-movie.name
+avengers	I-movie.name
+	
+what	_whatWP
+was	_beVBD
+the	_theDT
+budget	_budgetNN
+for	_forIN
+gone	B-movie.name
+with	I-movie.name
+the	I-movie.name
+wind	I-movie.name
+	
+what	_whatWP
+was	_beVBD
+spent	_spendVVN
+on	_onIN
+my	B-movie.name
+big	I-movie.name
+fat	I-movie.name
+greek	I-movie.name
+wedding	I-movie.name
+	
+what	_whatWP
+was	_beVBD
+pretty	B-movie.name
+woman	I-movie.name
+'s	_'sPOS
+budget	_budgetNN
+	
+what	_whatWP
+was	_beVBD
+the	_theDT
+budget	_budgetNN
+for	_forIN
+spaceballs	B-movie.name
+	
+how	_howWRB
+many	_manyJJ
+movies	_movieNNS
+has	_haveVHZ
+kevin	B-actor.name
+bacon	I-actor.name
+been	_beVBN
+the	_theDT
+lead	_leadJJ
+actor	_actorNN
+in	_inIN
+	
+how	_howWRB
+many	_manyJJ
+star	B-movie.name
+wars	I-movie.name
+movies	_movieNNS
+are	_beVBP
+there	_thereRB
+	
+how	_howWRB
+many	_manyJJ
+movies	_movieNNS
+are	_beVBP
+rated	_rateVVN
+g	B-rating.name
+	
+spain	B-country.name
+has	_haveVHZ
+how	_howWRB
+many	_manyJJ
+movies	_movieNNS
+	
+how	_howWRB
+many	_manyJJ
+movies	_movieNNS
+has	_haveVHZ
+kristen	B-actor.name
+stewart	I-actor.name
+starred	_starVVN
+in	_inIN
+	
+how	_howWRB
+many	_manyJJ
+movies	_movieNNS
+has	_haveVHZ
+robert	B-director.name
+wise	I-director.name
+directed	_directVVD
+	
+how	_howWRB
+many	_manyJJ
+movies	_movieNNS
+did	_doVVD
+alfred	B-director.name
+hitchcock	I-director.name
+direct	_directJJ
+	
+how	_howWRB
+many	_manyJJ
+movies	_movieNNS
+has	_haveVHZ
+paramount	B-producer.name
+done	_doVVN
+	
+i	_iNP
+would	_wouldMD
+like	_likeVV
+to	_toTO
+know	_knowVV
+the	_theDT
+name	_nameNN
+of	_ofIN
+the	_theDT
+country	_countryNN
+from	_fromIN
+where	_whereWRB
+the	_theDT
+movie	_movieNN
+kati	B-movie.name
+patang	I-movie.name
+comes	_comeVVZ
+	
+what	_whatWP
+country	_countryNN
+is	_beVBZ
+bullhead	B-movie.name
+	
+what	_whatWP
+country	_countryNN
+made	_makeVVD
+black	B-movie.name
+swan	I-movie.name
+	
+what	_whatWP
+country	_countryNN
+was	_beVBD
+black	B-movie.name
+swan	I-movie.name
+from	_fromIN
+	
+what	_whatWP
+country	_countryNN
+was	_beVBD
+the	_theDT
+movie	_movieNN
+made	_makeVVD
+	
+what	_whatWP
+country	_countryNN
+did	_doVVD
+deep	B-movie.name
+blue	I-movie.name
+sea	I-movie.name
+come	_comeVVN
+from	_fromIN
+	
+origin	_originNN
+of	_ofIN
+titanic	B-movie.name
+	
+origin	_originNN
+of	_ofIN
+king	B-movie.name
+lear	I-movie.name
+	
+when	_whenWRB
+will	_willMD
+top	B-movie.name
+gun	I-movie.name
+be	_beVB
+released	_releaseVVN
+	
+release	_releaseNN
+year	_yearNN
+and	_andCC
+date	_dateNN
+for	_forIN
+casino	B-movie.name
+	
+when	_whenWRB
+did	_doVVD
+will	B-actor.name
+ferrell	I-actor.name
+begin	_beginVV
+acting	_actVVG
+	
+show	_showVV
+me	_mePP
+when	_whenWRB
+24	B-movie.name
+will	_willMD
+be	_beVB
+released	_releaseVVN
+	
+can	_canMD
+i	_iNP
+have	_haveVHP
+release	_releaseNN
+date	_dateNN
+of	_ofIN
+movie	_movieNN
+	
+movie	_movieNN
+'s	_'sPOS
+release	_releaseNN
+date	_dateNN
+	
+show	_showVV
+me	_mePP
+when	_whenWRB
+the	_theDT
+movie	_movieNN
+was	_beVBD
+made	_makeVVN
+	
+when	_whenWRB
+the	_theDT
+movie	_movieNN
+titanic	B-movie.name
+was	_beVBD
+released	_releaseVVN
+	
+what	_whatWP
+year	_yearNN
+did	_doVVD
+the	_theDT
+italian	B-country.name
+movie	_movieNN
+roman	B-movie.name
+holiday	I-movie.name
+come	_comeVVN
+out	_outRP
+	
+can	_canMD
+you	_youPP
+please	_pleaseVV
+search	_searchNN
+for	_forIN
+release	_releaseNN
+date	_dateNN
+for	_forIN
+karate	B-movie.name
+kid	I-movie.name
+	
+karate	B-movie.name
+kid	I-movie.name
+release	_releaseNN
+date	_dateNN
+please	_pleaseRB
+	
+when	_whenWRB
+was	_beVBD
+dirty	B-movie.name
+dancing	I-movie.name
+released	_releaseVVN
+	
+when	_whenWRB
+was	_beVBD
+spaceballs	B-movie.name
+released	_releaseVVN
+	
+when	_whenWRB
+was	_beVBD
+batman	B-movie.name
+released	_releaseVVN
+	
+when	_whenWRB
+was	_beVBD
+pretty	B-movie.name
+woman	I-movie.name
+released	_releaseVVN
+	
+when	_whenWRB
+was	_beVBD
+men	B-movie.name
+in	I-movie.name
+black	I-movie.name
+released	_releaseVVN
+	
+when	_whenWRB
+did	_doVVD
+kristen	B-actor.name
+stewart	I-actor.name
+start	_startNN
+acting	_actingNN
+	
+when	_whenWRB
+is	_beVBZ
+possessed	B-movie.name
+going	_goVVG
+to	_toTO
+be	_beVB
+released	_releaseVVN
+	
+when	_whenWRB
+was	_beVBD
+resident	B-movie.name
+evil	I-movie.name
+released	_releaseVVN
+	
+release	_releaseNN
+date	_dateNN
+for	_forIN
+finding	B-movie.name
+nemo	I-movie.name
+	
+when	_whenWRB
+was	_beVBD
+finding	B-movie.name
+nemo	I-movie.name
+released	_releaseVVN
+	
+release	_releaseNN
+date	_dateNN
+of	_ofIN
+hum	B-movie.name
+tum	I-movie.name
+	
+when	_whenWRB
+was	_beVBD
+freedom	B-movie.name
+writers	I-movie.name
+released	_releaseVVD
+	
+when	_whenWRB
+was	_beVBD
+avatar	B-movie.name
+released	_releaseVVN
+	
+when	_whenWRB
+did	_doVVD
+avatar	B-movie.name
+released	_releaseVVD
+	
+i	_iNP
+would	_wouldMD
+like	_likeVV
+to	_toTO
+know	_knowVV
+the	_theDT
+release	_releaseNN
+date	_dateNN
+of	_ofIN
+the	_theDT
+movie	_movieNN
+avatar	B-movie.name
+	
+can	_canMD
+you	_youPP
+tell	_tellVV
+me	_mePP
+when	_whenWRB
+was	_beVBD
+the	_theDT
+movie	_movieNN
+avatar	B-movie.name
+released	_releaseVVD
+	
+when	_whenWRB
+was	_beVBD
+date	B-movie.name
+night	I-movie.name
+released	_releaseVVD
+	
+when	_whenWRB
+did	_doVVD
+black	B-movie.name
+swan	I-movie.name
+come	_comeVVN
+out	_outRP
+	
+when	_whenWRB
+did	_doVVD
+avergers	B-movie.name
+come	_comeVV
+out	_outRP
+	
+what	_whatWP
+date	_dateNN
+did	_doVVD
+the	B-movie.name
+amazing	I-movie.name
+spiderman	I-movie.name
+show	_showNN
+for	_forIN
+the	_theDT
+1st	_1stJJ
+time	_timeNN
+	
+what	_whatWP
+is	_beVBZ
+the	_theDT
+release	_releaseNN
+date	_dateNN
+of	_ofIN
+vulgaria	B-movie.name
+	
+when	_whenWRB
+the	_theDT
+movie	_movieNN
+the	B-movie.name
+godfather	I-movie.name
+was	_beVBD
+released	_releaseVVN
+	
+when	_whenWRB
+does	_doVVZ
+looper	B-movie.name
+come	_comeVV
+out	_outRP
+	
+can	_canMD
+you	_youPP
+tell	_tellVV
+me	_mePP
+the	_theDT
+release	_releaseNN
+date	_dateNN
+of	_ofIN
+the	_theDT
+movie	_movieNN
+barfi	B-movie.name
+	
+what	_whatWP
+date	_dateNN
+did	_doVVD
+the	_theDT
+movie	_movieNN
+heroine	B-movie.name
+come	_comeVVN
+out	_outRP
+	
+when	_whenWRB
+did	_doVVD
+the	_theDT
+house	B-movie.name
+at	I-movie.name
+the	I-movie.name
+end	I-movie.name
+of	I-movie.name
+the	I-movie.name
+street	I-movie.name
+hit	_hitNN
+theaters	_theaterNNS
+	
+what	_whatWP
+day	_dayNN
+is	_beVBZ
+fun	B-movie.name
+size	I-movie.name
+coming	_comeVVG
+out	_outRP
+	
+what	_whatWP
+day	_dayNN
+will	_willNN
+django	B-movie.name
+unchained	I-movie.name
+come	_comeVV
+out	_outRP
+	
+when	_whenWRB
+will	_willMD
+i	_iNP
+be	_beVB
+able	_ableJJ
+to	_toTO
+view	_viewVV
+iron	B-movie.name
+man	I-movie.name
+3	I-movie.name
+	
+on	_onIN
+what	_whatWP
+date	_dateNN
+will	_willMD
+iron	B-movie.name
+man	I-movie.name
+3	I-movie.name
+be	_beVB
+released	_releaseVVN
+	
+who	_whoWP
+directed	_directVVD
+gone	B-movie.name
+with	I-movie.name
+the	I-movie.name
+wind	I-movie.name
+	
+who	_whoWP
+was	_beVBD
+the	_theDT
+director	_directorNN
+for	_forIN
+black	B-movie.name
+swan	I-movie.name
+	
+tell	_tellVV
+me	_mePP
+the	_theDT
+directed	_directVVD
+of	_ofIN
+black	B-movie.name
+swan	I-movie.name
+	
+who	_whoWP
+is	_beVBZ
+the	_theDT
+director	_directorNN
+of	_ofIN
+sleepless	B-movie.name
+in	I-movie.name
+seattle	I-movie.name
+	
+find	_findVV
+who	_whoWP
+the	_theDT
+director	_directorNN
+was	_beVBD
+in	_inIN
+men	B-movie.name
+in	I-movie.name
+black	I-movie.name
+3	I-movie.name
+	
+locate	_locateVV
+the	_theDT
+director	_directorNN
+who	_whoWP
+created	_createVVD
+the	_theDT
+movie	_movieNN
+men	B-movie.name
+in	I-movie.name
+black	I-movie.name
+3	I-movie.name
+	
+director	_directorNN
+of	_ofIN
+titanic	B-movie.name
+	
+titanic	B-movie.name
+director	_directorNN
+	
+avengers	B-movie.name
+movie	_movieNN
+director	_directorNN
+	
+dirctor	_dirctorNN
+of	_ofIN
+movie	_movieNN
+avengers	B-movie.name
+	
+who	_whoWP
+was	_beVBD
+the	_theDT
+director	_directorNN
+for	_forIN
+nacho	B-movie.name
+libre	I-movie.name
+	
+director	_directorNN
+for	_forIN
+big	B-movie.name
+	
+who	_whoWP
+was	_beVBD
+the	_theDT
+director	_directorNN
+of	_ofIN
+welcome	B-movie.name
+to	I-movie.name
+the	I-movie.name
+dollhouse	I-movie.name
+	
+who	_whoWP
+directed	_directVVD
+the	_theDT
+movie	_movieNN
+house	B-movie.name
+at	I-movie.name
+the	I-movie.name
+end	I-movie.name
+of	I-movie.name
+the	I-movie.name
+at	I-movie.name
+the	I-movie.name
+street	I-movie.name
+	
+who	_whoWP
+was	_beVBD
+the	_theDT
+director	_directorNN
+of	_ofIN
+the	_theDT
+movie	_movieNN
+toy	B-movie.name
+story	I-movie.name
+	
+list	_listNN
+director	_directorNN
+gilda	B-movie.name
+	
+who	_whoWP
+directed	_directVVD
+field	B-movie.name
+of	I-movie.name
+dreams	I-movie.name
+	
+who	_whoWP
+is	_beVBZ
+the	_theDT
+second	_secondJJ
+director	_directorNN
+on	_onIN
+finding	B-movie.name
+nemo	I-movie.name
+	
+find	_findVV
+director	_directorNN
+of	_ofIN
+finding	B-movie.name
+nemo	I-movie.name
+	
+who	_whoWP
+directed	_directVVD
+finding	B-movie.name
+nemo	I-movie.name
+	
+finding	B-movie.name
+nemo	I-movie.name
+directed	_directVVN
+by	_byIN
+who	_whoWP
+	
+director	_directorNN
+of	_ofIN
+finding	B-movie.name
+nemo	I-movie.name
+	
+who	_whoWP
+directed	_directVVD
+hitch	B-movie.name
+	
+i	_iNNS
+want	_wantVVP
+to	_toTO
+know	_knowVV
+who	_whoWP
+is	_beVBZ
+the	_theDT
+director	_directorNN
+of	_ofIN
+the	_theDT
+movie	_movieNN
+batman	B-movie.name
+	
+who	_whoWP
+is	_beVBZ
+director	_directorNN
+of	_ofIN
+the	B-movie.name
+words	I-movie.name
+	
+who	_whoWP
+directed	_directVVD
+million	B-movie.name
+dollar	I-movie.name
+baby	I-movie.name
+	
+who	_whoWP
+was	_beVBD
+the	_theDT
+guy	_guyNN
+that	_thatWDT
+directed	_directVVD
+moneyball	B-movie.name
+	
+who	_whoWP
+did	_doVVD
+twilight	B-movie.name
+	
+twilight	B-movie.name
+director	_directorNN
+	
+who	_whoWP
+directed	_directVVD
+twilight	B-movie.name
+	
+who	_whoWP
+directed	_directVVD
+twilight	B-movie.name
+	
+who	_whoWP
+is	_beVBZ
+the	_theDT
+director	_directorNN
+of	_ofIN
+hum	B-movie.name
+tum	I-movie.name
+	
+look	_lookVV
+for	_forIN
+the	_theDT
+director	_directorNN
+of	_ofIN
+step	B-movie.name
+up	I-movie.name
+	
+please	_pleaseUH
+find	_findVV
+the	_theDT
+director	_directorNN
+of	_ofIN
+freedom	B-movie.name
+writers	I-movie.name
+	
+find	_findVV
+the	_theDT
+director	_directorNN
+of	_ofIN
+freedom	B-movie.name
+writers	I-movie.name
+	
+look	_lookVV
+up	_upRP
+the	_theDT
+director	_directorNN
+of	_ofIN
+freedom	B-movie.name
+writers	I-movie.name
+	
+find	_findVV
+the	_theDT
+director	_directorNN
+of	_ofIN
+freedom	B-movie.name
+writers	I-movie.name
+	
+who	_whoWP
+directed	_directVVD
+baby	B-movie.name
+mama	I-movie.name
+	
+godfather	B-movie.name
+director	_directorNN
+	
+show	_showVV
+me	_mePP
+who	_whoWP
+directed	_directVVD
+the	B-movie.name
+sound	I-movie.name
+of	I-movie.name
+music	I-movie.name
+	
+who	_whoWP
+directed	_directVVD
+the	B-movie.name
+sound	I-movie.name
+of	I-movie.name
+music	I-movie.name
+	
+who	_whoWP
+directed	_directVVD
+the	B-movie.name
+sound	I-movie.name
+of	I-movie.name
+music	I-movie.name
+	
+find	_findVV
+the	_theDT
+name	_nameNN
+of	_ofIN
+the	_theDT
+director	_directorNN
+of	_ofIN
+return	B-movie.name
+	
+show	_showNN
+movie	_movieNN
+avengers	B-movie.name
+director	_directorNN
+name	_nameNN
+	
+name	_nameVV
+the	_theDT
+director	_directorNN
+in	_inIN
+sleepless	B-movie.name
+in	I-movie.name
+seattle	I-movie.name
+	
+what	_whatWP
+'s	_beVBZ
+the	_theDT
+genre	_genreNN
+for	_forIN
+black	B-movie.name
+swan	I-movie.name
+	
+what	_whatWP
+is	_beVBZ
+black	B-movie.name
+swan	B-movie.name
+'s	_'sPOS
+genre	_genreNN
+	
+what	_whatWP
+genre	_genreNN
+is	_beVBZ
+parenthood	B-movie.name
+	
+what	_whatWP
+kind	_kindNN
+of	_ofIN
+movie	_movieNN
+is	_beVBZ
+parenthood	B-movie.name
+	
+genre	_genreNN
+for	_forIN
+pride	B-movie.name
+and	I-movie.name
+prejudice	I-movie.name
+	
+can	_canMD
+you	_youPP
+tell	_tellVV
+me	_mePP
+the	_theDT
+genre	_genreNN
+of	_ofIN
+the	_theDT
+movie	_movieNN
+lawless	B-movie.name
+	
+show	_showVV
+me	_mePP
+what	_whatWP
+genre	_genreNN
+does	_doVVZ
+movie	_movieNN
+lawless	B-movie.name
+belongs	_belongVVZ
+to	_toTO
+	
+genre	_genreNN
+for	_forIN
+snow	B-movie.name
+white	I-movie.name
+and	I-movie.name
+the	I-movie.name
+huntsman	I-movie.name
+	
+what	_whatWP
+is	_beVBZ
+the	_theDT
+movie	_movieNN
+type	_typeNN
+	
+what	_whatWP
+'s	_beVBZ
+the	_theDT
+genre	_genreNN
+of	_ofIN
+rushmore	B-movie.name
+	
+get	_getVV
+the	_theDT
+genre	_genreNN
+of	_ofIN
+welcome	B-movie.name
+to	I-movie.name
+the	I-movie.name
+dollhouse	I-movie.name
+	
+i	_iNNS
+want	_wantVVP
+to	_toTO
+find	_findVV
+the	_theDT
+genre	_genreNN
+freedom	B-movie.name
+writers	I-movie.name
+is	_beVBZ
+in	_inIN
+	
+what	_whatWP
+genre	_genreNN
+is	_beVBZ
+freedom	B-movie.name
+writers	I-movie.name
+in	_inIN
+	
+genre	_genreNN
+for	_forIN
+batman	B-movie.name
+	
+give	_giveVV
+me	_mePP
+the	_theDT
+genre	_genreNN
+of	_ofIN
+the	_theDT
+movie	_movieNN
+avatar	B-movie.name
+	
+i	_iNP
+would	_wouldMD
+like	_likeVV
+to	_toTO
+know	_knowVV
+the	_theDT
+genre	_genreNN
+of	_ofIN
+the	_theDT
+movie	_movieNN
+avatar	B-movie.name
+	
+genre	_genreNN
+for	_forIN
+bad	B-movie.name
+teacher	I-movie.name
+	
+can	_canMD
+you	_youPP
+tell	_tellVV
+me	_mePP
+pretty	B-movie.name
+girl	I-movie.name
+the	_theDT
+movie	_movieNN
+'s	_'sPOS
+genre	_genreNN
+	
+what	_whatWP
+genre	_genreNN
+is	_beVBZ
+the	_theDT
+movie	_movieNN
+pitch	B-movie.name
+perfect	I-movie.name
+	
+in	_inIN
+what	_whatWP
+language	_languageNN
+is	_beVBZ
+this	_thisDT
+movie	_movieNN
+	
+what	_whatWP
+language	_languageNN
+is	_beVBZ
+this	_thisDT
+movie	_movieNN
+	
+what	_whatWP
+language	_languageNN
+is	_beVBZ
+the	_theDT
+movie	_movieNN
+hero	B-movie.name
+in	_inIN
+	
+language	_languageNN
+of	_ofIN
+king	B-movie.name
+lear	I-movie.name
+	
+language	_languageNN
+of	_ofIN
+casa	B-movie.name
+blanca	I-movie.name
+	
+what	_whatWP
+language	_languageNN
+is	_beVBZ
+head	B-movie.name
+on	I-movie.name
+in	_inIN
+	
+language	_languageNN
+of	_ofIN
+spanglish	B-movie.name
+	
+find	_findVV
+out	_outRP
+what	_whatWP
+language	_languageNN
+the	B-movie.name
+father	I-movie.name
+of	I-movie.name
+my	I-movie.name
+children	I-movie.name
+is	_beVBZ
+in	_inIN
+	
+i	_iNNS
+am	_beVBP
+intersted	_interstedVVN
+in	_inIN
+viewing	_viewVVG
+belle	B-movie.name
+what	_whatWP
+foreign	_foreignJJ
+language	_languageNN
+is	_beVBZ
+the	_theDT
+movie	_movieNN
+available	_availableJJ
+in	_inIN
+	
+i	_iNNS
+need	_needVVP
+to	_toTO
+find	_findVV
+out	_outRP
+about	_aboutIN
+names	_nameNNS
+of	_ofIN
+some	_someDT
+japanese	B-movie.language
+movies	_movieNNS
+	
+can	_canMD
+you	_youPP
+tell	_tellVV
+me	_mePP
+names	_nameNNS
+of	_ofIN
+some	_someDT
+japanese	B-movie.language
+movies	_movieNNS
+	
+ron	B-producer.name
+howard	I-producer.name
+name	_nameVVP
+some	_someDT
+of	_ofIN
+the	_theDT
+movies	_movieNNS
+he	_hePP
+produce	_produceVVP
+	
+tell	_tellVV
+me	_mePP
+the	_theDT
+names	_nameNNS
+of	_ofIN
+the	_theDT
+movies	_movieNNS
+produced	_produceVVN
+by	_byIN
+william	B-producer.name
+packer	I-producer.name
+	
+about	_aboutIN
+life	B-movie.name
+is	I-movie.name
+beautiful	I-movie.name
+	
+show	_showVV
+me	_mePP
+info	_infoNN
+on	_onIN
+life	B-movie.name
+is	I-movie.name
+beautiful	I-movie.name
+	
+find	_findVV
+old	_oldJJ
+movies	_movieNNS
+	
+find	_findVV
+movie	_movieNN
+ratings	_ratingNNS
+	
+find	_findVV
+newly	_newlyRB
+released	_releaseVVN
+movies	_movieNNS
+in	_inIN
+spanish	B-movie.language
+	
+was	_beVBD
+bill	B-actor.name
+paxton	I-actor.name
+in	_inIN
+the	_theDT
+movie	_movieNN
+apollo	B-movie.name
+thirteen	I-movie.name
+	
+was	_beVBD
+kevin	B-actor.name
+bacon	I-actor.name
+in	_inIN
+the	_theDT
+movie	_movieNN
+apollo	B-movie.name
+thirteen	I-movie.name
+	
+find	_findVV
+movies	_movieNNS
+about	_aboutIN
+dancing	B-movie.subject
+	
+search	_searchNN
+for	_forIN
+movies	_movieNNS
+about	_aboutIN
+dancing	B-movie.subject
+	
+show	_showNN
+will	B-actor.name
+ferrell	I-actor.name
+films	_filmNNS
+	
+will	B-actor.name
+ferrell	I-actor.name
+movies	_movieNNS
+	
+what	_whatWP
+movies	_movieNNS
+has	_haveVHZ
+will	B-actor.name
+ferrell	I-actor.name
+appeared	_appearVVD
+in	_inIN
+	
+find	_findVV
+russian	B-movie.language
+movies	_movieNNS
+	
+show	_showVV
+me	_mePP
+the	_theDT
+movie	_movieNN
+pretty	B-movie.name
+women	B-movie.name
+so	_soIN
+i	_iNP
+can	_canMD
+see	_seeVV
+who	_whoWP
+starred	_starVVD
+in	_inIN
+the	_theDT
+movie	_movieNN
+	
+feral	B-movie.name
+	
+the	_theDT
+movie	_movieNN
+is	_beVBZ
+called	_callVVN
+big	B-movie.name
+	
+will	B-actor.name
+smith	I-actor.name
+acting	_actVVG
+carrer	_carrerNN
+	
+how	_howWRB
+many	_manyJJ
+movies	_movieNNS
+did	_doVVD
+peter	B-director.name
+jackson	I-director.name
+do	_doVVP
+	
+movies	_movieNNS
+and	_andCC
+gross	_grossJJ
+payment	_paymentNN
+	
+search	_searchNN
+for	_forIN
+tim	B-director.name
+burton	I-director.name
+movies	_movieNNS
+in	_inIN
+french	B-movie.language
+	
+exhibit	_exhibitVV
+all	_allDT
+details	_detailNNS
+of	_ofIN
+original	_originalJJ
+finding	B-movie.name
+nemo	I-movie.name
+movie	_movieNN
+	
+finding	B-movie.name
+nemo	I-movie.name
+movie	_movieNN
+	
+find	_findVV
+the	_theDT
+movie	_movieNN
+finding	B-movie.name
+nemo	I-movie.name
+	
+i	_iNNS
+am	_beVBP
+looking	_lookVVG
+for	_forIN
+information	_informationNN
+on	_onIN
+the	_theDT
+movie	_movieNN
+finding	B-movie.name
+nemo	I-movie.name
+	
+show	_showVV
+me	_mePP
+details	_detailNNS
+for	_forIN
+the	_theDT
+movie	_movieNN
+finding	B-movie.name
+nemo	I-movie.name
+	
+what	_whatWP
+did	_doVVD
+andrew	B-director.name
+stanton	I-director.name
+direct	_directJJ
+	
+show	_showVV
+me	_mePP
+some	_someDT
+other	_otherJJ
+movies	_movieNNS
+directed	_directVVN
+by	_byIN
+andrew	B-director.name
+stanton	I-director.name
+	
+display	_displayNN
+albert	B-actor.name
+brooks	I-actor.name
+movie	_movieNN
+	
+show	_showVV
+a	_aDT
+movie	_movieNN
+with	_withIN
+albert	B-actor.name
+brooks	I-actor.name
+in	_inIN
+the	_theDT
+cast	_castNN
+	
+what	_whatWP
+other	_otherJJ
+films	_filmNNS
+has	_haveVHZ
+sergio	B-director.name
+leone	I-director.name
+directed	_directVVD
+	
+what	_whatWP
+movies	_movieNNS
+has	_haveVHZ
+george	B-producer.name
+harrison	I-producer.name
+produced	_produceVVD
+	
+what	_whatWP
+has	_haveVHZ
+charlie	B-actor.name
+sheen	I-actor.name
+starred	_starVVN
+in	_inIN
+	
+please	_pleaseUH
+find	_findVV
+the	_theDT
+movies	_movieNNS
+in	_inIN
+which	_whichWDT
+clive	B-actor.name
+owen	I-actor.name
+has	_haveVHZ
+appeared	_appearVVN
+	
+in	_inIN
+which	_whichWDT
+movies	_movieNNS
+has	_haveVHZ
+clive	B-actor.name
+owen	I-actor.name
+appear	_appearVVP
+	
+spike	B-director.name
+lee	I-director.name
+directed	_directVVD
+what	_whatWP
+movie	_movieNN
+	
+search	_searchNN
+for	_forIN
+movies	_movieNNS
+directed	_directVVN
+by	_byIN
+spike	B-director.name
+lee	I-director.name
+	
+movie	_movieNN
+release	_releaseNN
+dates	_dateNNS
+	
+director	_directorNN
+information	_informationNN
+for	_forIN
+movies	_movieNNS
+	
+movies	_movieNNS
+by	_byIN
+director	_directorNN
+	
+please	_pleaseUH
+list	_listVV
+all	_allDT
+movies	_movieNNS
+not	_notRB
+rated	_rateVVN
+pg	B-rating.name
+	
+find	_findVV
+movies	_movieNNS
+	
+i	_iNNS
+want	_wantVVP
+a	_aDT
+list	_listNN
+of	_ofIN
+english	B-movie.language
+speaking	_speakingNN
+movies	_movieNNS
+	
+a	_aDT
+list	_listNN
+of	_ofIN
+movies	_movieNNS
+made	_makeVVN
+in	_inIN
+america	B-country.name
+	
+are	_beVBP
+there	_thereRB
+any	_anyDT
+movies	_movieNNS
+produced	_produceVVN
+in	_inIN
+the	B-country.name
+united	B-country.name
+states	I-country.name
+	
+show	_showVV
+english	B-movie.language
+movies	_movieNNS
+	
+search	_searchNN
+english	B-movie.language
+movies	_movieNNS
+	
+comedy	B-movie.genre
+	
+find	_findVV
+a	_aDT
+comedy	B-movie.genre
+	
+watch	_watchVV
+comedy	B-movie.genre
+movies	_movieNNS
+	
+get	_getVV
+horror	B-movie.genre
+films	_filmNNS
+	
+show	_showVV
+me	_mePP
+horror	B-movie.genre
+movies	_movieNNS
+	
+i	_iNNS
+want	_wantVVP
+to	_toTO
+see	_seeVV
+a	_aDT
+listing	_listingNN
+of	_ofIN
+horror	B-movie.genre
+movies	_movieNNS
+	
+show	_showNN
+actor	_actorNN
+bruce	B-actor.name
+willis	I-actor.name
+movies	_movieNNS
+	
+which	_whichWDT
+movies	_movieNNS
+did	_doVVD
+bruce	B-actor.name
+willis	I-actor.name
+star	_starJJ
+in	_inIN
+	
+list	_listNN
+movies	_movieNNS
+with	_withIN
+bruce	B-actor.name
+willis	I-actor.name
+	
+show	_showVV
+me	_mePP
+movies	_movieNNS
+made	_makeVVN
+in	_inIN
+canada	B-country.name
+	
+can	_canMD
+i	_iNNS
+watch	_watchVV
+a	_aDT
+canadian	B-country.name
+film	_filmNN
+	
+see	_seeVV
+canadian	B-country.name
+movies	_movieNNS
+	
+search	_searchNN
+for	_forIN
+information	_informationNN
+about	_aboutIN
+canadian	B-country.name
+movies	_movieNNS
+	
+I	_IPP
+'d	_willMD
+like	_likeVV
+to	_toTO
+see	_seeVV
+some	_someDT
+italian	B-country.name
+films	_filmNNS
+	
+show	_showVV
+me	_mePP
+something	_somethingNN
+italian	B-country.name
+-	_-:
+made	_makeVVN
+	
+i	_iNNS
+want	_wantVVP
+to	_toTO
+see	_seeVV
+a	_aDT
+movie	_movieNN
+from	_fromIN
+spain	B-country.name
+	
+find	_findVV
+movies	_movieNNS
+from	_fromIN
+spain	B-country.name
+	
+spain	B-country.name
+country	_countryNN
+movies	_movieNNS
+	
+display	_displayVV
+a	_aDT
+list	_listNN
+of	_ofIN
+spanish	B-country.name
+films	_filmNNS
+	
+spanish	B-country.name
+movie	_movieNN
+listing	_listingNN
+	
+spanish	B-country.name
+movies	_movieNNS
+	
+find	_findVV
+actors	_actorNNS
+in	_inIN
+movies	_movieNNS
+	
+search	_searchNN
+by	_byIN
+actors	_actorNNS
+	
+find	_findVV
+some	_someDT
+romantic	B-movie.genre
+movies	_movieNNS
+	
+i	_iNNS
+want	_wantVVP
+to	_toTO
+see	_seeVV
+a	_aDT
+movie	_movieNN
+in	_inIN
+french	B-movie.language
+	
+gwyneth	B-actor.name
+paltrow	I-actor.name
+movies	_movieNNS
+	
+find	_findVV
+movies	_movieNNS
+with	_withIN
+quentin	B-director.name
+tarantino	I-director.name
+as	_asIN
+director	_directorNN
+	
+england	B-country.name
+movies	_movieNNS
+	
+england	B-country.name
+movies	_movieNNS
+please	_pleaseVVP
+	
+find	_findVV
+david	B-actor.name
+tennant	I-actor.name
+movies	_movieNNS
+	
+show	_showVV
+me	_mePP
+what	_whatWP
+richard	B-director.name
+lester	I-director.name
+directed	_directVVD
+	
+get	_getVV
+films	_filmNNS
+in	_inIN
+hindi	B-movie.language
+	
+show	_showVV
+me	_mePP
+movies	_movieNNS
+from	_fromIN
+india	B-country.name
+	
+what	_whatWP
+is	_beVBZ
+a	_aDT
+british	B-country.name
+horror	B-movie.genre
+movie	_movieNN
+	
+i	_iNNS
+want	_wantVVP
+to	_toTO
+watch	_watchVV
+an	_anDT
+r	B-rating.name
+rated	_rateVVN
+comedy	B-movie.genre
+	
+list	_listNN
+of	_ofIN
+french	B-movie.language
+language	I-movie.language
+comedies	B-movie.genre
+	
+look	_lookNN
+for	_forIN
+dirty	B-movie.name
+dancing	I-movie.name
+movie	_movieNN
+with	_withIN
+jennifer	B-actor.name
+grey	I-actor.name
+	
+tell	_tellVV
+me	_mePP
+in	_inIN
+detail	_detailNN
+about	_aboutIN
+the	_theDT
+movie	_movieNN
+dirty	B-movie.name
+dancing	I-movie.name
+	
+tell	_tellVV
+about	_aboutIN
+movie	_movieNN
+dirty	B-movie.name
+dancing	I-movie.name
+	
+can	_canMD
+i	_iNNS
+see	_seeVV
+a	_aDT
+list	_listNN
+of	_ofIN
+bette	B-actor.name
+midler	I-actor.name
+movies	_movieNNS
+	
+list	_listNN
+of	_ofIN
+movies	_movieNNS
+starring	_starVVG
+bette	B-actor.name
+midler	I-actor.name
+	
+show	_showVV
+me	_mePP
+all	_allRB
+of	_ofIN
+anne	B-actor.name
+hathaway	I-actor.name
+'s	_'sPOS
+movies	_movieNNS
+	
+what	_whatWP
+movies	_movieNNS
+has	_haveVHZ
+sandra	B-producer.name
+bullock	I-producer.name
+produced	_produceVVD
+	
+find	_findVV
+me	_mePP
+movies	_movieNNS
+from	_fromIN
+portugal	B-country.name
+	
+what	_whatWP
+movies	_movieNNS
+has	_haveVHZ
+robert	B-actor.name
+redford	I-actor.name
+been	_beVBN
+in	_inIN
+	
+dirty	B-movie.name
+dancing	I-movie.name
+info	_infoNN
+	
+dirty	B-movie.name
+dancing	I-movie.name
+	
+give	_giveVV
+a	_aDT
+short	_shortJJ
+bio	_bioNN
+for	_forIN
+dirty	B-movie.name
+dancing	I-movie.name
+	
+about	_aboutIN
+dirty	B-movie.name
+dancing	I-movie.name
+	
+movies	_movieNNS
+from	_fromIN
+japan	B-country.name
+	
+show	_showNN
+movies	_movieNNS
+from	_fromIN
+japan	B-country.name
+	
+list	_listNN
+japanese	B-movie.language
+movies	_movieNNS
+	
+show	_showVV
+me	_mePP
+japanese	B-movie.language
+movies	_movieNNS
+	
+give	_giveVV
+me	_mePP
+a	_aDT
+list	_listNN
+of	_ofIN
+some	_someDT
+japanese	B-movie.language
+movies	_movieNNS
+	
+give	_giveVV
+me	_mePP
+a	_aDT
+list	_listNN
+of	_ofIN
+japanese	B-movie.language
+movies	_movieNNS
+	
+japanese	B-movie.language
+movies	_movieNNS
+	
+show	_showVV
+me	_mePP
+japanese	B-movie.language
+language	I-movie.language
+movies	_movieNNS
+	
+which	_whichWDT
+films	_filmNNS
+are	_beVBP
+spoken	_speakVVN
+in	_inIN
+japanese	B-movie.language
+	
+miramax	B-producer.name
+films	I-producer.name
+only	_onlyRB
+	
+show	_showNN
+movies	_movieNNS
+by	_byIN
+miramax	B-producer.name
+	
+search	_searchNN
+sandra	B-actor.name
+bullock	I-actor.name
+movies	_movieNNS
+	
+watch	_watchNN
+sandra	B-actor.name
+bullock	I-actor.name
+movies	_movieNNS
+	
+find	_findVV
+movies	_movieNNS
+about	_aboutIN
+vampires	B-movie.subject
+	
+find	_findVV
+movies	_movieNNS
+having	_haveVHG
+vampires	B-movie.subject
+	
+will	B-actor.name
+smith	I-actor.name
+movies	_movieNNS
+	
+cars	B-movie.name
+movie	_movieNN
+	
+what	_whatWP
+movies	_movieNNS
+did	_doVVD
+darla	B-producer.name
+anderson	I-producer.name
+produce	_produceNN
+	
+what	_whatWP
+films	_filmNNS
+are	_beVBP
+made	_makeVVN
+by	_byIN
+paramount	B-producer.name
+	
+show	_showVV
+me	_mePP
+movies	_movieNNS
+by	_byIN
+paramount	B-producer.name
+	
+what	_whatWP
+movies	_movieNNS
+has	_haveVHZ
+paramount	B-producer.name
+released	_releaseVVN
+	
+show	_showVV
+all	_allDT
+movies	_movieNNS
+from	_fromIN
+turkey	B-country.name
+	
+show	_showVV
+me	_mePP
+movies	_movieNNS
+produced	_produceVVN
+by	_byIN
+bruce	B-producer.name
+lee	I-producer.name
+	
+is	_beVBZ
+parenthood	B-movie.name
+a	_aDT
+drama	B-movie.genre
+	
+i	_iNNS
+want	_wantVVP
+to	_toTO
+see	_seeVV
+an	_anDT
+kevin	B-actor.name
+james	I-actor.name
+film	_filmNN
+tonight	_tonightNN
+	
+find	_findVV
+films	_filmNNS
+from	_fromIN
+china	B-country.name
+	
+get	_getVV
+films	_filmNNS
+from	_fromIN
+china	B-country.name
+	
+i	_iNP
+'d	_willMD
+like	_likeVV
+to	_toTO
+watch	_watchVV
+a	_aDT
+movie	_movieNN
+made	_makeVVN
+in	_inIN
+china	B-country.name
+	
+list	_listVV
+some	_someDT
+movies	_movieNNS
+from	_fromIN
+china	B-country.name
+	
+chinese	B-movie.language
+films	_filmNNS
+	
+show	_showVV
+me	_mePP
+other	_otherJJ
+chinese	B-movie.language
+movies	_movieNNS
+	
+show	_showVV
+me	_mePP
+chinese	B-movie.language
+movies	_movieNNS
+	
+what	_whatWP
+movies	_movieNNS
+have	_haveVHP
+a	_aDT
+pg-13	B-rating.name
+rating	_ratingNN
+	
+please	_pleaseVV
+list	_listNN
+movies	_movieNNS
+that	_thatWDT
+are	_beVBP
+rated	_rateVVN
+pg-13	B-rating.name
+	
+i	_iNNS
+need	_needVVP
+a	_aDT
+g	B-rating.name
+rating	_ratingNN
+so	_soIN
+i	_iNP
+can	_canMD
+take	_takeVV
+the	_theDT
+kids	_kidNNS
+	
+find	_findVV
+a	_aDT
+g	B-rating.name
+rated	_rateVVN
+movie	_movieNN
+	
+find	_findVV
+g	B-rating.name
+movies	_movieNNS
+	
+find	_findVV
+g	B-rating.name
+movies	_movieNNS
+	
+i	_iNNS
+want	_wantVVP
+rated	_rateVVN
+g	B-rating.name
+movies	_movieNNS
+	
+look	_lookVV
+up	_upRP
+g	B-rating.name
+rated	_rateVVN
+movies	_movieNNS
+	
+i	_iNNS
+am	_beVBP
+searching	_searchVVG
+for	_forIN
+any	_anyDT
+g	B-rating.name
+rated	_rateVVN
+movies	_movieNNS
+for	_forIN
+my	_myPP$
+children	_childNNS
+to	_toTO
+view	_viewVV
+	
+rated	_rateVVN
+g	B-rating.name
+movies	_movieNNS
+for	_forIN
+family	_familyNN
+watching	_watchingNN
+	
+find	_findVV
+g	B-rating.name
+rated	_rateVVN
+movies	_movieNNS
+	
+are	_beVBP
+there	_thereRB
+any	_anyDT
+movies	_movieNNS
+rated	_rateVVD
+g	B-rating.name
+playing	_playingNN
+	
+i	_iNNS
+want	_wantVVP
+to	_toTO
+see	_seeVV
+movies	_movieNNS
+rated	_rateVVN
+g	B-rating.name
+	
+find	_findVV
+movies	_movieNNS
+rated	_rateVVN
+g	B-rating.name
+	
+show	_showVV
+me	_mePP
+movies	_movieNNS
+with	_withIN
+g	B-rating.name
+rating	_ratingNN
+	
+did	_doVVD
+robert	B-director.name
+wise	I-director.name
+direct	_directVV
+any	_anyDT
+other	_otherJJ
+musicals	_musicalNNS
+	
+bruce	B-producer.name
+lee	I-producer.name
+produced	_produceVVD
+movie	_movieNN
+listing	_listingNN
+	
+what	_whatWP
+was	_beVBD
+the	_theDT
+last	_lastJJ
+movie	_movieNN
+made	_makeVVN
+by	_byIN
+robert	B-director.name
+wise	I-director.name
+	
+find	_findVV
+movies	_movieNNS
+produced	_produceVVN
+by	_byIN
+mgm	B-producer.name
+	
+show	_showVV
+me	_mePP
+british	B-country.name
+made	_makeVVD
+movies	_movieNNS
+	
+movies	_movieNNS
+from	_fromIN
+the	B-country.name
+uk	I-country.name
+	
+find	_findVV
+me	_mePP
+movies	_movieNNS
+from	_fromIN
+the	B-country.name
+uk	I-country.name
+	
+can	_canMD
+you	_youPP
+list	_listVV
+ron	B-producer.name
+howard	I-producer.name
+movie	_movieNN
+production	_productionNN
+	
+i	_iNNS
+need	_needVVP
+to	_toTO
+know	_knowVV
+the	_theDT
+movies	_movieNNS
+produce	_produceVVP
+by	_byIN
+ron	B-producer.name
+howard	I-producer.name
+	
+did	_doVVD
+clint	B-director.name
+eastwood	I-director.name
+direct	_directVV
+any	_anyDT
+other	_otherJJ
+movies	_movieNNS
+besides	_besidesIN
+million	B-movie.name
+dollar	I-movie.name
+baby	I-movie.name
+	
+find	_findVV
+movies	_movieNNS
+directed	_directVVN
+by	_byIN
+clint	B-director.name
+eastwood	I-director.name
+	
+what	_whatWP
+movies	_movieNNS
+have	_haveVHP
+been	_beVBN
+directed	_directVVN
+by	_byIN
+clint	B-director.name
+eastwood	I-director.name
+	
+list	_listVV
+all	_allDT
+movies	_movieNNS
+that	_thatWDT
+were	_beVBD
+directed	_directVVN
+by	_byIN
+clint	B-director.name
+eastwood	I-director.name
+	
+what	_whatWP
+movies	_movieNNS
+has	_haveVHZ
+clint	B-director.name
+eastwood	I-director.name
+directed	_directVVD
+	
+show	_showNN
+movies	_movieNNS
+directed	_directVVN
+by	_byIN
+clint	B-director.name
+eastwood	I-director.name
+	
+find	_findVV
+all	_allDT
+films	_filmNNS
+by	_byIN
+stanley	B-director.name
+kubrick	I-director.name
+	
+i	_iNNS
+want	_wantVVP
+to	_toTO
+select	_selectVV
+the	_theDT
+option	_optionNN
+to	_toTO
+search	_searchVV
+for	_forIN
+movies	_movieNNS
+produced	_produceVVN
+by	_byIN
+stephen	B-producer.name
+spielberg	I-producer.name
+	
+i	_iNP
+would	_wouldMD
+like	_likeVV
+to	_toTO
+search	_searchVV
+for	_forIN
+movies	_movieNNS
+produced	_produceVVN
+by	_byIN
+stephen	B-producer.name
+speilberg	I-producer.name
+	
+show	_showVV
+me	_mePP
+japanese	B-movie.language
+horror	B-movie.genre
+movies	_movieNNS
+	
+i	_iNP
+would	_wouldMD
+like	_likeVV
+to	_toTO
+see	_seeVV
+movies	_movieNNS
+ron	B-director.name
+howard	I-director.name
+directed	_directVVN
+	
+movies	_movieNNS
+by	_byIN
+stephen	B-producer.name
+spielberg	I-director.name
+	
+movies	_movieNNS
+by	_byIN
+stephen	B-producer.name
+spielberg	I-director.name
+	
+what	_whatWP
+movies	_movieNNS
+did	_doVVD
+stephen	B-producer.name
+spielberg	I-director.name
+direct	_directJJ
+	
+list	_listNN
+steven	B-director.name
+spielberg	I-director.name
+movies	_movieNNS
+	
+steven	B-director.name
+spielberg	I-director.name
+movie	_movieNN
+	
+steven	B-director.name
+spielberg	I-director.name
+movies	_movieNNS
+please	_pleaseVVP
+	
+directed	_directVVN
+by	_byIN
+steven	B-director.name
+spielberg	I-director.name
+	
+find	_findVV
+the	_theDT
+steven	B-director.name
+spielberg	I-director.name
+movies	_movieNNS
+	
+find	_findVV
+movies	_movieNNS
+from	_fromIN
+steven	B-director.name
+spielberg	I-director.name
+	
+i	_iNP
+would	_wouldMD
+like	_likeVV
+to	_toTO
+watch	_watchVV
+a	_aDT
+movie	_movieNN
+directed	_directVVN
+by	_byIN
+eddie	B-director.name
+murphy	I-director.name
+	
+the	B-movie.name
+camp	I-movie.name
+	
+watch	_watchNN
+sandra	B-actor.name
+bullock	I-actor.name
+the	B-movie.name
+blind	I-movie.name
+side	I-movie.name
+	
+i	_iNNS
+want	_wantVVP
+to	_toTO
+see	_seeVV
+movies	_movieNNS
+with	_withIN
+hugh	B-actor.name
+jackman	I-actor.name
+	
+list	_listNN
+movies	_movieNNS
+with	_withIN
+kevin	B-actor.name
+spacey	I-actor.name
+	
+look	_lookNN
+for	_forIN
+movies	_movieNNS
+from	_fromIN
+france	B-country.name
+	
+can	_canMD
+you	_youPP
+show	_showVV
+me	_mePP
+movies	_movieNNS
+that	_thatWDT
+were	_beVBD
+made	_makeVVN
+in	_inIN
+france	B-country.name
+	
+find	_findVV
+me	_mePP
+any	_anyDT
+movies	_movieNNS
+that	_thatWDT
+were	_beVBD
+made	_makeVVN
+in	_inIN
+france	B-country.name
+	
+french	B-movie.language
+movies	_movieNNS
+please	_pleaseVVP
+	
+french	B-movie.language
+movies	_movieNNS
+	
+find	_findVV
+movies	_movieNNS
+produced	_produceVVN
+by	_byIN
+	
+movies	_movieNNS
+by	_byIN
+producers	_producerNNS
+	
+display	_displayNN
+movies	_movieNNS
+produced	_produceVVN
+by	_byIN
+	
+find	_findVV
+movies	_movieNNS
+produced	_produceVVN
+by	_byIN
+mosfilm	B-producer.name
+	
+what	_whatWP
+was	_beVBD
+kristen	B-actor.name
+stewart	I-actor.name
+'s	_'sPOS
+first	_firstJJ
+movie	_movieNN
+	
+get	_getVV
+me	_mePP
+movies	_movieNNS
+directed	_directVVN
+by	_byIN
+miranda	B-director.name
+july	I-director.name
+	
+tom	B-actor.name
+hanks	I-actor.name
+movies	_movieNNS
+	
+show	_showVV
+me	_mePP
+movies	_movieNNS
+with	_withIN
+tom	B-actor.name
+hanks	I-actor.name
+	
+i	_iNNS
+am	_beVBP
+trying	_tryVVG
+to	_toTO
+find	_findVV
+a	_aDT
+list	_listNN
+of	_ofIN
+movies	_movieNNS
+with	_withIN
+tom	B-actor.name
+hanks	I-actor.name
+	
+provide	_provideVV
+movies	_movieNNS
+directed	_directVVN
+by	_byIN
+oliver	B-director.name
+stone	I-director.name
+please	_pleaseVV
+	
+i	_iNNS
+want	_wantVVP
+to	_toTO
+look	_lookVV
+for	_forIN
+movies	_movieNNS
+produced	_produceVVN
+by	_byIN
+albert	B-producer.name
+ruddy	I-producer.name
+	
+what	_whatWP
+are	_beVBP
+all	_allRB
+of	_ofIN
+the	_theDT
+movies	_movieNNS
+produced	_produceVVN
+by	_byIN
+albert	B-producer.name
+ruddy	I-producer.name
+	
+movies	_movieNNS
+produced	_produceVVN
+by	_byIN
+yash	B-producer.name
+chopra	I-producer.name
+	
+what	_whatWP
+did	_doVVD
+brad	B-producer.name
+pitt	I-producer.name
+porduce	_porduceNN
+	
+bring	_bringVV
+up	_upRP
+all	_allDT
+brad	B-producer.name
+pitt	I-producer.name
+produced	_produceVVD
+movies	_movieNNS
+	
+show	_showVV
+all	_allDT
+movies	_movieNNS
+that	_thatIN/that
+penny	B-director.name
+marshall	I-director.name
+directed	_directVVD
+	
+i	_iNNS
+need	_needVVP
+a	_aDT
+list	_listNN
+of	_ofIN
+all	_allPDT
+the	_theDT
+movies	_movieNNS
+directed	_directVVN
+by	_byIN
+james	B-director.name
+cameron	I-director.name
+	
+give	_giveVV
+me	_mePP
+a	_aDT
+list	_listNN
+of	_ofIN
+all	_allPDT
+the	_theDT
+movies	_movieNNS
+directed	_directVVN
+by	_byIN
+james	B-director.name
+cameron	I-director.name
+	
+james	B-producer.name
+cameron	I-producer.name
+movies	_movieNNS
+produced	_produceVVD
+	
+movies	_movieNNS
+produced	_produceVVN
+by	_byIN
+james	B-producer.name
+cameron	I-producer.name
+	
+what	_whatWP
+films	_filmNNS
+have	_haveVHP
+been	_beVBN
+produced	_produceVVN
+by	_byIN
+warner	B-producer.name
+bros.	I-producer.name
+	
+find	_findVV
+movies	_movieNNS
+produced	_produceVVN
+by	_byIN
+warner	B-producer.name
+bros.	I-producer.name
+	
+what	_whatWP
+movies	_movieNNS
+have	_haveVHP
+been	_beVBN
+produced	_produceVVN
+by	_byIN
+warner	B-producer.name
+bros.	I-producer.name
+	
+show	_showVV
+me	_mePP
+movies	_movieNNS
+by	B-producer.name
+wb	_wbNN
+	
+give	_giveVV
+me	_mePP
+information	_informationNN
+about	_aboutIN
+finding	B-movie.name
+nemo	I-movie.name
+	
+i	_iNNS
+want	_wantVVP
+information	_informationNN
+about	_aboutIN
+finding	B-movie.name
+nemo	I-movie.name
+	
+show	_showVV
+me	_mePP
+finding	B-movie.name
+nemo	I-movie.name
+	
+finding	B-movie.name
+nemo	I-movie.name
+bing	_bingNNS
+	
+search	_searchNN
+finding	B-movie.name
+nemo	I-movie.name
+	
+show	_showNN
+information	_informationNN
+page	_pageNN
+for	_forIN
+finding	B-movie.name
+nemo	I-movie.name
+	
+the	B-movie.name
+campaign	I-movie.name
+information	_informationNN
+	
+more	_moreJJR
+information	_informationNN
+on	_onIN
+apallo	B-movie.name
+thirteen	I-movie.name
+	
+research	_researchNN
+apollo	B-movie.name
+thirteen	I-movie.name
+	
+has	_haveVHZ
+kristen	B-actor.name
+stewart	I-actor.name
+starred	_starVVN
+in	_inIN
+movies	_movieNNS
+other	_otherJJ
+than	_thanIN
+twilight	B-movie.name
+	
+show	_showVV
+me	_mePP
+kristen	B-actor.name
+stewart	I-actor.name
+movies	_movieNNS
+	
+what	_whatWP
+movies	_movieNNS
+has	_haveVHZ
+kristen	B-actor.name
+stewarted	I-actor.name
+starred	_starVVN
+in	_inIN
+	
+lionsgate	B-producer.name
+movies	_movieNNS
+	
+show	_showNN
+lionsgate	B-producer.name
+movies	_movieNNS
+	
+show	_showNN
+movies	_movieNNS
+made	_makeVVN
+by	_byIN
+production	_productionNN
+lionsgate	B-producer.name
+	
+give	_giveVV
+me	_mePP
+something	_somethingNN
+by	_byIN
+charles	B-director.name
+vidor	I-director.name
+	
+show	_showNN
+charles	B-director.name
+vidor	I-director.name
+movie	_movieNN
+	
+what	_whatWP
+film	_filmNN
+did	_doVVD
+charles	B-director.name
+vidor	I-director.name
+direct	_directJJ
+	
+which	_whichWDT
+movies	_movieNNS
+have	_haveVHP
+been	_beVBN
+made	_makeVVN
+outside	_outsideIN
+the	B-country.name
+united	I-country.name
+states	I-country.name
+	
+find	_findVV
+me	_mePP
+nigeria	B-country.name
+movies	_movieNNS
+	
+display	_displayNN
+7	B-producer.name
+arts	I-producer.name
+movies	_movieNNS
+	
+korean	B-movie.language
+movie	_movieNN
+	
+what	_whatWP
+other	_otherJJ
+movies	_movieNNS
+did	_doVVD
+roberto	B-actor.name
+benigni	I-actor.name
+star	_starJJ
+in	_inIN
+	
+i	_iNNS
+want	_wantVVP
+to	_toTO
+see	_seeVV
+movies	_movieNNS
+starring	_starVVG
+denzel	B-actor.name
+washington	I-actor.name
+please	_pleaseVVP
+	
+list	_listVV
+the	_theDT
+kareena	B-actor.name
+'s	_'sPOS
+movie	_movieNN
+	
+i	_iNNS
+want	_wantVVP
+to	_toTO
+watch	_watchVV
+a	_aDT
+drama	B-movie.genre
+made	_makeVVN
+in	_inIN
+turkey	B-country.name
+	
+jennifer	B-actor.name
+lopez	I-actor.name
+played	_playVVD
+in	_inIN
+what	_whatWP
+movies	_movieNNS
+	
+show	_showVV
+me	_mePP
+all	_allRB
+of	_ofIN
+the	_theDT
+movies	_movieNNS
+directed	_directVVN
+by	_byIN
+woody	B-director.name
+allen	I-director.name
+	
+show	_showNN
+robert	B-director.name
+wise	I-director.name
+movies	_movieNNS
+	
+want	_wantVVP
+to	_toTO
+see	_seeVV
+robert	B-director.name
+wise	I-director.name
+movies	_movieNNS
+	
+what	_whatWP
+movies	_movieNNS
+has	_haveVHZ
+robert	B-director.name
+wise	I-director.name
+directed	_directVVD
+	
+what	_whatWP
+movies	_movieNNS
+have	_haveVHP
+robert	B-director.name
+wise	I-director.name
+directed	_directVVD
+	
+where	_whereWRB
+can	_canMD
+i	_iNNS
+find	_findVV
+a	_aDT
+list	_listNN
+of	_ofIN
+movies	_movieNNS
+produced	_produceVVN
+by	_byIN
+chris	B-producer.name
+nolan	I-producer.name
+	
+what	_whatWP
+movies	_movieNNS
+has	_haveVHZ
+brad	B-actor.name
+pitt	I-actor.name
+been	_beVBN
+in	_inIN
+	
+what	_whatWP
+are	_beVBP
+the	_theDT
+movies	_movieNNS
+brad	B-actor.name
+pitt	I-actor.name
+had	_haveVHD
+been	_beVBN
+in	_inIN
+	
+what	_whatWP
+are	_beVBP
+some	_someDT
+movies	_movieNNS
+with	_withIN
+brad	B-actor.name
+pitt	I-actor.name
+	
+find	_findVV
+an	_anDT
+r	B-rating.name
+rated	_rateVVN
+movie	_movieNN
+	
+show	_showVV
+me	_mePP
+r	B-rating.name
+rated	_rateVVN
+movies	_movieNNS
+	
+give	_giveVV
+me	_mePP
+a	_aDT
+list	_listNN
+of	_ofIN
+r	B-rating.name
+rated	_rateVVN
+movies	_movieNNS
+	
+look	_lookVV
+up	_upRB
+r	B-rating.name
+rated	_rateVVN
+movies	_movieNNS
+	
+i	_iNNS
+want	_wantVVP
+only	_onlyRB
+r	B-rating.name
+rated	_rateVVN
+movies	_movieNNS
+	
+i	_iNNS
+want	_wantVVP
+to	_toTO
+see	_seeVV
+a	_aDT
+list	_listNN
+of	_ofIN
+rated	_rateVVN
+r	B-rating.name
+movies	_movieNNS
+	
+show	_showVV
+me	_mePP
+only	_onlyJJ
+movies	_movieNNS
+with	_withIN
+a	_aDT
+rating	_ratingNN
+of	_ofIN
+r	B-rating.name
+	
+please	_pleaseUH
+look	_lookVV
+for	_forIN
+movies	_movieNNS
+with	_withIN
+an	_anDT
+r	B-rating.name
+rating	_ratingNN
+	
+show	_showVV
+me	_mePP
+movies	_movieNNS
+rated	_rateVVN
+r	B-rating.name
+	
+look	_lookNN
+for	_forIN
+movies	_movieNNS
+with	_withIN
+an	_anDT
+r	B-rating.name
+rating	_ratingNN
+	
+give	_giveVV
+me	_mePP
+a	_aDT
+list	_listNN
+of	_ofIN
+all	_allDT
+movies	_movieNNS
+that	_thatWDT
+are	_beVBP
+rated	_rateVVN
+r	B-rating.name
+	
+i	_iNNS
+want	_wantVVP
+to	_toTO
+watch	_watchVV
+movies	_movieNNS
+from	_fromIN
+norway	B-country.name
+	
+can	_canMD
+i	_iNP
+have	_haveVHP
+a	_aDT
+list	_listNN
+of	_ofIN
+spanish	B-movie.language
+speaking	_speakingNN
+movies	_movieNNS
+	
+show	_showVV
+me	_mePP
+movies	_movieNNS
+made	_makeVVN
+in	_inIN
+mexico	B-country.name
+	
+show	_showVV
+me	_mePP
+the	_theDT
+movie	_movieNN
+pot	B-movie.name
+zombies	I-movie.name
+	
+what	_whatWP
+movies	_movieNNS
+have	_haveVHP
+zombies	B-movie.subject
+in	_inIN
+them	_themPP
+	
+show	_showVV
+me	_mePP
+movies	_movieNNS
+about	_aboutIN
+zombies	B-movie.subject
+	
+show	_showVV
+me	_mePP
+movies	_movieNNS
+about	_aboutIN
+zombies	B-movie.subject
+	
+show	_showVV
+me	_mePP
+ones	_oneNNS
+by	_byIN
+david	B-director.name
+fincher	I-director.name
+	
+show	_showVV
+ridley	B-director.name
+scott	I-director.name
+'s	_'sPOS
+filmography	_filmographyNN
+	
+find	_findVV
+ridley	B-director.name
+scott	I-director.name
+movies	_movieNNS
+	
+can	_canMD
+you	_youPP
+show	_showVV
+me	_mePP
+movies	_movieNNS
+directed	_directVVN
+by	_byIN
+ridley	B-director.name
+scott	I-director.name
+	
+list	_listNN
+german	B-movie.language
+movies	_movieNNS
+	
+german	B-movie.language
+movies	_movieNNS
+	
+find	_findVV
+action	B-movie.genre
+films	_filmNNS
+	
+find	_findVV
+some	_someDT
+action	B-movie.genre
+movies	_movieNNS
+	
+list	_listNN
+dredd	B-movie.name
+movie	_movieNN
+	
+show	_showVV
+me	_mePP
+george	B-director.name
+lucas	I-director.name
+movies	_movieNNS
+	
+find	_findVV
+movies	_movieNNS
+directed	_directVVN
+by	_byIN
+george	B-director.name
+lucas	I-director.name
+	
+produced	_produceVVN
+by	_byIN
+	
+please	_pleaseUH
+find	_findVV
+movies	_movieNNS
+produced	_produceVVN
+by	_byIN
+morgan	B-producer.name
+freeman	I-producer.name
+	
+please	_pleaseUH
+look	_lookVV
+up	_upRP
+movies	_movieNNS
+produced	_produceVVN
+by	_byIN
+morgan	B-producer.name
+freeman	I-producer.name
+	
+search	_searchNN
+for	_forIN
+movies	_movieNNS
+produced	_produceVVN
+by	_byIN
+morgan	B-producer.name
+freeman	I-producer.name
+	
+find	_findVV
+movies	_movieNNS
+produced	_produceVVN
+by	_byIN
+morgan	B-producer.name
+freeman	I-producer.name
+	
+look	_lookVV
+up	_upRP
+movies	_movieNNS
+produced	_produceVVN
+by	_byIN
+morgan	B-producer.name
+freeman	I-producer.name
+	
+what	_whatWP
+movies	_movieNNS
+has	_haveVHZ
+meryl	B-actor.name
+streep	I-actor.name
+starred	_starVVN
+in	_inIN
+	
+show	_showVV
+me	_mePP
+the	_theDT
+movies	_movieNNS
+directed	_directVVN
+by	_byIN
+the	_theDT
+director	_directorNN
+of	_ofIN
+this	_thisDT
+movie	_movieNN
+	
+i	_iNNS
+want	_wantVVP
+to	_toTO
+see	_seeVV
+movies	_movieNNS
+made	_makeVVN
+in	_inIN
+russia	B-country.name
+	
+look	_lookVVP
+up	_upRB
+star	B-movie.name
+wars	I-movie.name
+four	I-movie.name
+movie	_movieNN
+	
+display	_displayVV
+all	_allDT
+details	_detailNNS
+about	_aboutIN
+star	B-movie.name
+wars	I-movie.name
+-	I-movie.name
+a	I-movie.name
+new	I-movie.name
+hope	I-movie.name
+movie	_movieNN
+	
+get	_getVV
+all	_allDT
+details	_detailNNS
+about	_aboutIN
+star	B-movie.name
+wars	I-movie.name
+-	I-movie.name
+a	I-movie.name
+new	I-movie.name
+hope	I-movie.name
+movie	_movieNN
+	
+star	B-movie.name
+wars	I-movie.name
+episode	I-movie.name
+four	I-movie.name
+	
+i	_iNNS
+want	_wantVVP
+star	B-movie.name
+wars	I-movie.name
+four	I-movie.name
+main	_mainJJ
+page	_pageNN
+	
+search	_searchNN
+star	B-movie.name
+wars	I-movie.name
+four	I-movie.name
+	
+find	_findVV
+me	_mePP
+tons	_tonNNS
+of	_ofIN
+info	_infoNN
+related	_relateVVN
+to	_toTO
+star	B-movie.name
+wars	I-movie.name
+four	I-movie.name
+	
+get	_getVV
+details	_detailNNS
+of	_ofIN
+in	B-movie.name
+july	I-movie.name
+movie	_movieNN
+	
+find	_findVV
+details	_detailNNS
+of	_ofIN
+in	B-movie.name
+july	I-movie.name
+movie	_movieNN
+	
+show	_showNN
+details	_detailNNS
+of	_ofIN
+in	B-movie.name
+july	I-movie.name
+movie	_movieNN
+	
+tell	_tellVV
+me	_mePP
+about	_aboutRB
+in	B-movie.name
+july	I-movie.name
+movie	_movieNN
+	
+look	_lookVV
+up	_upRP
+the	_theDT
+movie	_movieNN
+in	B-movie.name
+july	I-movie.name
+	
+display	_displayNN
+information	_informationNN
+for	_forIN
+the	_theDT
+movie	_movieNN
+title	_titleNN
+in	B-movie.name
+july	I-movie.name
+	
+movie	_movieNN
+in	B-movie.name
+july	I-movie.name
+data	_datumNNS
+	
+where	_whereWRB
+can	_canMD
+i	_iNNS
+find	_findVV
+the	_theDT
+movie	_movieNN
+aankhen	B-movie.name
+in	_inIN
+hindi	B-movie.language
+	
+display	_displayNN
+julia	B-actor.name
+roberts	I-actor.name
+films	_filmNNS
+	
+list	_listVV
+the	_theDT
+movies	_movieNNS
+that	_thatWDT
+have	_haveVHP
+the	_theDT
+actress	_actressNN
+angelina	B-actor.name
+jolie	I-actor.name
+	
+dustin	B-actor.name
+hoffman	I-actor.name
+movies	_movieNNS
+	
+what	_whatWP
+movies	_movieNNS
+did	_doVVD
+david	B-director.name
+ayer	I-director.name
+direct	_directJJ
+	
+i	_iNP
+would	_wouldMD
+like	_likeVV
+to	_toTO
+view	_viewVV
+movies	_movieNNS
+produced	_produceVVN
+by	_byIN
+clint	B-producer.name
+eastwood	I-producer.name
+	
+list	_listVV
+all	_allDT
+movies	_movieNNS
+about	_aboutIN
+horses	B-movie.subject
+	
+find	_findVV
+all	_allDT
+johnny	B-actor.name
+depp	I-actor.name
+movies	_movieNNS
+	
+search	_searchNN
+by	_byIN
+director	_directorNN
+	
+search	_searchNN
+by	_byIN
+director	_directorNN
+	
+is	_beVBZ
+there	_thereRB
+any	_anyDT
+upcoming	_upcomingJJ
+movies	_movieNNS
+from	_fromIN
+warner	B-producer.name
+brothers	I-producer.name
+	
+bring	_bringVV
+up	_upRP
+movies	_movieNNS
+with	_withIN
+ice	B-movie.subject
+skating	I-movie.subject
+in	_inIN
+it	_itPP
+	
+find	_findVV
+newly	_newlyRB
+released	_releaseVVN
+comedies	B-movie.genre
+from	_fromIN
+england	B-country.name
+	
+i	_iNP
+need	_needNN
+info	_infoNN
+on	_onIN
+house	B-movie.name
+at	I-movie.name
+the	I-movie.name
+end	I-movie.name
+of	I-movie.name
+the	I-movie.name
+street	I-movie.name
+	
+what	_whatWP
+is	_beVBZ
+the	_theDT
+houses	B-movie.name
+at	I-movie.name
+the	I-movie.name
+end	I-movie.name
+of	I-movie.name
+the	I-movie.name
+street	I-movie.name
+about	_aboutRB
+	
+give	_giveVV
+me	_mePP
+more	_moreJJR
+facts	_factNNS
+about	_aboutIN
+the	_theDT
+movie	_movieNN
+house	B-movie.name
+at	I-movie.name
+the	I-movie.name
+end	I-movie.name
+of	I-movie.name
+the	I-movie.name
+street	I-movie.name
+in	_inIN
+detail	_detailNN
+	
+i	_iNP
+would	_wouldMD
+like	_likeVV
+to	_toTO
+know	_knowVV
+in	_inIN
+detail	_detailNN
+about	_aboutIN
+the	_theDT
+movie	_movieNN
+house	B-movie.name
+at	I-movie.name
+the	I-movie.name
+end	I-movie.name
+of	I-movie.name
+the	I-movie.name
+street	I-movie.name
+	
+display	_displayNN
+movie	_movieNN
+information	_informationNN
+for	_forIN
+the	_theDT
+film	_filmNN
+house	B-movie.name
+at	I-movie.name
+the	I-movie.name
+end	I-movie.name
+of	I-movie.name
+the	I-movie.name
+street	I-movie.name
+	
+films	_filmNNS
+with	_withIN
+chinese	B-movie.language
+	
+i	_iNNS
+want	_wantVVP
+to	_toTO
+watch	_watchVV
+a	_aDT
+movie	_movieNN
+in	_inIN
+chinese	B-movie.language
+	
+find	_findVV
+movies	_movieNNS
+produced	_produceVVN
+and	_andCC
+directed	_directVVN
+by	_byIN
+tyler	B-producer.name
+perry	I-producer.name
+	
+tom	B-actor.name
+cruise	I-actor.name
+movies	_movieNNS
+please	_pleaseVVP
+	
+i	_iNNS
+want	_wantVVP
+tom	B-actor.name
+cruise	I-actor.name
+movies	_movieNNS
+please	_pleaseVVP
+	
+which	_whichWDT
+movies	_movieNNS
+star	_starVVP
+tom	B-actor.name
+cruise	I-actor.name
+	
+which	_whichWDT
+movies	_movieNNS
+do	_doVVP
+tom	B-actor.name
+cruise	I-actor.name
+play	_playVVP
+in	_inIN
+	
+find	_findVV
+end	B-movie.name
+of	I-movie.name
+watch	I-movie.name
+	
+search	_searchNN
+by	_byIN
+genre	_genreNN
+	
+looking	_lookVVG
+for	_forIN
+movies	_movieNNS
+of	_ofIN
+yash	B-director.name
+chopra	I-director.name
+	
+find	_findVV
+me	_mePP
+information	_informationNN
+about	_aboutIN
+the	B-movie.name
+campaign	I-movie.name
+movie	_movieNN
+	
+information	_informationNN
+for	_forIN
+movie	_movieNN
+the	B-movie.name
+campaign	I-movie.name
+	
+show	_showVV
+me	_mePP
+info	_infoNN
+on	_onIN
+the	_theDT
+movie	_movieNN
+the	B-movie.name
+campaign	I-movie.name
+please	_pleaseRB
+	
+i	_iNNS
+need	_needVVP
+to	_toTO
+see	_seeVV
+all	_allPDT
+the	_theDT
+details	_detailNNS
+about	_aboutIN
+the	_theDT
+movie	_movieNN
+the	B-movie.name
+campaign	I-movie.name
+	
+sort	_sortVV
+all	_allDT
+pg	B-rating.name
+movies	_movieNNS
+	
+pg	B-rating.name
+rated	_rateVVD
+movies	_movieNNS
+	
+access	_accessVV
+a	_aDT
+list	_listNN
+of	_ofIN
+pg	B-rating.name
+movies	_movieNNS
+please	_pleaseVVP
+	
+give	_giveVV
+me	_mePP
+a	_aDT
+list	_listNN
+of	_ofIN
+pg	B-rating.name
+movies	_movieNNS
+	
+can	_canMD
+you	_youPP
+find	_findVV
+me	_mePP
+a	_aDT
+list	_listNN
+of	_ofIN
+pg	B-rating.name
+rated	_rateVVN
+movies	_movieNNS
+to	_toTO
+watch	_watchVV
+	
+show	_showVV
+me	_mePP
+a	_aDT
+list	_listNN
+of	_ofIN
+pg	B-rating.name
+rated	_rateVVN
+movies	_movieNNS
+	
+find	_findVV
+movies	_movieNNS
+with	_withIN
+a	_aDT
+pg	B-rating.name
+rating	_ratingNN
+	
+what	_whatWP
+movies	_movieNNS
+are	_beVBP
+pg	B-rating.name
+	
+movies	_movieNNS
+by	_byIN
+alfred	B-director.name
+hitchcock	I-director.name
+	
+what	_whatWP
+movies	_movieNNS
+did	_doVVD
+alfred	B-director.name
+hitchcock	I-director.name
+make	_makeVV
+	
+watch	_watchVV
+hitchcook	B-director.name
+movies	_movieNNS
+	
+i	_iNNS
+want	_wantVVP
+to	_toTO
+see	_seeVV
+any	_anyDT
+current	_currentJJ
+movies	_movieNNS
+starring	_starVVG
+tom	B-actor.name
+hanks	I-actor.name
+	
+i	_iNNS
+want	_wantVVP
+a	_aDT
+list	_listNN
+of	_ofIN
+recent	_recentJJ
+movies	_movieNNS
+rated	_rateVVN
+pg	B-rating.name
+	
+give	_giveVV
+me	_mePP
+a	_aDT
+list	_listNN
+of	_ofIN
+recent	_recentJJ
+movies	_movieNNS
+rated	_rateVVN
+pg	B-rating.name
+	
+ray	B-producer.name
+stark	I-producer.name
+produced	_produceVVD
+what	_whatWP
+other	_otherJJ
+movies	_movieNNS
+	
+what	_whatWP
+is	_beVBZ
+spielberg	B-producer.name
+'s	_'sPOS
+latest	_lateJJS
+movie	_movieNN
+	
+please	_pleaseUH
+find	_findVV
+movies	_movieNNS
+directed	_directVVN
+by	_byIN
+tom	B-director.name
+hanks	I-director.name
+	
+are	_beVBP
+there	_thereRB
+any	_anyDT
+recent	_recentJJ
+movies	_movieNNS
+that	_thatWDT
+are	_beVBP
+polish	B-movie.language
+speaking	_speakingNN
+	
+what	_whatWP
+movies	_movieNNS
+has	_haveVHZ
+tom	B-actor.name
+cruise	I-actor.name
+been	_beVBN
+in	_inIN
+recently	_recentlyRB
+	
+search	_searchNN
+for	_forIN
+new	_newJJ
+movies	_movieNNS
+	
+search	_searchNN
+for	_forIN
+in	B-movie.name
+july	I-movie.name
+	
+watch	_watchVV
+in	B-movie.name
+july	I-movie.name
+online	_onlineJJ
+	
+search	_searchNN
+for	_forIN
+information	_informationNN
+about	_aboutIN
+lionsgate	B-producer.name
+	
+lionsgate	B-producer.name
+info	_infoNN
+	
+find	_findVV
+information	_informationNN
+about	_aboutIN
+paramount	B-producer.name
+studios	I-producer.name
+	
+who	_whoWP
+is	_beVBZ
+ray	B-person.name
+stark	I-person.name
+	
+find	_findVV
+information	_informationNN
+on	_onIN
+charles	B-person.name
+vidor	I-person.name
+	
+i	_iNNS
+want	_wantVVP
+to	_toTO
+look	_lookVV
+up	_upRP
+information	_informationNN
+about	_aboutIN
+tom	B-person.name
+cruise	I-person.name
+	
+can	_canMD
+you	_youPP
+please	_pleaseVV
+search	_searchNN
+details	_detailNNS
+about	_aboutRB
+will	B-person.name
+ferrell	I-person.name
+	
+will	B-person.name
+ferrell	I-person.name
+biography	_biographyNN
+	
+show	_showNN
+will	B-person.name
+ferrell	I-person.name
+biography	_biographyNN
+	
+show	_showVV
+me	_mePP
+a	_aDT
+complete	_completeJJ
+biography	_biographyNN
+of	_ofIN
+will	B-person.name
+ferrell	I-person.name
+	
+show	_showVV
+me	_mePP
+information	_informationNN
+on	_onIN
+will	B-person.name
+ferrell	I-person.name
+	
+show	_showVV
+me	_mePP
+will	B-person.name
+ferrell	I-person.name
+'s	_'sPOS
+bio	_bioNN
+	
+get	_getVV
+info	_infoNN
+on	_onIN
+kristen	B-person.name
+stewart	I-person.name
+	
+does	_doVVZ
+kristen	B-person.name
+stewart	I-person.name
+have	_haveVHP
+a	_aDT
+personal	_personalJJ
+page	_pageNN
+	
+where	_whereWRB
+can	_canMD
+i	_iNNS
+find	_findVV
+information	_informationNN
+about	_aboutIN
+kristen	B-person.name
+stewart	I-person.name
+	
+jennifer	B-person.name
+aniston	I-person.name
+bio	_bioNN
+	
+i	_iNNS
+want	_wantVVP
+to	_toTO
+see	_seeVV
+spielberg	B-person.name
+'s	_'sPOS
+main	_mainJJ
+page	_pageNN
+	
+steven	B-person.name
+spielberg	I-person.name
+summary	_summaryNN
+	
+about	_aboutIN
+steven	B-person.name
+spielberg	I-person.name
+	
+find	_findVV
+me	_mePP
+bio	_bioNN
+details	_detailNNS
+for	_forIN
+steven	B-person.name
+spielberg	I-person.name
+	
+bio	_bioNN
+for	_forIN
+steven	B-person.name
+spielberg	I-person.name
+	
+show	_showVV
+me	_mePP
+alfred	B-person.name
+hitchcock	I-person.name
+	
+i	_iNNS
+want	_wantVVP
+more	_moreJJR
+information	_informationNN
+about	_aboutIN
+alfred	B-person.name
+hitchock	I-person.name
+'s	_'sPOS
+biography	_biographyNN
+	
+all	_allDT
+info	_infoNN
+hitchcock	B-person.name
+	
+find	_findVV
+the	_theDT
+name	_nameNN
+of	_ofIN
+the	_theDT
+producer	_producerNN
+of	_ofIN
+avatar	B-movie.name
+	
+producer	_producerNN
+hitch	B-movie.name
+	
+who	_whoWP
+produces	_produceVVZ
+hitch	B-movie.name
+	
+production	_productionNN
+company	_companyNN
+for	_forIN
+transformers	B-movie.name
+	
+what	_whatWP
+company	_companyNN
+made	_makeVVD
+et	B-movie.name
+	
+what	_whatWP
+was	_beVBD
+the	_theDT
+production	_productionNN
+company	_companyNN
+for	_forIN
+et	B-movie.name
+	
+who	_whoWP
+produces	_produceVVZ
+cars	B-movie.name
+	
+can	_canMD
+you	_youPP
+find	_findVV
+who	_whoWP
+produced	_produceVVD
+cars	B-movie.name
+	
+production	_productionNN
+company	_companyNN
+for	_forIN
+devil	B-movie.name
+	
+who	_whoWP
+produced	_produceVVD
+the	_theDT
+movie	_movieNN
+steel	B-movie.name
+magnolias	I-movie.name
+	
+who	_whoWP
+produced	_produceVVD
+avatar	B-movie.name
+	
+i	_iNNS
+want	_wantVVP
+to	_toTO
+know	_knowVV
+the	_theDT
+producer	_producerNN
+of	_ofIN
+avatar	B-movie.name
+	
+who	_whoWP
+produced	_produceVVD
+avatar	B-movie.name
+	
+who	_whoWP
+produced	_produceVVD
+avatar	B-movie.name
+	
+avatar	B-movie.name
+producer	_producerNN
+	
+i	_iNP
+would	_wouldMD
+like	_likeVV
+to	_toTO
+know	_knowVV
+who	_whoWP
+produced	_produceVVD
+the	_theDT
+movie	_movieNN
+avatar	B-movie.name
+	
+who	_whoWP
+produced	_produceVVD
+the	_theDT
+movie	_movieNN
+avatar	B-movie.name
+	
+who	_whoWP
+are	_beVBP
+the	_theDT
+producers	_producerNNS
+for	_forIN
+the	_theDT
+movie	_movieNN
+avatar	B-movie.name
+	
+what	_whatWP
+is	_beVBZ
+grease	B-movie.name
+'s	_'sPOS
+producer	_producerNN
+	
+who	_whoWP
+produced	_produceVVD
+grease	B-movie.name
+	
+who	_whoWP
+produced	_produceVVD
+the	_theDT
+movie	_movieNN
+my	B-movie.name
+big	I-movie.name
+fat	I-movie.name
+greek	I-movie.name
+wedding	I-movie.name
+	
+who	_whoWP
+produced	_produceVVD
+pretty	B-movie.name
+woman	I-movie.name
+	
+tell	_tellVV
+me	_mePP
+the	_theDT
+producer	_producerNN
+for	_forIN
+the	B-movie.name
+godfather	I-movie.name
+	
+the	B-movie.name
+godfather	I-movie.name
+was	_beVBD
+produced	_produceVVN
+by	_byIN
+	
+who	_whoWP
+produced	_produceVVD
+the	_theDT
+movie	_movieNN
+clue	B-movie.name
+	
+who	_whoWP
+produced	_produceVVD
+hotel	B-movie.name
+rwanda	I-movie.name
+	
+who	_whoWP
+produced	_produceVVD
+marley	B-movie.name
+and	I-movie.name
+me	I-movie.name
+	
+who	_whoWP
+produced	_produceVVD
+despicable	B-movie.name
+me	I-movie.name
+	
+who	_whoWP
+is	_beVBZ
+the	_theDT
+company	_companyNN
+that	_thatWDT
+produced	_produceVVD
+the	_theDT
+movie	_movieNN
+inception	B-movie.name
+	
+what	_whatWP
+company	_companyNN
+developed	_developVVD
+the	_theDT
+movie	_movieNN
+inception	B-movie.name
+	
+find	_findVV
+producer	_producerNN
+of	_ofIN
+the	B-movie.name
+great	I-movie.name
+debaters	I-movie.name
+	
+who	_whoWP
+produced	_produceVVD
+inception	B-movie.name
+	
+provide	_provideVV
+the	_theDT
+name	_nameNN
+of	_ofIN
+the	_theDT
+company	_companyNN
+that	_thatWDT
+produced	_produceVVD
+sparkle	B-movie.name
+	
+i	_iNNS
+need	_needVVP
+to	_toTO
+know	_knowVV
+the	_theDT
+company	_companyNN
+that	_thatWDT
+produced	_produceVVD
+sparkle	B-movie.name
+	
+find	_findVV
+the	_theDT
+producer	_producerNN
+of	_ofIN
+look	B-movie.name
+who	I-movie.name
+'s	I-movie.name
+talking	I-movie.name
+	
+who	_whoWP
+produced	_produceVVD
+harlem	B-movie.name
+nights	I-movie.name
+	
+find	_findVV
+the	_theDT
+producer	_producerNN
+of	_ofIN
+step	B-movie.name
+up	I-movie.name
+	
+please	_pleaseUH
+find	_findVV
+the	_theDT
+producer	_producerNN
+of	_ofIN
+freedom	B-movie.name
+writers	I-movie.name
+	
+look	_lookVV
+for	_forIN
+the	_theDT
+producer	_producerNN
+of	_ofIN
+freedom	B-movie.name
+writers	I-movie.name
+	
+show	_showVV
+me	_mePP
+movie	_movieNN
+rating	_ratingNN
+	
+how	_howWRB
+much	_muchJJ
+revenue	_revenueNN
+did	_doVVD
+pretty	B-movie.name
+woman	I-movie.name
+make	_makeVV
+	
+earnings	_earningNNS
+for	_forIN
+pretty	B-movie.name
+woman	I-movie.name
+	
+what	_whatWP
+was	_beVBD
+the	_theDT
+revenue	_revenueNN
+of	_ofIN
+pretty	B-movie.name
+woman	I-movie.name
+	
+how	_howWRB
+much	_muchRB
+did	_doVVD
+pretty	B-movie.name
+woman	I-movie.name
+make	_makeVV
+	
+what	_whatWP
+was	_beVBD
+the	_theDT
+gross	_grossJJ
+revenue	_revenueNN
+for	_forIN
+the	B-movie.name
+avengers	I-movie.name
+	
+how	_howWRB
+much	_muchRB
+did	_doVVD
+the	B-movie.name
+avengers	I-movie.name
+make	_makeVVP
+	
+revenue	_revenueNN
+for	_forIN
+the	B-movie.name
+avengers	I-movie.name
+	
+how	_howWRB
+much	_muchRB
+did	_doVVD
+the	B-movie.name
+dark	I-movie.name
+night	I-movie.name
+generate	_generateVV
+in	_inIN
+revenues	_revenueNNS
+	
+find	_findVV
+revenue	_revenueNN
+totals	_totalNNS
+for	_forIN
+jurassic	B-movie.name
+park	I-movie.name
+	
+revenue	_revenueNN
+for	_forIN
+independence	B-movie.name
+day	I-movie.name
+	
+what	_whatWP
+is	_beVBZ
+the	_theDT
+new	_newJJ
+will	B-actor.name
+ferrell	I-actor.name
+movie	_movieNN
+about	_aboutRB
+	
+who	_whoWP
+played	_playVVD
+the	_theDT
+voice	_voiceNN
+of	_ofIN
+nemo	B-character.name
+in	_inIN
+finding	B-movie.name
+nemo	I-movie.name
+	
+who	_whoWP
+played	_playVVD
+richie	B-character.name
+cunningham	I-character.name
+in	_inIN
+happy	B-movie.name
+days	I-movie.name
+	
+who	_whoWP
+stars	_starVVZ
+in	_inIN
+house	B-movie.name
+at	I-movie.name
+the	I-movie.name
+end	I-movie.name
+of	I-movie.name
+the	I-movie.name
+street	I-movie.name
+	
+show	_showVV
+me	_mePP
+the	_theDT
+cast	_castNN
+for	_forIN
+the	_theDT
+house	B-movie.name
+at	I-movie.name
+the	I-movie.name
+end	I-movie.name
+of	I-movie.name
+the	I-movie.name
+street	I-movie.name
+	
+cast	_castNN
+and	_andCC
+crew	_crewNN
+of	_ofIN
+house	B-movie.name
+at	I-movie.name
+the	I-movie.name
+end	I-movie.name
+of	I-movie.name
+the	I-movie.name
+street	I-movie.name
+	
+ethel	B-character.name
+actress	_actressNN
+from	_fromIN
+i	B-movie.name
+love	I-movie.name
+lucy	I-movie.name
+	
+actress	_actressNN
+who	_whoWP
+played	_playVVD
+ethel	B-character.name
+on	_onIN
+i	B-movie.name
+love	I-movie.name
+lucy	I-movie.name
+	
+who	_whoWP
+are	_beVBP
+the	_theDT
+cast	_castNN
+members	_memberNNS
+in	_inIN
+lord	B-movie.name
+of	I-movie.name
+the	I-movie.name
+rings	I-movie.name
+the	I-movie.name
+two	I-movie.name
+towers	I-movie.name
+	
+who	_whoWP
+played	_playVVD
+hawkeye	B-character.name
+in	_inIN
+mash	B-movie.name
+	
+who	_whoWP
+played	_playVVD
+mother	B-character.name
+in	_inIN
+tarkovsky	B-director.name
+'s	_'sPOS
+mirror	B-movie.name
+	
+show	_showVV
+me	_mePP
+the	_theDT
+actor	_actorNN
+of	_ofIN
+the	_theDT
+movie	_movieNN
+muthyala	B-movie.name
+muggu	I-movie.name
+	
+who	_whoWP
+are	_beVBP
+the	_theDT
+droids	B-character.name
+in	_inIN
+star	B-movie.name
+wars	I-movie.name
+episode	I-movie.name
+four	I-movie.name
+	
+who	_whoWP
+was	_beVBD
+that	_thatDT
+guy	_guyNN
+again	_againRB
+who	_whoWP
+was	_beVBD
+in	_inIN
+the	B-movie.name
+avengers	I-movie.name
+	
+which	_whichWDT
+actor	_actorNN
+played	_playVVD
+frodo	B-character.name
+in	_inIN
+lord	B-movie.name
+of	I-movie.name
+the	I-movie.name
+rings	I-movie.name
+	
+find	_findVV
+the	_theDT
+name	_nameNN
+of	_ofIN
+the	_theDT
+actress	_actressNN
+who	_whoWP
+played	_playVVD
+mother	B-character.name
+in	_inIN
+mirror	B-movie.name
+by	_byIN
+andrey	B-director.name
+tarkovsky	I-director.name
+	
+what	_whatWP
+is	_beVBZ
+the	_theDT
+name	_nameNN
+of	_ofIN
+the	_theDT
+actress	_actressNN
+who	_whoWP
+played	_playVVD
+mother	B-character.name
+in	_inIN
+tarkovsky	B-director.name
+'s	_'sPOS
+mirror	B-movie.name
+	
+what	_whatWP
+is	_beVBZ
+the	_theDT
+name	_nameNN
+of	_ofIN
+the	_theDT
+actor	_actorNN
+who	_whoWP
+played	_playVVD
+todd	B-character.name
+in	_inIN
+the	_theDT
+tv	_tvNN
+show	_showVVP
+one	B-movie.name
+life	I-movie.name
+to	I-movie.name
+live	I-movie.name
+	
+give	_giveVV
+me	_mePP
+the	_theDT
+name	_nameNN
+of	_ofIN
+the	_theDT
+main	_mainJJ
+actress	_actressNN
+in	_inIN
+platoon	B-movie.name
+	
+what	_whatWP
+'s	_beVBZ
+the	_theDT
+name	_nameNN
+of	_ofIN
+the	_theDT
+mom	B-character.name
+on	_onIN
+seinfeld	B-movie.name
+	
+name	_nameVV
+the	_theDT
+co-star	_co-starNN
+in	_inIN
+shoot	B-movie.name
+to	I-movie.name
+kill	I-movie.name
+	
+what	_whatWP
+is	_beVBZ
+the	_theDT
+name	_nameNN
+of	_ofIN
+the	_theDT
+actor	_actorNN
+who	_whoWP
+played	_playVVD
+atticus	B-character.name
+finch	I-character.name
+in	_inIN
+to	B-movie.name
+kill	I-movie.name
+a	I-movie.name
+mockingbird	I-movie.name
+	
+show	_showVV
+me	_mePP
+the	_theDT
+name	_nameNN
+of	_ofIN
+the	_theDT
+guy	_guyNN
+who	_whoWP
+was	_beVBD
+the	_theDT
+father	B-character.name
+and	I-character.name
+a	I-character.name
+lawyer	I-character.name
+in	_inIN
+to	B-movie.name
+kill	I-movie.name
+a	I-movie.name
+mockingbird	I-movie.name
+	
+please	_pleaseUH
+provide	_provideVV
+the	_theDT
+cost	_costNN
+for	_forIN
+producing	_produceVVG
+the	_theDT
+deer	B-movie.name
+hunter	I-movie.name
+	
+what	_whatWP
+is	_beVBZ
+the	_theDT
+budget	_budgetNN
+for	_forIN
+epic	B-movie.name
+	
+search	_searchNN
+budget	_budgetNN
+for	_forIN
+the	_theDT
+movie	_movieNN
+epic	B-movie.name
+	
+what	_whatWP
+was	_beVBD
+the	_theDT
+budget	_budgetNN
+for	_forIN
+fire	B-movie.name
+proof	I-movie.name
+	
+what	_whatWP
+was	_beVBD
+the	_theDT
+budget	_budgetNN
+for	_forIN
+fly	B-movie.name
+whele	I-movie.name
+	
+what	_whatWP
+was	_beVBD
+the	_theDT
+budget	_budgetNN
+for	_forIN
+1st	_1stJJ
+harry	B-movie.name
+potter	I-movie.name
+movie	_movieNN
+	
+how	_howWRB
+much	_muchRB
+was	_beVBD
+spent	_spendVVN
+on	_onIN
+shooting	_shootVVG
+the	_theDT
+last	_lastJJ
+harry	B-movie.name
+potter	I-movie.name
+film	_filmNN
+	
+how	_howWRB
+much	_muchRB
+does	_doVVZ
+it	_itPP
+cost	_costVVD
+to	_toTO
+produce	_produceVV
+looper	B-movie.name
+	
+how	_howWRB
+much	_muchRB
+did	_doVVD
+it	_itPP
+cost	_costVVD
+to	_toTO
+produce	_produceVV
+looper	B-movie.name
+	
+how	_howWRB
+much	_muchJJ
+money	_moneyNN
+was	_beVBD
+spent	_spendVVN
+to	_toTO
+produce	_produceVV
+looper	B-movie.name
+	
+how	_howWRB
+much	_muchRB
+did	_doVVD
+men	B-movie.name
+in	I-movie.name
+black	I-movie.name
+3	I-movie.name
+cost	_costNN
+	
+how	_howWRB
+much	_muchRB
+was	_beVBD
+it	_itPP
+to	_toTO
+make	_makeVV
+paranorman	B-movie.name
+	
+show	_showVV
+me	_mePP
+the	_theDT
+budget	_budgetNN
+to	_toTO
+rebel	B-movie.name
+movie	_movieNN
+	
+show	_showVV
+me	_mePP
+the	_theDT
+budget	_budgetNN
+for	_forIN
+star	B-movie.name
+wars	I-movie.name
+2	I-movie.name
+	
+how	_howWRB
+much	_muchRB
+did	_doVVD
+it	_itPP
+cost	_costVVD
+to	_toTO
+create	_createVV
+the	B-movie.name
+boardwalk	I-movie.name
+empire	I-movie.name
+	
+show	_showVV
+me	_mePP
+the	_theDT
+budget	_budgetNN
+for	_forIN
+expendables	B-movie.name
+1	I-movie.name
+	
+what	_whatWP
+was	_beVBD
+the	_theDT
+budget	_budgetNN
+for	_forIN
+finding	B-movie.name
+nemo	I-movie.name
+in	_inIN
+3d	_3dJJ
+	
+liongate	B-producer.name
+	
+which	_whichWDT
+country	_countryNN
+made	_makeVVD
+inchochine	B-movie.name
+	
+what	_whatWP
+country	_countryNN
+filed	_fileVVD
+les	B-movie.name
+mes	I-movie.name
+	
+what	_whatWP
+country	_countryNN
+is	_beVBZ
+les	B-movie.name
+mes	I-movie.name
+from	_fromIN
+	
+where	_whereWRB
+was	_beVBD
+the	_theDT
+milk	B-movie.name
+of	I-movie.name
+sorrow	I-movie.name
+made	_makeVVD
+	
+what	_whatWP
+country	_countryNN
+is	_beVBZ
+shawshank	B-movie.name
+redemption	I-movie.name
+	
+what	_whatWP
+country	_countryNN
+does	_doVVZ
+the	_theDT
+movie	_movieNN
+thoda	B-movie.name
+pyaar	I-movie.name
+thoda	I-movie.name
+magic	I-movie.name
+comes	_comeVVZ
+from	_fromIN
+	
+tell	_tellVV
+me	_mePP
+where	_whereWRB
+the	_theDT
+white	B-movie.name
+ribbon	I-movie.name
+came	_comeVVD
+from	_fromIN
+	
+when	_whenWRB
+was	_beVBD
+the	_theDT
+movie	_movieNN
+barfi	B-movie.name
+!	I-movie.name
+released	_releaseVVN
+	
+what	_whatWP
+are	_beVBP
+the	_theDT
+dates	_dateNNS
+for	_forIN
+the	_theDT
+movie	_movieNN
+barfi	B-movie.name
+!	I-movie.name
+	
+release	_releaseNN
+date	_dateNN
+of	_ofIN
+the	_theDT
+new	_newJJ
+bugs	B-movie.name
+bunny	I-movie.name
+film	_filmNN
+	
+what	_whatWP
+is	_beVBZ
+the	_theDT
+release	_releaseNN
+date	_dateNN
+of	_ofIN
+evil	B-movie.name
+goes	I-movie.name
+global	I-movie.name
+	
+what	_whatWP
+is	_beVBZ
+the	_theDT
+release	_releaseNN
+date	_dateNN
+for	_forIN
+jaws	B-movie.name
+17	I-movie.name
+in	_inIN
+the	_theDT
+theaters	_theaterNNS
+	
+what	_whatWP
+is	_beVBZ
+the	_theDT
+release	_releaseNN
+date	_dateNN
+for	_forIN
+jurassic	B-movie.name
+park	I-movie.name
+4	I-movie.name
+	
+list	_listNN
+release	_releaseNN
+dates	_dateNNS
+for	_forIN
+the	_theDT
+jurassic	B-movie.name
+park	I-movie.name
+movies	_movieNNS
+	
+when	_whenWRB
+will	_willMD
+the	_theDT
+movie	_movieNN
+omg	B-movie.name
+oh	I-movie.name
+my	I-movie.name
+god	I-movie.name
+be	_beVB
+released	_releaseVVN
+	
+when	_whenWRB
+was	_beVBD
+the	_theDT
+lord	B-movie.name
+of	I-movie.name
+the	I-movie.name
+rings	I-movie.name
+movie	_movieNN
+released	_releaseVVD
+	
+whats	_whatsNNS
+paranormal	B-movie.name
+activities	I-movie.name
+release	_releaseNN
+date	_dateNN
+	
+when	_whenWRB
+will	_willMD
+robocop	B-movie.name
+come	_comeVV
+out	_outRP
+	
+when	_whenWRB
+was	_beVBD
+suckerpunch	B-movie.name
+be	_beVB
+released	_releaseVVN
+	
+when	_whenWRB
+was	_beVBD
+the	B-movie.name
+sound	I-movie.name
+of	I-movie.name
+music	I-movie.name
+released	_releaseVVN
+	
+when	_whenWRB
+will	_willMD
+twilight	B-movie.name
+breaking	I-movie.name
+dawn	I-movie.name
+part	I-movie.name
+2	I-movie.name
+be	_beVB
+released	_releaseVVN
+	
+who	_whoWP
+directed	_directVVD
+ai	B-movie.name
+	
+find	_findVV
+the	_theDT
+director	_directorNN
+of	_ofIN
+downton	B-movie.name
+abbey	I-movie.name
+	
+who	_whoWP
+directed	_directVVD
+good	B-movie.name
+bad	I-movie.name
+and	I-movie.name
+ugly	I-movie.name
+	
+i	_iNP
+can	_canMD
+'t	_'tNP
+remember	_rememberVV
+who	_whoWP
+directed	_directVVD
+star	B-movie.name
+wars	I-movie.name
+	
+find	_findVV
+the	_theDT
+director	_directorNN
+of	_ofIN
+to	B-movie.name
+kill	I-movie.name
+a	I-movie.name
+mockingbird	I-movie.name
+	
+is	_beVBZ
+amelie	B-movie.name
+in	_inIN
+a	_aDT
+different	_differentJJ
+language	_languageNN
+	
+what	_whatWP
+language	_languageNN
+was	_beVBD
+amelie	B-movie.name
+filmed	_filmVVN
+in	_inIN
+	
+what	_whatWP
+language	_languageNN
+is	_beVBZ
+the	_theDT
+full	B-movie.name
+monty	I-movie.name
+in	_inIN
+	
+what	_whatWP
+is	_beVBZ
+ju	B-movie.name
+on	I-movie.name
+'s	_'sPOS
+original	_originalJJ
+language	_languageNN
+	
+what	_whatWP
+language	_languageNN
+is	_beVBZ
+secrets	B-movie.name
+and	I-movie.name
+lies	I-movie.name
+in	_inIN
+	
+give	_giveVV
+me	_mePP
+names	_nameNNS
+of	_ofIN
+some	_someDT
+action	B-movie.genre
+movies	_movieNNS
+with	_withIN
+a	_aDT
+pg	B-rating.name
+thirteen	I-rating.name
+rating	_ratingNN
+	
+show	_showVV
+all	_allDT
+comedy	B-movie.genre
+musicals	B-movie.genre
+for	_forIN
+twenty	B-movie.release_date
+twelve	I-movie.release_date
+	
+are	_beVBP
+there	_thereRB
+any	_anyDT
+documentaries	B-movie.genre
+on	_onIN
+classic	B-movie.subject
+cars	I-movie.subject
+	
+show	_showVV
+all	_allDT
+dramas	B-movie.genre
+produced	_produceVVN
+in	_inIN
+2010	B-movie.release_date
+	
+find	_findVV
+some	_someDT
+mysteries	B-movie.genre
+	
+search	_searchNN
+romantic	B-movie.genre
+commedies	I-movie.genre
+	
+sci-fi	B-movie.genre
+	
+show	_showVV
+me	_mePP
+westerns	B-movie.genre
+	
+show	_showNN
+car	B-movie.subject
+documentaries	B-movie.genre
+	
+show	_showVV
+me	_mePP
+a	_aDT
+katie	B-actor.name
+holmes	I-actor.name
+flick	B-movie.type
+	
+i	_iNNS
+want	_wantVVP
+to	_toTO
+see	_seeVV
+videos	B-movie.type
+of	_ofIN
+steven	B-director.name
+spielberg	I-director.name
+	
+videos	B-movie.type
+related	_relateVVN
+to	_toTO
+steven	B-director.name
+spielberg	I-director.name
+	
+new	_newJJ
+released	_releaseVVN
+videos	B-movie.type
+	
+i	_iNNS
+want	_wantVVP
+to	_toTO
+see	_seeVV
+brazilian	B-country.name
+movies	_movieNNS
+	
+show	_showVV
+all	_allDT
+canandian	B-country.name
+movies	_movieNNS
+for	_forIN
+nineteen	B-movie.release_date
+eighty	I-movie.release_date
+	
+what	_whatWP
+movies	_movieNNS
+were	_beVBD
+made	_makeVVN
+in	_inIN
+ireland	B-country.name
+this	B-movie.release_date
+year	I-movie.release_date
+	
+find	_findVV
+philipino	B-country.name
+movies	_movieNNS
+in	_inIN
+english	B-movie.language
+	
+show	_showVV
+me	_mePP
+the	_theDT
+highest-grossing	_highest-grossingJJ
+movies	_movieNNS
+from	_fromIN
+portugal	B-country.name
+	
+find	_findVV
+movies	_movieNNS
+in	_inIN
+america	B-country.name
+about	_aboutIN
+obama	B-movie.subject
+	
+i	_iNP
+'d	_willMD
+love	_loveVV
+to	_toTO
+watch	_watchVV
+an	_anDT
+albert	B-director.name
+ruddy	I-director.name
+movie	_movieNN
+	
+what	_whatWP
+other	_otherJJ
+films	_filmNNS
+has	_haveVHZ
+arthur	B-director.name
+ruddy	I-director.name
+done	_doVVN
+	
+bring	_bringVV
+up	_upRP
+all	_allDT
+movies	_movieNNS
+brad	B-director.name
+pitt	I-director.name
+directed	_directVVD
+	
+what	_whatWP
+movies	_movieNNS
+has	_haveVHZ
+brad	B-director.name
+pitt	I-director.name
+directed	_directVVD
+	
+movies	_movieNNS
+by	_byIN
+david	B-director.name
+selsnic	I-director.name
+	
+did	_doVVD
+holly	B-director.name
+hunter	I-director.name
+direct	_directVV
+any	_anyDT
+movies	_movieNNS
+	
+what	_whatWP
+movies	_movieNNS
+did	_doVVD
+joe	B-director.name
+coen	I-director.name
+do	_doVVP
+	
+movies	_movieNNS
+by	_byIN
+john	B-director.name
+paul	I-director.name
+as	_asIN
+a	_aDT
+director	_directorNN
+	
+show	_showVV
+me	_mePP
+movies	_movieNNS
+directed	_directVVN
+by	_byIN
+john	B-director.name
+paul	I-director.name
+	
+tom	B-director.name
+cruise	I-director.name
+has	_haveVHZ
+directed	_directVVN
+what	_whatWP
+movies	_movieNNS
+	
+please	_pleaseUH
+list	_listVV
+all	_allDT
+movies	_movieNNS
+directed	_directVVN
+by	_byIN
+tom	B-director.name
+cruise	I-director.name
+	
+wesley	B-director.name
+snipes	I-director.name
+directed	_directVVD
+what	_whatWP
+movie	_movieNN
+	
+find	_findVV
+action	B-movie.genre
+movies	_movieNNS
+with	_withIN
+john	B-actor.name
+travolta	I-actor.name
+	
+show	_showVV
+all	_allDT
+animation	B-movie.genre
+films	_filmNNS
+for	_forIN
+twenty	B-movie.release_date
+twelve	I-movie.release_date
+	
+animated	B-movie.genre
+pg	B-rating.name
+thirteen	I-rating.name
+movies	_movieNNS
+	
+physfi	B-movie.genre
+movies	_movieNNS
+	
+i	_iNP
+like	_likeIN
+sci-fi	B-movie.genre
+movies	_movieNNS
+	
+show	_showVV
+me	_mePP
+films	_filmNNS
+released	_releaseVVN
+in	_inIN
+september	B-movie.release_date
+	
+show	_showVV
+all	_allDT
+movies	_movieNNS
+released	_releaseVVN
+in	_inIN
+september	B-movie.release_date
+	
+look	_lookVV
+up	_upRP
+all	_allDT
+movies	_movieNNS
+coming	_comeVVG
+in	_inIN
+september	B-movie.release_date
+	
+find	_findVV
+movies	_movieNNS
+for	_forIN
+twenty	B-movie.release_date
+ten	I-movie.release_date
+	
+most	_mostRBS
+recent	_recentJJ
+zombie	B-movie.subject
+movies	_movieNNS
+	
+search	_searchNN
+for	_forIN
+movies	_movieNNS
+in	_inIN
+chinese	B-movie.language
+	
+find	_findVV
+me	_mePP
+movies	_movieNNS
+that	_thatWDT
+are	_beVBP
+in	_inIN
+chinese	B-movie.language
+	
+i	_iNNS
+want	_wantVVP
+to	_toTO
+see	_seeVV
+a	_aDT
+list	_listNN
+of	_ofIN
+all	_allDT
+movies	_movieNNS
+shown	_showVVN
+in	_inIN
+english	B-movie.language
+	
+find	_findVV
+movies	_movieNNS
+in	_inIN
+farsi	B-movie.language
+	
+send	_sendVV
+me	_mePP
+movies	_movieNNS
+that	_thatWDT
+are	_beVBP
+in	_inIN
+french	B-movie.language
+	
+find	_findVV
+movies	_movieNNS
+in	_inIN
+french	B-movie.language
+	
+i	_iNP
+would	_wouldMD
+like	_likeVV
+a	_aDT
+list	_listNN
+of	_ofIN
+movies	_movieNNS
+in	_inIN
+french	B-movie.language
+	
+movies	_movieNNS
+in	_inIN
+french	B-movie.language
+	
+i	_iNNS
+want	_wantVVP
+to	_toTO
+find	_findVV
+movies	_movieNNS
+using	_useVVG
+the	_theDT
+french	B-movie.language
+langauage	_langauageNN
+	
+i	_iNNS
+want	_wantVVP
+movies	_movieNNS
+in	_inIN
+french	B-movie.language
+	
+find	_findVV
+movies	_movieNNS
+in	_inIN
+german	B-movie.language
+before	_beforeIN
+2000	B-movie.release_date
+	
+give	_giveVV
+me	_mePP
+some	_someDT
+movies	_movieNNS
+which	_whichWDT
+were	_beVBD
+filmed	_filmVVN
+in	_inIN
+polish	B-movie.language
+	
+find	_findVV
+movies	_movieNNS
+in	_inIN
+portugese	B-movie.language
+	
+show	_showVV
+all	_allDT
+movies	_movieNNS
+in	_inIN
+spanish	B-movie.language
+	
+list	_listNN
+of	_ofIN
+movies	_movieNNS
+in	_inIN
+the	_theDT
+spanish	B-movie.language
+language	_languageNN
+	
+movies	_movieNNS
+in	_inIN
+spanish	B-movie.language
+	
+i	_iNNS
+am	_beVBP
+searching	_searchVVG
+for	_forIN
+movies	_movieNNS
+in	_inIN
+spanish	B-movie.language
+	
+i	_iNP
+would	_wouldMD
+like	_likeVV
+to	_toTO
+look	_lookVV
+for	_forIN
+movies	_movieNNS
+in	_inIN
+spanish	B-movie.language
+	
+find	_findVV
+movies	_movieNNS
+in	_inIN
+swahili	B-movie.language
+	
+show	_showVV
+me	_mePP
+a	_aDT
+list	_listNN
+of	_ofIN
+all	_allDT
+movies	_movieNNS
+produced	_produceVVN
+by	_byIN
+alfred	B-producer.name
+ruddy	I-producer.name
+	
+what	_whatWP
+other	_otherJJ
+movies	_movieNNS
+charles	B-producer.name
+vidor	I-producer.name
+produce	_produceNN
+	
+has	_haveVHZ
+jennifer	B-producer.name
+anniston	I-producer.name
+produced	_produceVVD
+movies	_movieNNS
+	
+show	_showVV
+me	_mePP
+the	_theDT
+movies	_movieNNS
+produced	_produceVVN
+by	_byIN
+m	B-producer.name
+s	I-producer.name
+raju	I-producer.name
+	
+list	_listVV
+the	_theDT
+movies	_movieNNS
+created	_createVVN
+by	_byIN
+7	B-producer.name
+arts	I-producer.name
+	
+lionsgate	B-producer.name
+=	_=SYM
+i	_iFW
+would	_wouldMD
+like	_likeVV
+to	_toTO
+get	_getVV
+a	_aDT
+list	_listNN
+of	_ofIN
+your	_yourPP$
+movies	_movieNNS
+from	_fromIN
+two	B-movie.release_date
+thousand	I-movie.release_date
+and	I-movie.release_date
+nine	I-movie.release_date
+to	I-movie.release_date
+two	I-movie.release_date
+thousand	I-movie.release_date
+and	I-movie.release_date
+twelve	I-movie.release_date
+	
+twentieth	B-producer.name
+century	I-producer.name
+fox	I-producer.name
+movies	_movieNNS
+2012	B-movie.release_date
+	
+show	_showVV
+me	_mePP
+nc	B-rating.name
+minus	I-rating.name
+seventeen	I-rating.name
+rated	_rateVVN
+movies	_movieNNS
+	
+show	_showVV
+me	_mePP
+movies	_movieNNS
+with	_withIN
+not	B-rating.name
+rated	I-rating.name
+rating	_ratingNN
+	
+give	_giveVV
+me	_mePP
+a	_aDT
+list	_listNN
+of	_ofIN
+nr	B-rating.name
+movies	_movieNNS
+	
+what	_whatWP
+is	_beVBZ
+a	_aDT
+list	_listNN
+of	_ofIN
+pg	B-rating.name
+thirteen	I-rating.name
+action	B-movie.genre
+movies	_movieNNS
+	
+i	_iNNS
+want	_wantVVP
+to	_toTO
+see	_seeVV
+a	_aDT
+pg	B-rating.name
+thirteen	I-rating.name
+movie	_movieNN
+	
+show	_showVV
+me	_mePP
+a	_aDT
+complete	_completeJJ
+list	_listNN
+of	_ofIN
+r	B-rating.name
+rated	_rateVVN
+movies	_movieNNS
+that	_thatWDT
+came	_comeVVD
+out	_outRP
+in	_inIN
+the	B-movie.release_date
+last	I-movie.release_date
+30	I-movie.release_date
+days	I-movie.release_date
+	
+show	_showVV
+me	_mePP
+all	_allDT
+rated	_rateVVN
+r	B-rating.name
+movies	_movieNNS
+by	_byIN
+paramount	B-producer.name
+	
+show	_showVV
+me	_mePP
+movies	_movieNNS
+that	_thatWDT
+are	_beVBP
+unrated	B-rating.name
+	
+list	_listNN
+movies	_movieNNS
+from	_fromIN
+1995	B-movie.release_date
+with	_withIN
+adam	B-actor.name
+sandler	I-actor.name
+	
+i	_iNNS
+want	_wantVVP
+to	_toTO
+see	_seeVV
+movies	_movieNNS
+with	_withIN
+alan	B-actor.name
+rickmman	I-actor.name
+	
+which	_whichWDT
+movies	_movieNNS
+has	_haveVHZ
+angelina	B-actor.name
+jolie	I-actor.name
+starred	_starVVD
+this	B-movie.release_date
+season	I-movie.release_date
+	
+what	_whatWP
+movie	_movieNN
+was	_beVBD
+angelina	B-actor.name
+a	_aDT
+main	B-character.name
+actress	I-character.name
+	
+look	_lookVV
+up	_upRP
+movies	_movieNNS
+starring	_starVVG
+the	_theDT
+singer	B-actor.type
+mario	B-actor.name
+	
+i	_iNNS
+want	_wantVVP
+to	_toTO
+find	_findVV
+movies	_movieNNS
+starring	_starVVG
+the	_theDT
+singer	B-actor.type
+mario	B-actor.name
+	
+look	_lookNN
+for	_forIN
+movies	_movieNNS
+with	_withIN
+max	B-actor.name
+von	I-actor.name
+sudow	I-actor.name
+	
+show	_showVV
+me	_mePP
+movies	_movieNNS
+that	_thatWDT
+have	_haveVHP
+patrick	B-actor.name
+swayze	I-actor.name
+and	_andCC
+jennifer	B-actor.name
+grey	I-actor.name
+in	_inIN
+them	_themPP
+	
+show	_showVV
+me	_mePP
+movies	_movieNNS
+that	_thatIN/that
+star	_starJJ
+patrick	B-actor.name
+swayze	I-actor.name
+starred	_starVVN
+in	_inIN
+from	_fromIN
+nineteen	B-movie.release_date
+eighty	I-movie.release_date
+seven	I-movie.release_date
+	
+what	_whatWP
+is	_beVBZ
+that	_thatDT
+dancing	B-movie.subject
+movie	_movieNN
+with	_withIN
+patrick	B-actor.name
+swayze	I-actor.name
+	
+movies	_movieNNS
+of	_ofIN
+sharukh	B-actor.name
+khan	I-actor.name
+	
+movie	_movieNN
+that	_thatIN/that
+tom	B-actor.name
+hanks	I-actor.name
+and	_andCC
+kevin	B-actor.name
+becon	I-actor.name
+played	_playVVN
+in	_inIN
+together	_togetherRB
+	
+movies	_movieNNS
+about	_aboutIN
+animals	B-movie.subject
+	
+show	_showVV
+me	_mePP
+movies	_movieNNS
+about	_aboutIN
+bollywood	B-movie.subject
+	
+chess	B-movie.subject
+movies	_movieNNS
+	
+show	_showVV
+me	_mePP
+movies	_movieNNS
+on	_onIN
+chess	B-movie.subject
+	
+what	_whatWP
+are	_beVBP
+some	_someDT
+movies	_movieNNS
+about	_aboutIN
+disco	B-movie.subject
+	
+what	_whatWP
+movies	_movieNNS
+can	_canMD
+offer	_offerVV
+tips	_tipNNS
+on	_onIN
+gardening	B-movie.subject
+	
+i	_iNNS
+want	_wantVVP
+to	_toTO
+look	_lookVV
+up	_upRP
+movies	_movieNNS
+about	_aboutIN
+hair	B-movie.subject
+	
+find	_findVV
+movies	_movieNNS
+about	_aboutIN
+libraries	B-movie.subject
+	
+find	_findVV
+some	_someDT
+movies	_movieNNS
+about	_aboutIN
+musicians	B-movie.subject
+	
+can	_canMD
+you	_youPP
+find	_findVV
+movies	_movieNNS
+about	_aboutIN
+preschool	B-movie.subject
+boys	I-movie.subject
+	
+look	_lookNN
+for	_forIN
+movies	_movieNNS
+about	_aboutIN
+preschool	B-movie.subject
+boys	I-movie.subject
+	
+what	_whatWP
+films	_filmNNS
+focus	_focusVVP
+on	_onIN
+rape	B-movie.subject
+and	I-movie.subject
+victim	I-movie.subject
+'s	I-movie.subject
+rights	I-movie.subject
+	
+i	_iNP
+would	_wouldMD
+like	_likeVV
+to	_toTO
+know	_knowVV
+names	_nameNNS
+of	_ofIN
+some	_someDT
+movies	_movieNNS
+on	_onIN
+religious	B-movie.subject
+issues	I-movie.subject
+	
+give	_giveVV
+me	_mePP
+a	_aDT
+list	_listNN
+of	_ofIN
+some	_someDT
+movies	_movieNNS
+on	_onIN
+religious	B-movie.subject
+issues	I-movie.subject
+	
+look	_lookNN
+for	_forIN
+movies	_movieNNS
+about	_aboutIN
+school	B-movie.subject
+	
+tell	_tellVV
+me	_mePP
+the	_theDT
+names	_nameNNS
+of	_ofIN
+some	_someDT
+soccer	B-movie.subject
+movies	_movieNNS
+	
+what	_whatWP
+are	_beVBP
+some	_someDT
+time	B-movie.subject
+travel	I-movie.subject
+movies	_movieNNS
+i	_iNP
+can	_canMD
+watch	_watchVV
+	
+show	_showVV
+me	_mePP
+movies	_movieNNS
+involving	_involveVVG
+time	B-movie.subject
+travel	I-movie.subject
+	
+vampire	B-movie.subject
+movies	_movieNNS
+please	_pleaseVVP
+	
+list	_listNN
+movies	_movieNNS
+with	_withIN
+a	_aDT
+theme	_themeNN
+of	_ofIN
+war	B-movie.subject
+in	_inIN
+them	_themPP
+	
+show	_showVV
+all	_allDT
+movies	_movieNNS
+with	_withIN
+the	_theDT
+theme	_themeNN
+of	_ofIN
+war	B-movie.subject
+	
+can	_canMD
+you	_youPP
+find	_findVV
+me	_mePP
+some	_someDT
+movies	_movieNNS
+about	_aboutIN
+war	B-movie.subject
+	
+i	_iNNS
+want	_wantVVP
+a	_aDT
+list	_listNN
+of	_ofIN
+movies	_movieNNS
+about	_aboutIN
+war	B-movie.subject
+	
+i	_iNNS
+want	_wantVVP
+movies	_movieNNS
+about	_aboutIN
+war	B-movie.subject
+	
+find	_findVV
+movies	_movieNNS
+about	_aboutIN
+world	B-movie.subject
+war	I-movie.subject
+two	I-movie.subject
+	
+what	_whatWP
+are	_beVBP
+some	_someDT
+zombie	B-movie.subject
+apocalypse	I-movie.subject
+movies	_movieNNS
+	
+search	_searchNN
+for	_forIN
+zombie	B-movie.subject
+movies	_movieNNS
+	
+show	_showVV
+me	_mePP
+belle	B-movie.name
+in	_inIN
+spanish	B-movie.language
+	
+is	_beVBZ
+dredd	B-movie.name
+rated	_rateVVN
+r	B-rating.name
+	
+take	_takeVV
+me	_mePP
+to	_toTO
+the	_theDT
+french	B-movie.language
+version	_versionNN
+of	_ofIN
+et	B-movie.name
+	
+find	_findVV
+et	B-movie.name
+in	_inIN
+french	B-movie.language
+	
+find	_findVV
+fast	B-movie.name
+and	I-movie.name
+furious	I-movie.name
+in	_inIN
+japanese	B-movie.language
+	
+hard	B-movie.name
+day	I-movie.name
+'s	I-movie.name
+night	I-movie.name
+richard	B-director.name
+lester	I-director.name
+	
+information	_informationNN
+about	_aboutIN
+movie	_movieNN
+life	B-movie.name
+is	I-movie.name
+beautiful	I-movie.name
+	
+movie	_movieNN
+information	_informationNN
+for	_forIN
+life	B-movie.name
+is	I-movie.name
+beautiful	I-movie.name
+	
+will	_willMD
+you	_youPP
+please	_pleaseVV
+show	_showVV
+me	_mePP
+info	_infoNN
+on	_onIN
+the	_theDT
+movie	_movieNN
+life	B-movie.name
+is	I-movie.name
+beautiful	I-movie.name
+	
+can	_canMD
+you	_youPP
+please	_pleaseVV
+show	_showVV
+me	_mePP
+info	_infoNN
+on	_onIN
+the	_theDT
+movie	_movieNN
+life	B-movie.name
+is	I-movie.name
+beautiful	I-movie.name
+	
+show	_showVV
+me	_mePP
+details	_detailNNS
+to	_toTO
+the	_theDT
+movie	_movieNN
+life	B-movie.name
+is	I-movie.name
+beautiful	I-movie.name
+	
+show	_showVV
+me	_mePP
+info	_infoNN
+on	_onIN
+the	_theDT
+movie	_movieNN
+life	B-movie.name
+is	I-movie.name
+beautiful	I-movie.name
+please	_pleaseRB
+	
+open	_openVV
+a	_aDT
+page	_pageNN
+about	_aboutIN
+the	_theDT
+movie	_movieNN
+life	B-movie.name
+is	I-movie.name
+beautiful	I-movie.name
+	
+is	_beVBZ
+nine	B-movie.release_date
+fourteen	I-movie.release_date
+the	_theDT
+premiere	_premiereJJ
+date	_dateNN
+for	_forIN
+resident	B-movie.name
+evil	I-movie.name
+	
+select	_selectJJ
+rio	B-movie.name
+in	_inIN
+chinese	B-movie.language
+	
+find	_findVV
+me	_mePP
+the	_theDT
+first	_firstJJ
+star	B-movie.name
+wars	I-movie.name
+movie	_movieNN
+info	_infoNN
+	
+i	_iNNS
+need	_needVVP
+details	_detailNNS
+about	_aboutIN
+the	_theDT
+movie	_movieNN
+star	B-movie.name
+wars	I-movie.name
+:	I-movie.name
+episode	I-movie.name
+four	I-movie.name
+-	I-movie.name
+a	I-movie.name
+new	I-movie.name
+hope	I-movie.name
+	
+did	_doVVD
+ray	B-director.name
+stark	I-director.name
+produce	_produceNN
+steel	B-movie.name
+magnolias	I-movie.name
+	
+is	_beVBZ
+the	_theDT
+movie	_movieNN
+toy	B-movie.name
+story	I-movie.name
+4	I-movie.name
+being	_beVBG
+released	_releaseVVN
+next	B-movie.release_date
+summer	I-movie.release_date
+	
+i	_iNNS
+want	_wantVVP
+to	_toTO
+look	_lookVV
+up	_upRP
+information	_informationNN
+about	_aboutIN
+american	B-country.name
+movies	_movieNNS
+	
+chinese	B-movie.language
+foreign	_foreignJJ
+film	_filmNN
+with	_withIN
+kungfu	B-movie.subject
+	
+french	B-movie.language
+movies	_movieNNS
+for	_forIN
+twenty	B-movie.release_date
+twelve	I-movie.release_date
+	
+look	_lookNN
+for	_forIN
+russian	B-movie.language
+movies	_movieNNS
+by	_byIN
+mosfilm	B-producer.name
+	
+show	_showNN
+production	_productionNN
+company	_companyNN
+lionsgate	B-producer.name
+	
+paramount	B-producer.name
+film	I-producer.name
+studios	I-producer.name
+	
+i	_iNP
+would	_wouldMD
+like	_likeVV
+to	_toTO
+have	_haveVH
+more	_moreJJR
+information	_informationNN
+about	_aboutIN
+the	_theDT
+producer	_producerNN
+ray	B-person.name
+stark	I-person.name
+	
+show	_showVV
+me	_mePP
+details	_detailNNS
+for	_forIN
+the	_theDT
+director	_directorNN
+steven	B-director.name
+spielberg	I-director.name
+	
+show	_showVV
+me	_mePP
+that	_thatIN/that
+actor	_actorNN
+tom	B-actor.name
+cruise	I-actor.name
+	
+i	_iNP
+would	_wouldMD
+like	_likeVV
+information	_informationNN
+about	_aboutIN
+the	_theDT
+actor	_actorNN
+will	B-actor.name
+ferrell	I-actor.name
+	
+who	_whoWP
+produced	_produceVVD
+the	_theDT
+movie	_movieNN
+great	B-movie.name
+debaters	I-movie.name
+	
+king	B-movie.name
+'s	I-movie.name
+speech	I-movie.name
+production	_productionNN
+company	_companyNN
+	
+i	_iNP
+wonder	_wonderNN
+who	_whoWP
+produced	_produceVVD
+star	B-movie.name
+wars	I-movie.name
+	
+i	_iNP
+can	_canMD
+'t	_'tNP
+remember	_rememberVV
+who	_whoWP
+produced	_produceVVD
+star	B-movie.name
+wars	I-movie.name
+	
+who	_whoWP
+produced	_produceVVD
+star	B-movie.name
+wars	I-movie.name
+	
+movie	_movieNN
+producers	_producerNNS
+	
+how	_howWRB
+much	_muchRB
+did	_doVVD
+end	B-movie.name
+of	I-movie.name
+watch	I-movie.name
+gross	_grossJJ
+	
+how	_howWRB
+much	_muchRB
+did	_doVVD
+movie	_movieNN
+earn	_earnVV
+	
+show	_showVV
+me	_mePP
+the	_theDT
+earnings	_earningNNS
+for	_forIN
+hotel	B-movie.name
+transylvania	I-movie.name
+	
+what	_whatWP
+did	_doVVD
+the	_theDT
+movie	_movieNN
+the	_theDT
+house	B-movie.name
+at	I-movie.name
+the	I-movie.name
+end	I-movie.name
+of	I-movie.name
+the	I-movie.name
+steet	I-movie.name
+gross	_grossJJ
+	
+revenue	_revenueNN
+for	_forIN
+iron	B-movie.name
+man	I-movie.name
+2	I-movie.name
+	
+what	_whatWP
+amount	_amountNN
+of	_ofIN
+revenue	_revenueNN
+did	_doVVD
+iron	B-movie.name
+man	I-movie.name
+make	_makeVV
+	
+what	_whatWP
+was	_beVBD
+the	_theDT
+gross	_grossJJ
+revenue	_revenueNN
+of	_ofIN
+iron	B-movie.name
+man	I-movie.name
+	
+kahani	B-movie.name
+'s	_'sPOS
+revenue	_revenueNN
+	
+get	_getVV
+the	_theDT
+revenue	_revenueNN
+of	_ofIN
+kahani	B-movie.name
+	
+revenue	_revenueNN
+looper	B-movie.name
+	
+how	_howWRB
+much	_muchRB
+did	_doVVD
+looper	B-movie.name
+gross	_grossJJ
+in	_inIN
+sales	_saleNNS
+	
+how	_howWRB
+much	_muchRB
+did	_doVVD
+looper	B-movie.name
+gross	_grossJJ
+	
+ho	_HoNP
+much	_muchRB
+did	_doVVD
+looper	B-movie.name
+make	_makeVV
+	
+how	_howWRB
+much	_muchJJ
+money	_moneyNN
+did	_doVVD
+mr	B-movie.name
+and	I-movie.name
+mrs	I-movie.name
+smith	I-movie.name
+make	_makeVV
+	
+how	_howWRB
+much	_muchJJ
+money	_moneyNN
+did	_doVVD
+the	_theDT
+movie	_movieNN
+mr	B-movie.name
+and	I-movie.name
+mrs	I-movie.name
+smith	I-movie.name
+make	_makeVV
+	
+in	_inIN
+the	_theDT
+movie	_movieNN
+mr	B-movie.name
+and	I-movie.name
+mrs	I-movie.name
+smith	I-movie.name
+how	_howWRB
+much	_muchJJ
+money	_moneyNN
+did	_doVVD
+the	_theDT
+box	_boxNN
+offfice	_offficeNN
+report	_reportNN
+	
+how	_howWRB
+much	_muchJJ
+money	_moneyNN
+did	_doVVD
+philadelphia	B-movie.name
+make	_makeVV
+	
+i	_iNNS
+want	_wantVVP
+to	_toTO
+know	_knowVV
+what	_whatWP
+the	_theDT
+revenue	_revenueNN
+for	_forIN
+pirates	B-movie.name
+was	_beVBD
+	
+how	_howWRB
+much	_muchRB
+was	_beVBD
+made	_makeVVN
+from	_fromIN
+platoon	B-movie.name
+	
+what	_whatWP
+was	_beVBD
+the	_theDT
+gross	_grossJJ
+revenue	_revenueNN
+earned	_earnVVD
+by	_byIN
+star	B-movie.name
+wars	I-movie.name
+in	_inIN
+its	_itsPP$
+original	_originalJJ
+release	_releaseNN
+	
+what	_whatWP
+was	_beVBD
+the	_theDT
+total	_totalJJ
+gross	_grossJJ
+receipts	_receiptNNS
+at	_atIN
+the	_theDT
+box	_boxNN
+office	_officeNN
+for	_forIN
+the	_theDT
+movie	_movieNN
+star	B-movie.name
+wars	I-movie.name
+	
+what	_whatWP
+were	_beVBD
+the	_theDT
+gross	_grossJJ
+receipts	_receiptNNS
+for	_forIN
+hunger	B-movie.name
+games	I-movie.name
+	
+tell	_tellVV
+me	_mePP
+how	_howWRB
+much	_muchJJ
+money	_moneyNN
+tommy	B-movie.name
+boy	I-movie.name
+made	_makeVVD
+	
+how	_howWRB
+much	_muchJJ
+revenue	_revenueNN
+did	_doVVD
+top	B-movie.name
+gun	I-movie.name
+make	_makeVV
+	
+tell	_tellVV
+me	_mePP
+the	_theDT
+revenue	_revenueNN
+of	_ofIN
+training	B-movie.name
+day	I-movie.name
+	
+what	_whatWP
+is	_beVBZ
+life	B-movie.name
+is	I-movie.name
+beautiful	I-movie.name
+about	_aboutRB
+	
+show	_showVV
+me	_mePP
+a	_aDT
+list	_listNN
+of	_ofIN
+production	_productionNN
+companies	_companyNNS
+	
+show	_showVV
+me	_mePP
+the	_theDT
+viewer	_viewerNN
+ratings	_ratingNNS
+in	B-movie.name
+orange	I-movie.name
+	
+is	_beVBZ
+in	B-movie.name
+july	I-movie.name
+on	_onIN
+netflix	_netflixNN
+	
+rate	_rateNN
+movies	_movieNNS
+	
+find	_findVV
+the	_theDT
+actor	_actorNN
+that	_thatWDT
+sings	_singVVZ
+let	_letVV
+me	_mePP
+love	_loveVV
+you	_youPP
+	
+what	_whatWP
+is	_beVBZ
+steven	B-person.name
+spielberg	I-person.name
+up	_upRB
+to	_toTO
+	
+israel	B-country.name
+are	_beVBP
+all	_allPDT
+your	_yourPP$
+movies	_movieNNS
+in	_inIN
+your	_yourPP$
+native	_nativeJJ
+language	_languageNN
+or	_orCC
+in	_inIN
+english	B-movie.language
+	
+what	_whatWP
+'s	_beVBZ
+playing	_playVVG
+tonight	_tonightRB
+	
+where	_whereWRB
+can	_canMD
+i	_iNNS
+buy	_buyVV
+this	_thisDT
+movie	_movieNN
+	
+i	_iNP
+would	_wouldMD
+like	_likeVV
+to	_toTO
+know	_knowVV
+if	_ifIN
+this	_thisDT
+is	_beVBZ
+a	_aDT
+real	_realRB
+scary	B-movie.genre
+	
+how	_howWRB
+to	_toTO
+rent	_rentVV
+dirty	B-movie.name
+dancing	I-movie.name
+	
+can	_canMD
+i	_iNP
+rent	_rentNN
+finding	B-movie.name
+nemo	I-movie.name
+on	_onIN
+netflix	_netflixNN
+	
+hotel	B-movie.name
+rwanda	I-movie.name
+is	_beVBZ
+based	_baseVVN
+on	_onIN
+what	_whatWP
+	
+i	_iNNS
+need	_needVVP
+to	_toTO
+know	_knowVV
+where	_whereWRB
+you	_youPP
+keep	_keepVVP
+resident	B-movie.name
+evil	I-movie.name
+	
+in	_inIN
+september	_SeptemberNN
+	
+dvd	_dvdNNS
+finding	B-movie.name
+nemo	I-movie.name
+	
+find	_findVV
+movie	_movieNN
+from	_fromIN
+criteria	_criterionNNS
+	
+find	_findVV
+a	_aDT
+movie	_movieNN
+	
+can	_canMD
+you	_youPP
+tell	_tellVV
+me	_mePP
+which	_whichWDT
+movie	_movieNN
+made	_makeVVD
+the	_theDT
+most	_mostJJS
+at	_atIN
+the	_theDT
+box	_boxNN
+office	_officeNN
+in	_inIN
+the	_theDT
+weekend	_weekendNN
+of	_ofIN
+september	_SeptemberNN
+twenty	_twentyCD
+eighth	_eighthNN
+	
+find	_findVV
+movies	_movieNNS
+selected	_selectVVN
+on	_onIN
+all	_allDT
+criteria	_criterionNNS
+	
+options	_optionNNS
+available	_availableJJ
+for	_forIN
+movies	_movieNNS
+today	_todayNN
+	
+find	_findVV
+all	_allDT
+selected	_selectedJJ
+criteria	_criterionNNS
+	
+search	_searchNN
+highlighted	_highlightVVD
+information	_informationNN
+	
+bring	_bringVV
+up	_upRP
+movie	_movieNN
+request	_requestNN
+	
+find	_findVV
+selected	_selectedJJ
+information	_informationNN
+	
+find	_findVV
+selected	_selectedJJ
+criteria	_criterionNNS
+	
+where	_whereWRB
+can	_canMD
+i	_iNP
+watch	_watchNN
+movie	_movieNN
+	
+search	_searchVV
+all	_allDT
+databases	_databaseNNS
+	
+search	_searchNN
+databases	_databaseNNS
+	
+where	_whereWRB
+can	_canMD
+i	_iNNS
+see	_seeVV
+movie	_movieNN
+	
+what	_whatWP
+is	_beVBZ
+the	_theDT
+age	_ageNN
+limit	_limitNN
+for	_forIN
+the	_theDT
+pg	B-rating.name
+rating	_ratingNN
+for	_forIN
+the	_theDT
+movie	_movieNN
+hotel	B-movie.name
+transylvania	B-movie.name
+	
+what	_whatWP
+does	_doVVZ
+the	_theDT
+rating	_ratingNN
+r	B-rating.name
+mean	_meanJJ
+for	_forIN
+the	_theDT
+movie	_movieNN
+dred	_dredVVD
+	
+show	_showVV
+me	_mePP
+the	_theDT
+sequels	_sequelNNS
+or	_orCC
+prequels	_prequelsNNS
+to	_toTO
+this	_thisDT
+movie	_movieNN
+	
+how	_howWRB
+long	_longRB
+did	_doVVD
+it	_itPP
+take	_takeVV
+james	B-producer.name
+cameron	I-producer.name
+to	_toTO
+produce	_produceVV
+avatar	B-movie.name
+	
+is	_beVBZ
+this	_thisDT
+film	_filmNN
+dubbed	_dubVVN
+in	_inIN
+english	B-movie.language
+	
+apollo	B-movie.name
+thirteen	I-movie.name
+cast	_castNN
+was	_beVBD
+chosen	_chooseVVN
+how	_howWRB
+	
+what	_whatWP
+other	_otherJJ
+formats	_formatNNS
+is	_beVBZ
+finding	B-movie.name
+nemo	I-movie.name
+in	_inIN
+	
+in	_inIN
+how	_howWRB
+many	_manyJJ
+days	_dayNNS
+did	_doVVD
+it	_itPP
+take	_takeVVP
+to	_toTO
+make	_makeVV
+twenty	B-movie.gross_revenue
+one	I-movie.gross_revenue
+point	I-movie.gross_revenue
+two	I-movie.gross_revenue
+for	_forIN
+looper	B-movie.name
+	
+what	_whatWP
+age	_ageNN
+group	_groupNN
+is	_beVBZ
+for	_forIN
+rated	_rateVVN
+r	B-rating.name
+movies	_movieNNS
+	
+show	_showVV
+me	_mePP
+the	_theDT
+behind	_behindIN
+scenes	_sceneNNS
+of	_ofIN
+the	_theDT
+movie	_movieNN
+in	B-movie.name
+orange	I-movie.name
+	
+how	_howWRB
+long	_longRB
+do	_doVVP
+you	_youPP
+predict	_predictVVP
+that	_thatIN/that
+wb	B-producer.name
+will	_willMD
+continue	_continueVV
+to	_toTO
+strive	_striveVV
+in	_inIN
+today	_todayNN
+'s	_'sPOS
+market	_marketNN
+	
+the	_theDT
+crap	_crapNN
+	
+who	_whoWP
+determines	_determineVVZ
+the	_theDT
+ratings	_ratingNNS
+on	_onIN
+movies	_movieNNS
+	
+house	B-movie.name
+at	I-movie.name
+the	I-movie.name
+end	I-movie.name
+of	I-movie.name
+the	I-movie.name
+street	I-movie.name
+should	_shouldMD
+of	_ofIN
+made	_makeVVD
+more	_moreJJR
+money	_moneyNN
+	
+find	_findVV
+me	_mePP
+dirty	B-movie.name
+dancing	I-movie.name
+news	_newsNN
+	
+who	_whoWP
+else	_elseRB
+could	_couldMD
+have	_haveVH
+preformed	_preformedVVN
+your	_yourPP$
+job	_jobNN
+	
+twenty	B-movie.gross_revenue
+one	I-movie.gross_revenue
+point	I-movie.gross_revenue
+two	I-movie.gross_revenue
+was	_beVBD
+paid	_payVVN
+out	_outRP
+	
+find	_findVV
+some	_someDT
+notes	_noteNNS
+on	_onIN
+parental	_parentalJJ
+guidance	_guidanceNN
+please	_pleaseVV
+	
+who	_whoWP
+came	_comeVVD
+up	_upRP
+for	_forIN
+the	_theDT
+main	_mainJJ
+plot	_plotNN
+	
+what	_whatWP
+is	_beVBZ
+the	_theDT
+standard	_standardNN
+to	_toTO
+be	_beVB
+rated	_rateVVN
+g	B-rating.name
+	
+i	_iNP
+love	_loveNN
+taye	B-person.name
+diggs	I-person.name
+	
+show	_showVV
+me	_mePP
+the	_theDT
+movie	_movieNN
+reviews	_reviewVVZ
+in	_inIN
+orange	_orangeNN
+	
+show	_showVV
+me	_mePP
+celebrities	_celebrityNNS
+	
+how	_howWRB
+old	_oldJJ
+do	_doVVP
+you	_youPP
+have	_haveVHP
+to	_toTO
+be	_beVB
+to	_toTO
+see	_seeVV
+an	_anDT
+r-rated	B-rating.name
+movie	_movieNN
+	
+does	_doVVZ
+ireland	B-country.name
+have	_haveVHP
+an	_anDT
+equivalent	_equivalentNN
+to	_toTO
+th	_thNN
+us	B-country.name
+oscar	B-award.ceremony
+awards	_awardNNS
+	
+click	_clickNN
+on	_onIN
+the	_theDT
+most	_mostRBS
+popular	_popularJJ
+movie	_movieNN
+in	_inIN
+orange	_orangeNN
+	
+brazil	B-movie.location
+movie	_movieNN
+locations	_locationNNS
+	
+what	_whatWP
+is	_beVBZ
+the	_theDT
+history	_historyNN
+behind	_behindIN
+lionsgate	B-producer.name
+	
+what	_whatWP
+does	_doVVZ
+an	_anDT
+r	B-rating.name
+rating	_ratingNN
+mean	_meanVVP
+on	_onIN
+a	_aDT
+movie	_movieNN
+	
+can	_canMD
+you	_youPP
+give	_giveVV
+me	_mePP
+more	_moreJJR
+information	_informationNN
+about	_aboutIN
+the	_theDT
+text	_textNN
+highlighted	_highlightVVN
+in	_inIN
+orange	_orangeNN
+	
+what	_whatWP
+are	_beVBP
+the	_theDT
+recommended	_recommendedJJ
+ages	_ageNNS
+for	_forIN
+a	_aDT
+pg	B-rating.name
+movie	_movieNN
+	
+send	_sendVV
+dredd	B-movie.name
+movie	_movieNN
+	
+jenn	B-person.name
+ann	I-person.name
+lover	_loverNN
+	
+did	_doVVD
+kristen	B-person.name
+stewart	I-person.name
+have	_haveVHP
+an	_anDT
+affair	_affairNN
+with	_withIN
+the	_theDT
+director	_directorNN
+of	_ofIN
+snow	B-movie.name
+white	I-movie.name
+and	I-movie.name
+the	I-movie.name
+huntsman	I-movie.name
+	
+show	_showVV
+me	_mePP
+movie	_movieNN
+highlights	_highlightNNS
+in	_inIN
+orange	_orangeNN
+	
+need	_needNN
+to	_toTO
+rate	_rateNN
+movie	_movieNN
+	
+how	_howWRB
+old	_oldJJ
+do	_doVVP
+you	_youPP
+have	_haveVHP
+to	_toTO
+be	_beVB
+to	_toTO
+see	_seeVV
+a	_aDT
+rated	_rateVVN
+r	B-rating.name
+movie	_movieNN
+	
+what	_whatWP
+does	_doVVZ
+a	_aDT
+pg	B-rating.name
+thirteen	I-rating.name
+rating	_ratingNN
+mean	_meanNN
+	
+twenty	B-movie.gross_revenue
+one	I-movie.gross_revenue
+point	I-movie.gross_revenue
+two	I-movie.gross_revenue
+is	_beVBZ
+the	_theDT
+first	_firstJJ
+week	_weekNN
+gross	_grossJJ
+	
+r	B-rating.name
+rating	_ratingNN
+what	_whatWP
+does	_doVVZ
+that	_thatRB
+include	_includeVV
+	
+in	B-movie.name
+julie	I-movie.name
+	
+wb	B-producer.name
+-	_-:
+what	_whatWP
+does	_doVVZ
+it	_itPP
+take	_takeVV
+to	_toTO
+become	_becomeVV
+a	_aDT
+movie	_movieNN
+producer	_producerNN
+	
+show	_showVV
+me	_mePP
+hollywood	_hollywoodNN
+influences	_influenceNNS
+	
+how	_howWRB
+does	_doVVZ
+a	_aDT
+movie	_movieNN
+receive	_receiveVV
+an	_anDT
+r	B-rating.name
+rating	_ratingNN
+	
+did	_doVVD
+you	_youPP
+have	_haveVHP
+fun	_funNN
+on	_onIN
+the	_theDT
+set	_setNN
+	
+what	_whatWP
+are	_beVBP
+the	_theDT
+rating	_ratingNN
+symbols	_symbolNNS
+for	_forIN
+movies	_movieNNS
+	
+sb	_sbNN
+news	_newsNN
+on	_onIN
+life	_lifeNN
+	
+i	_iNNS
+have	_haveVHP
+a	_aDT
+thirteen	_thirteenCD
+year	_yearNN
+old	_oldJJ
+	
+end	B-movie.name
+of	I-movie.name
+watch	I-movie.name
+shoulde	_shouldeNN
+of	_ofIN
+made	_makeVVD
+less	_lessJJR
+money	_moneyNN
+	
+when	_whenWRB
+the	_theDT
+movie	_movieNN
+comes	_comeVVZ
+out	_outRB
+do	_doVV
+you	_youPP
+think	_thinkVVP
+it	_itPP
+will	_willMD
+raise	_raiseVV
+in	_inIN
+the	_theDT
+box	_boxNN
+office	_officeNN
+	
+show	_showVV
+me	_mePP
+the	_theDT
+movie	_movieNN
+list	_listNN
+in	_inIN
+orange	_orangeNN
+	
+show	_showVV
+me	_mePP
+the	_theDT
+story	_storyNN
+of	_ofIN
+the	_theDT
+armstrong	B-person.name
+siddeley	I-person.name
+	
+classic	_classicJJ
+cars	_carNNS
+	
+i	_iNNS
+want	_wantVVP
+to	_toTO
+learn	_learnVV
+about	_aboutIN
+flowers	_flowerNNS
+	
+out	_outIN
+camping	_campingNN
+	
+happy	_happyJJ
+	
+interesting	_interestingJJ
+	
+sort	_sortNN
+by	_byIN
+spanish	B-movie.language
+	
+where	_whereWRB
+is	_beVBZ
+punjabi	B-movie.language
+	
+what	_whatWP
+is	_beVBZ
+robert	B-person.name
+wise	I-person.name
+'s	_'sPOS
+middle	_middleJJ
+name	_nameNN
+	
+ferret	_ferretNN
+	
+forty	_fortyNN
+three	_threeCD
+million	_millionCD
+what	_whatWP
+	
+twenty	_twentyCD
+one	_oneCD
+point	_pointNN
+two	_twoCD
+million	_millionCD
+dollars	_dollarNNS
+was	_beVBD
+divided	_divideVVN
+between	_betweenIN
+who	_whoWP
+	
+do	_doVV
+movie	_movieNN
+authors	_authorNNS
+use	_useVVP
+real	_realJJ
+countries	_countryNNS
+	
+on	_onIN
+lies	_lieNNS
+	
+the	_theDT
+movie	_movieNN
+a	B-movie.name
+tanu	I-movie.name
+is	_beVBZ
+from	_fromIN
+hungary	B-country.name
+;	_;:
+where	_whereWRB
+is	_beVBZ
+the	_theDT
+country	_countryNN
+hungary	B-country.name
+	
+how	_howWRB
+fun	_funNN
+is	_beVBZ
+it	_itPP
+to	_toTO
+produce	_produceVV
+a	_aDT
+movie	_movieNN
+	
+did	_doVVD
+you	_youPP
+like	_likeIN
+working	_workVVG
+with	_withIN
+who	_whoWP
+you	_youPP
+did	_doVVD
+	
+can	_canMD
+i	_iNNS
+see	_seeVV
+a	_aDT
+map	_mapNN
+of	_ofIN
+canada	B-country.name
+	
+was	_beVBD
+your	_yourPP$
+journey	_journeyNN
+worth	_worthNN
+it	_itPP
+	
+south	_southJJ
+american	_AmericanJJ
+country	_countryNN
+flags	_flagNNS
+	
+need	_needVV
+more	_moreJJR
+info	_infoNN
+that	_thatWDT
+relates	_relateVVZ
+to	_toTO
+china	B-country.name
+	
+flags	_flagNNS
+of	_ofIN
+planet	_planetNN
+earth	_earthNN
+	
+best	_goodJJS
+writers	_writerNNS
+in	_inIN
+the	_theDT
+field	_fieldNN
+	
+find	_findVV
+the	_theDT
+male	_maleJJ
+actor	_actorNN
+from	_fromIN
+grand	B-movie.name
+torino	I-movie.name
+	
+who	_whoWP
+played	_playVVD
+the	_theDT
+female	_femaleJJ
+lead	_leadNN
+in	_inIN
+hitch	B-movie.name
+	
+find	_findVV
+the	_theDT
+female	_femaleJJ
+actress	_actressNN
+from	_fromIN
+shallow	B-movie.name
+hal	I-movie.name
+	
+who	_whoWP
+is	_beVBZ
+in	_inIN
+picture	_pictureNN
+three	_threeCD
+	
+who	_whoWP
+are	_beVBP
+the	_theDT
+lead	_leadJJ
+actors	_actorNNS
+	
+how	_howWRB
+old	_oldNN
+is	_beVBZ
+jennifer	B-person.name
+aniston	I-person.name
+	
+when	_whenWRB
+was	_beVBD
+will	B-person.name
+ferrell	I-person.name
+born	_bearVVN
+	
+where	_whereWRB
+was	_beVBD
+black	B-movie.name
+swan	I-movie.name
+directed	_directVVD
+	
+where	_whereWRB
+was	_beVBD
+muriel	B-movie.name
+'s	I-movie.name
+wedding	I-movie.name
+shot	_shotNN
+	
+show	_showNN
+release	_releaseNN
+date	_dateNN
+in	_inIN
+the	B-movie.release_region
+usa	I-movie.release_region
+for	_forIN
+the	_theDT
+movie	_movieNN
+little	B-movie.name
+women	I-movie.name
+	
+show	_showNN
+movie	_movieNN
+description	_descriptionNN
+	
+i	_iNP
+'d	_willMD
+like	_likeVV
+to	_toTO
+see	_seeVV
+popular	_popularJJ
+film	_filmNN
+directors	_directorNNS
+from	_fromIN
+the	_theDT
+nineteen	B-movie.release_date
+fifty	I-movie.release_date
+'s	I-movie.release_date
+through	I-movie.release_date
+today	I-movie.release_date
+	
+best	_goodJJS
+director	_directorNN
+	
+best	_goodJJS
+directors	_directorNNS
+of	_ofIN
+all	_allDT
+time	_timeNN
+	
+please	_pleaseUH
+show	_showVV
+me	_mePP
+famous	_famousJJ
+film	_filmNN
+directors	_directorNNS
+	
+greatest	_greatJJS
+directors	_directorNNS
+	
+who	_whoWP
+produced	_produceVVD
+some	_someDT
+of	_ofIN
+the	_theDT
+most	_mostRBS
+popular	_popularJJ
+movies	_movieNNS
+	
+show	_showVV
+me	_mePP
+successful	_successfulJJ
+movie	_movieNN
+directors	_directorNNS
+	
+who	_whoWP
+produced	_produceVVD
+hotel	B-movie.name
+rwanda	I-movie.name
+cover	_coverVVP
+art	_artNN
+	
+who	_whoWP
+'s	_beVBZ
+the	_theDT
+director	_directorNN
+	
+director	_directorNN
+'s	_'sPOS
+name	_nameNN
+	
+what	_whatWP
+is	_beVBZ
+the	_theDT
+name	_nameNN
+of	_ofIN
+a	_aDT
+turkish	B-director.nationality
+director	_directorNN
+that	_thatWDT
+produced	_produceVVD
+a	_aDT
+drama	B-movie.genre
+film	_filmNN
+	
+watch	_watchNN
+dredd	B-movie.name
+movie	_movieNN
+	
+see	_seeVV
+dredd	B-movie.name
+movie	_movieNN
+	
+what	_whatWP
+was	_beVBD
+the	_theDT
+name	_nameNN
+of	_ofIN
+an	_anDT
+academy	B-award.ceremony
+award	_awardNN
+winning	_winVVG
+russian	B-country.name
+documentary	B-movie.genre
+	
+what	_whatWP
+movie	_movieNN
+titles	_titleNNS
+starring	_starVVG
+meryl	B-actor.name
+streep	I-actor.name
+earned	_earnVVD
+oscar	B-award.ceremony
+nominations	_nominationNNS
+	
+in	_inIN
+search	_searchNN
+for	_forIN
+names	_nameNNS
+of	_ofIN
+crew	_crewNN
+members	_memberNNS
+please	_pleaseVVP
+	
+get	_getVV
+me	_mePP
+reviews	_reviewNNS
+and	_andCC
+info	_infoNN
+about	_aboutIN
+the	B-movie.name
+campaign	I-movie.name
+movie	_movieNN
+	
+show	_showVV
+me	_mePP
+reviews	_reviewNNS
+and	_andCC
+info	_infoNN
+for	_forIN
+the	B-movie.name
+campaign	I-movie.name
+	
+what	_whatWP
+movies	_movieNNS
+that	_thatDT
+clint	B-director.name
+eastwood	I-director.name
+direct	_directJJ
+that	_thatIN/that
+he	_hePP
+won	_winVVD
+the	_theDT
+best	B-award.category
+director	I-award.category
+oscar	B-award.ceremony
+for	_forIN
+	
+what	_whatWP
+'s	_beVBZ
+hitchcock	B-director.name
+'s	_'sPOS
+most	_mostRBS
+famous	_famousJJ
+movie	_movieNN
+	
+tell	_tellVV
+me	_mePP
+some	_someDT
+of	_ofIN
+walter	B-director.name
+f	I-director.name
+parkes	I-director.name
+best	_goodJJS
+movies	_movieNNS
+	
+looking	_lookVVG
+for	_forIN
+movies	_movieNNS
+directed	_directVVN
+by	_byIN
+actor	_actorNN
+number	_numberNN
+one	_oneCD
+	
+list	_listNN
+of	_ofIN
+movies	_movieNNS
+directed	_directVVN
+by	_byIN
+director	_directorNN
+three	_threeCD
+	
+show	_showVV
+me	_mePP
+the	_theDT
+film	_filmNN
+that	_thatWDT
+grossed	_grossVVD
+seven	B-movie.gross_revenue
+point	I-movie.gross_revenue
+two	I-movie.gross_revenue
+million	I-movie.gross_revenue
+at	_atIN
+the	_theDT
+box	_boxNN
+office	_officeNN
+	
+show	_showVV
+me	_mePP
+movies	_movieNNS
+that	_thatWDT
+made	_makeVVD
+over	B-movie.gross_revenue
+seven	I-movie.gross_revenue
+million	I-movie.gross_revenue
+dollars	I-movie.gross_revenue
+	
+show	_showVV
+me	_mePP
+movies	_movieNNS
+that	_thatIN/that
+didn	_didnNN
+'t	_'tNN
+gross	_grossJJ
+much	_muchRB
+	
+i	_iNNS
+want	_wantVVP
+to	_toTO
+see	_seeVV
+movies	_movieNNS
+from	_fromIN
+early	B-movie.release_date
+two	I-movie.release_date
+thousands	I-movie.release_date
+	
+show	_showVV
+last	B-movie.release_date
+years	I-movie.release_date
+films	_filmNNS
+by	_byIN
+7	B-producer.name
+arts	I-producer.name
+	
+show	_showVV
+all	_allDT
+movies	_movieNNS
+that	_thatWDT
+came	_comeVVD
+out	_outRP
+nine	B-movie.release_date
+fourteen	I-movie.release_date
+twenty	I-movie.release_date
+twelve	I-movie.release_date
+	
+were	_beVBD
+there	_thereRB
+any	_anyDT
+movies	_movieNNS
+released	_releaseVVD
+nine	B-movie.release_date
+fourteen	I-movie.release_date
+twenty	I-movie.release_date
+twelve	I-movie.release_date
+	
+show	_showVV
+me	_mePP
+movies	_movieNNS
+from	_fromIN
+the	_theDT
+nineteen	B-movie.release_date
+seventies	I-movie.release_date
+	
+can	_canMD
+you	_youPP
+list	_listVV
+all	_allDT
+movies	_movieNNS
+from	_fromIN
+twenty	B-movie.release_date
+twelve	I-movie.release_date
+with	_withIN
+a	_aDT
+rating	_ratingNN
+of	_ofIN
+three	B-movie.star_rating
+stars	_starNNS
+and	_andCC
+up	_upRB
+	
+academy	B-award.ceremony
+award	_awardNN
+lionsgate	B-producer.name
+movies	_movieNNS
+	
+show	_showNN
+oscar	B-award.ceremony
+winning	_winVVG
+movies	_movieNNS
+by	_byIN
+warner	B-producer.name
+brothers	I-producer.name
+	
+what	_whatWP
+movie	_movieNN
+performance	_performanceNN
+did	_doVVD
+meryl	B-actor.name
+streep	I-actor.name
+win	_winVVP
+her	_herPP$
+best	B-award.category
+supporting	I-award.category
+oscar	B-award.ceremony
+	
+have	_haveVHP
+any	_anyDT
+us	B-country.name
+released	_releaseVVN
+movies	_movieNNS
+been	_beVBN
+filmed	_filmVVN
+on	_onIN
+location	_locationNN
+in	_inIN
+the	_theDT
+czech	B-movie.location
+republic	I-movie.location
+	
+what	_whatWP
+us	B-country.name
+release	_releaseVVP
+movies	_movieNNS
+have	_haveVHP
+been	_beVBN
+filmed	_filmVVN
+in	_inIN
+the	_theDT
+czech	B-movie.location
+republic	I-movie.location
+	
+list	_listNN
+movies	_movieNNS
+set	_setVVN
+in	_inIN
+ireland	B-movie.location
+	
+show	_showVV
+me	_mePP
+the	_theDT
+movies	_movieNNS
+released	_releaseVVN
+in	_inIN
+england	B-movie.release_region
+	
+what	_whatWP
+movies	_movieNNS
+are	_beVBP
+coming	_comeVVG
+out	_outRP
+this	B-movie.release_date
+week	I-movie.release_date
+in	_inIN
+great	B-movie.release_region
+britain	I-movie.release_region
+	
+show	_showVV
+me	_mePP
+the	_theDT
+movies	_movieNNS
+released	_releaseVVN
+in	_inIN
+nepal	B-movie.release_region
+	
+what	_whatWP
+are	_beVBP
+the	_theDT
+top	_topJJ
+five	_fiveCD
+french	B-country.name
+movies	_movieNNS
+of	_ofIN
+all	_allDT
+time	_timeNN
+	
+what	_whatWP
+top	_topJJ
+films	_filmNNS
+have	_haveVHP
+come	_comeVVN
+out	_outRP
+of	_ofIN
+russia	B-country.name
+	
+show	_showVV
+me	_mePP
+the	_theDT
+top	_topJJ
+movies	_movieNNS
+from	_fromIN
+spain	B-country.name
+	
+what	_whatWP
+is	_beVBZ
+the	_theDT
+highest	_highJJS
+rated	_rateVVN
+zombie	B-movie.subject
+movie	_movieNN
+	
+what	_whatWP
+are	_beVBP
+highly	_highlyRB
+rated	_rateVVN
+zombie	B-movie.subject
+movies	_movieNNS
+i	_iNP
+can	_canMD
+watch	_watchVV
+	
+look	_lookNN
+for	_forIN
+popular	_popularJJ
+movies	_movieNNS
+	
+search	_searchNN
+for	_forIN
+foreign	B-movie.language
+language	I-movie.language
+films	_filmNNS
+	
+what	_whatWP
+is	_beVBZ
+will	B-actor.name
+ferrell	I-actor.name
+famous	_famousJJ
+for	_forIN
+	
+is	_beVBZ
+this	_thisDT
+a	_aDT
+musical	B-movie.genre
+	
+hope	_hopeVVP
+that	_thatIN/that
+the	_theDT
+movie	_movieNN
+is	_beVBZ
+in	_inIN
+english	B-movie.language
+	
+is	_beVBZ
+this	_thisDT
+movie	_movieNN
+in	_inIN
+english	B-movie.language
+	
+do	_doVV
+they	_theyPP
+speak	_speakVV
+german	B-movie.language
+in	_inIN
+the	_theDT
+movie	_movieNN
+	
+is	_beVBZ
+this	_thisDT
+movie	_movieNN
+filmed	_filmVVN
+in	_inIN
+india	B-movie.location
+	
+show	_showVV
+all	_allDT
+dawn	B-movie.name
+of	I-movie.name
+the	I-movie.name
+dead	I-movie.name
+movies	_movieNNS
+	
+all	_allDT
+of	_ofIN
+kung	B-movie.name
+fu	I-movie.name
+panda	I-movie.name
+movies	_movieNNS
+	
+list	_listNN
+movies	_movieNNS
+that	_thatWDT
+have	_haveVHP
+time	_timeNN
+travel	_travelNN
+in	_inIN
+their	_theirPP$
+title	_titleNN
+	
+i	_iNNS
+want	_wantVVP
+to	_toTO
+see	_seeVV
+nine	B-movie.release_date
+twenty	I-movie.release_date
+eight	I-movie.release_date
+release	_releaseNN
+date	_dateNN
+films	_filmNNS
+from	_fromIN
+twenty	I-movie.release_date
+twelve	I-movie.release_date
+	
+find	_findVV
+information	_informationNN
+about	_aboutIN
+french	B-movie.language
+movies	_movieNNS
+	
+i	_iNNS
+need	_needVVP
+to	_toTO
+know	_knowVV
+more	_moreJJR
+about	_aboutIN
+the	_theDT
+life	_lifeNN
+and	_andCC
+movies	_movieNNS
+of	_ofIN
+indian	B-actor.nationality
+actor	_actorNN
+dilip	B-actor.name
+kumar	I-actor.name
+	
+what	_whatWP
+does	_doVVZ
+the	_theDT
+miramax	B-producer.name
+logo	_logoNN
+look	_lookVVP
+like	_likeIN
+	
+show	_showVV
+me	_mePP
+pictures	_pictureNNS
+of	_ofIN
+martin	B-person.name
+scorsese	I-person.name
+	
+photos	_photoNNS
+of	_ofIN
+steven	B-person.name
+spielberg	I-person.name
+	
+i	_iNNS
+want	_wantVVP
+to	_toTO
+see	_seeVV
+images	_imageNNS
+of	_ofIN
+will	B-person.name
+ferrell	I-person.name
+	
+show	_showVV
+me	_mePP
+pictures	_pictureNNS
+of	_ofIN
+woody	B-person.name
+allen	I-person.name
+	
+what	_whatWP
+are	_beVBP
+popular	_popularJJ
+movie	_movieNN
+producers	_producerNNS
+	
+can	_canMD
+you	_youPP
+give	_giveVV
+me	_mePP
+the	_theDT
+producer	_producerNN
+	
+i	_iNP
+would	_wouldMD
+like	_likeVV
+to	_toTO
+know	_knowVV
+the	_theDT
+rating	_ratingNN
+of	_ofIN
+the	_theDT
+movie	_movieNN
+avatar	B-movie.name
+	
+what	_whatWP
+rating	_ratingNN
+is	_beVBZ
+the	_theDT
+movie	_movieNN
+barfi	B-movie.name
+	
+what	_whatWP
+is	_beVBZ
+finding	B-movie.name
+nemo	I-movie.name
+rated	_rateVVN
+	
+i	_iNNS
+need	_needVVP
+to	_toTO
+know	_knowVV
+the	_theDT
+rating	_ratingNN
+of	_ofIN
+grease	B-movie.name
+	
+can	_canMD
+you	_youPP
+find	_findVV
+out	_outRP
+what	_whatWP
+rating	_ratingNN
+the	_theDT
+movie	_movieNN
+grease	B-movie.name
+is	_beVBZ
+	
+what	_whatWP
+is	_beVBZ
+kids	B-movie.name
+by	_byIN
+larry	B-director.name
+clark	I-director.name
+rated	_rateVVN
+	
+what	_whatWP
+rating	_ratingNN
+did	_doVVD
+marley	B-movie.name
+and	I-movie.name
+me	I-movie.name
+receive	_receiveVVP
+	
+what	_whatWP
+is	_beVBZ
+the	_theDT
+rating	_ratingNN
+for	_forIN
+mr	B-movie.name
+and	I-movie.name
+mrs	I-movie.name
+smith	I-movie.name
+	
+what	_whatWP
+rating	_ratingNN
+did	_doVVD
+resident	B-movie.name
+evil	I-movie.name
+receive	_receiveVV
+	
+rating	_ratingNN
+for	_forIN
+snow	B-movie.name
+white	I-movie.name
+and	I-movie.name
+the	I-movie.name
+huntsman	I-movie.name
+	
+what	_whatWP
+rating	_ratingNN
+is	_beVBZ
+step	B-movie.name
+up	I-movie.name
+	
+look	_lookVV
+up	_upRP
+the	_theDT
+rating	_ratingNN
+of	_ofIN
+the	_theDT
+movie	_movieNN
+step	B-movie.name
+up	I-movie.name
+	
+what	_whatWP
+rating	_ratingNN
+did	_doVVD
+the	B-movie.name
+campaign	I-movie.name
+movie	_movieNN
+get	_getVV
+	
+show	_showVV
+me	_mePP
+the	_theDT
+rating	_ratingNN
+for	_forIN
+the	_theDT
+movie	_movieNN
+the	B-movie.name
+expendables	I-movie.name
+	
+what	_whatWP
+is	_beVBZ
+the	_theDT
+rating	_ratingNN
+for	_forIN
+toy	B-movie.name
+story	I-movie.name
+	
+what	_whatWP
+is	_beVBZ
+the	_theDT
+rating	_ratingNN
+for	_forIN
+the	_theDT
+movie	_movieNN
+toy	B-movie.name
+story	I-movie.name
+	
+rating	_ratingNN
+for	_forIN
+twilight	B-movie.name
+breaking	I-movie.name
+dawn	I-movie.name
+	
+what	_whatWP
+was	_beVBD
+gross	_grossJJ
+revenue	_revenueNN
+for	_forIN
+batman	B-movie.name
+begins	I-movie.name
+	
+how	_howWRB
+much	_muchRB
+has	_haveVHZ
+black	B-movie.name
+swan	I-movie.name
+brought	_bringVVN
+in	_inIN
+	
+find	_findVV
+the	_theDT
+revenue	_revenueNN
+for	_forIN
+downton	B-movie.name
+abbey	I-movie.name
+	
+find	_findVV
+the	_theDT
+revenue	_revenueNN
+of	_ofIN
+edward	B-movie.name
+scissor	I-movie.name
+hands	I-movie.name
+	
+what	_whatWP
+is	_beVBZ
+the	_theDT
+most	_mostJJS
+a	_aDT
+movie	_movieNN
+made	_makeVVD
+	
+reviews	_reviewNNS
+for	_forIN
+dirty	B-movie.name
+dancing	I-movie.name
+	
+find	_findVV
+reviews	_reviewNNS
+for	_forIN
+dirty	B-movie.name
+dancing	I-movie.name
+	
+what	_whatWP
+are	_beVBP
+reviews	_reviewNNS
+for	_forIN
+finding	B-movie.name
+nemo	I-movie.name
+	
+what	_whatWP
+are	_beVBP
+the	_theDT
+ratings	_ratingNNS
+and	_andCC
+review	_reviewNN
+on	_onIN
+finding	B-movie.name
+nemo	I-movie.name
+	
+reviews	_reviewNNS
+for	_forIN
+finding	B-movie.name
+nemo	I-movie.name
+	
+reviews	_reviewNNS
+for	_forIN
+finding	B-movie.name
+nemo	I-movie.name
+	
+reviews	_reviewNNS
+for	_forIN
+finding	B-movie.name
+nemo	I-movie.name
+	
+reviews	_reviewNNS
+for	_forIN
+movie	_movieNN
+	
+reviews	_reviewNNS
+for	_forIN
+in	B-movie.name
+july	I-movie.name
+	
+what	_whatWP
+are	_beVBP
+the	_theDT
+reviewers	_reviewerNNS
+saying	_sayVVG
+about	_aboutIN
+star	B-movie.name
+wars	I-movie.name
+episode	I-movie.name
+four	I-movie.name
+	
+how	_howWRB
+long	_longRB
+is	_beVBZ
+life	B-movie.name
+is	I-movie.name
+beautiful	I-movie.name
+	
+synopsis	_synopsisNN
+for	_forIN
+the	_theDT
+movie	_movieNN
+house	B-movie.name
+at	I-movie.name
+the	I-movie.name
+end	I-movie.name
+of	I-movie.name
+the	I-movie.name
+street	I-movie.name
+	
+synopsis	_synopsisNN
+for	_forIN
+star	B-movie.name
+wars	I-movie.name
+four	I-movie.name
+	
+summary	_summaryNN
+of	_ofIN
+star	B-movie.name
+wars	I-movie.name
+four	I-movie.name
+	
+finding	B-movie.name
+nemo	I-movie.name
+movie	_movieNN
+shortcut	_shortcutNN
+	
+show	_showVV
+me	_mePP
+the	_theDT
+trailer	_trailerNN
+for	_forIN
+house	B-movie.name
+at	I-movie.name
+the	I-movie.name
+end	I-movie.name
+of	I-movie.name
+the	I-movie.name
+street	I-movie.name
+	
+life	B-movie.name
+is	I-movie.name
+beatiful	I-movie.name
+shortcut	_shortcutNN
+	
+trailer	_trailerNN
+for	_forIN
+star	B-movie.name
+wars	I-movie.name
+a	I-movie.name
+new	I-movie.name
+hope	I-movie.name
+	
+show	_showVV
+resident	B-movie.name
+evil	I-movie.name
+movies	_movieNNS
+with	_withIN
+trailers	_trailerNNS
+	
+can	_canMD
+i	_iNNS
+see	_seeVV
+previews	_previewNNS
+for	_forIN
+upcoming	_upcomingJJ
+warner	B-producer.name
+brothers	I-producer.name
+movies	_movieNNS
+	
+how	_howWRB
+many	_manyJJ
+woody	B-director.name
+allen	I-director.name
+movies	_movieNNS
+are	_beVBP
+set	_setVVN
+in	_inIN
+new	B-movie.location
+york	I-movie.location
+city	I-movie.location
+	
+how	_howWRB
+many	_manyJJ
+scorsese	B-producer.name
+films	_filmNNS
+were	_beVBD
+filmed	_filmVVN
+in	_inIN
+france	B-movie.location
+	
