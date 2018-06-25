@@ -11,14 +11,13 @@ from sklearn.utils import shuffle
 from sklearn.metrics import confusion_matrix
 
 
-#function tests a minimum requirement model
-#outputs f1 score of the model
-#input : trainFile, testFile
-
 def train_test_minimum(trainFile="", testFile="", smoothing = "witten_bell", ngram_order = 3,
-                       working_dir="", improvement = False, fold="" , cut_off=False, cut_off_freq=2):
+                       working_dir="", improvement=False, fold="", cut_off=False, cut_off_freq=2):
 
     """
+    function tests a minimum requirement model
+    outputs f1 score of the model
+    input : trainFile, testFile
     if retOutFiles is set to true function returns names of files where results are written
     """
 
@@ -74,8 +73,8 @@ def train_test_minimum(trainFile="", testFile="", smoothing = "witten_bell", ngr
     cnt = 0
     tot = len(test_tokens_sentences)
 
-    #for each sentence creates acceptor, concatenates it with unigram tagger and language model,
-    #parses out lex result and appends it to results
+    # for each sentence creates acceptor, concatenates it with unigram tagger and language model,
+    # parses out lex result and appends it to results
     for string in test_tokens_sentences:
         cnt += 1
         print('{0}/{1}'.format(cnt, tot))
@@ -153,6 +152,7 @@ def baseline_random(trainFile="", testFile=""):
         shell=True).decode("utf-8")
 
     return f1_score
+
 
 def baseline_majority(trainFile="", testFile=""):
     baseline_dir = "baseline/"
@@ -269,14 +269,11 @@ def k_folds(k = 5, trainFile="", testFile="", featsTrainFile = "", featsTestFile
         delimiters.append(delim)
         delim = [d]
 
-    #extract phrase from file : test.loc[delimiters[i][0]:delimiters[i][1]-1, :]
-
-    #shuffle phrases
+    # shuffle phrases
     delimiters = shuffle(delimiters)
 
-    #count test phrases
-    fold_size = int(len(delimiters)/k )
-
+    # count test phrases
+    fold_size = int(len(delimiters)/k)
 
     folds_delimiters = [[] for _ in range(k)]
 
@@ -292,7 +289,7 @@ def k_folds(k = 5, trainFile="", testFile="", featsTrainFile = "", featsTestFile
 
     valFiles = []
     trainFiles = []
-    #now for each fold save it as validation and save others as training set
+    # now for each fold save it as validation and save others as training set
     for i in range(k):
         valFiles.append('../data/validation'+str(i))
         trainFiles.append('../data/training'+str(i))
@@ -308,7 +305,6 @@ def k_folds(k = 5, trainFile="", testFile="", featsTrainFile = "", featsTestFile
             f.write('\n')
 
     return valFiles, trainFiles
-
 
 
 def add_info_to_data(trainFile="", testFile="", featsTrainFile = "", featsTestFile = ""):
@@ -368,6 +364,7 @@ def add_info_to_data(trainFile="", testFile="", featsTrainFile = "", featsTestFi
 
     return {'train': newUniquePOSTrainFile, 'test':newUniquePOSTestFile}
 
+
 def add_info_to_data_pos_lemma(trainFile="", testFile="", featsTrainFile = "", featsTestFile = ""):
     """
     function substitutes O tag with concatenation of unique token and pos tag
@@ -382,7 +379,6 @@ def add_info_to_data_pos_lemma(trainFile="", testFile="", featsTrainFile = "", f
     if not featsTestFile:
         featsTestFile = FileNames.ADD_TEST.value
 
-
     train_data = pd.read_csv(trainFile, sep='\t', header=None, skip_blank_lines=False)
     train_data.columns = ['tokens', 'tags']
 
@@ -394,7 +390,6 @@ def add_info_to_data_pos_lemma(trainFile="", testFile="", featsTrainFile = "", f
 
     test_data_feats = pd.read_csv(featsTestFile, sep='\t', header=None, skip_blank_lines=False)
     test_data_feats.columns = ['tokens', 'pos_tags', 'unique_tokens']
-
 
     newUniquePOSTrainFile = "../data/pos.unique.train.data"
     newUniquePOSTestFile = "../data/pos.unique.test.data"
@@ -425,6 +420,7 @@ def add_info_to_data_pos_lemma(trainFile="", testFile="", featsTrainFile = "", f
 
     return {'train': newUniquePOSTrainFile, 'test':newUniquePOSTestFile}
 
+
 def add_info_to_data_words(trainFile="", testFile=""):
     """
     function substitutes O tag with concatenation of unique token and pos tag
@@ -435,13 +431,11 @@ def add_info_to_data_words(trainFile="", testFile=""):
     if not testFile:
         testFile = FileNames.TEST.value
 
-
     train_data = pd.read_csv(trainFile, sep='\t', header=None, skip_blank_lines=False)
     train_data.columns = ['tokens', 'tags']
 
     test_data = pd.read_csv(testFile, sep='\t', header=None, skip_blank_lines=False)
     test_data.columns = ['tokens', 'tags']
-
 
     newUniquePOSTrainFile = "../data/token.train.data"
     newUniquePOSTestFile = "../data/token.test.data"
@@ -469,6 +463,7 @@ def add_info_to_data_words(trainFile="", testFile=""):
 
     return {'train': newUniquePOSTrainFile, 'test':newUniquePOSTestFile}
 
+
 def eval_unique_pos_tags(predDataFile, resutlsFile):
 
     """
@@ -490,6 +485,7 @@ def eval_unique_pos_tags(predDataFile, resutlsFile):
         shell=True).decode("utf-8")
 
     return f1_score
+
 
 def printConfusionMatrix(predFile):
     """

@@ -10,11 +10,11 @@ In order to run this code you need to install OpenGrm and OpenFst tools. Other d
 
 ### Run the code
 
-To recreate all the resultes from the report experiment it's enough to run main.py
+To reproduce all the resultes from the report experiment it's enough to run main.py
 
 ```
 python main.py
 ```
 
-All the results will be stored in results/ folder, grouped in different subfolders by model (baseline, minimum/improved, all/cross_vall). Language models of each model will be saved in models/ folder in case user would like to evaluate their perplexity. 
+All the results will be stored in results/ folder, grouped in different subfolders by model (baseline, minimum/improved, all/cross_vall). Language models of each model will be saved in models/ folder in case user would like to evaluate their perplexity score. 
 

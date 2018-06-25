@@ -5,11 +5,11 @@ from subprocess import call
 from fileNames import FileNames
 
 
-#stat loads all default filenames
+# stat loads all default filenames
 
-#for different test/train just set trainFile and testFile, in this case
-#all files in stats will be overwritten, change working directory if you don't
-#want to overwrite current statistics
+# for different test/train just set trainFile and testFile, in this case
+# all files in stats will be overwritten, change working directory if you don't
+# want to overwrite current statistics
 
 class Stat(object):
 
@@ -43,7 +43,7 @@ class Stat(object):
         self.data.columns = ['tokens', 'tags']
 
         # remove $ character from tags
-        #self.data['tags'] = self.data['tags'].map(lambda x: x.rstrip('$'))
+        # self.data['tags'] = self.data['tags'].map(lambda x: x.rstrip('$'))
 
     def load_add_data(self):
         self.add_data = pd.read_csv(self.addTrainFile, sep='\t', header=None)
@@ -78,7 +78,7 @@ class Stat(object):
         self.unk_probs['tokens'] = '<unk>'
         self.unk_probs['neg_log_tokens_given_tags_probs'] = -np.log(self.tok_prob_unk)
 
-    def create_cut_off_unk_table(self, cutoff_freq = 2):
+    def create_cut_off_unk_table(self, cutoff_freq=2):
         """
         function creates distribution of concept probabilities for "unknown words":
         words with law probability to be seen in dataset
@@ -91,10 +91,10 @@ class Stat(object):
         dist2 = dist.drop(dist[dist > cutoff_freq].index)
         cutoff_tot_couples = dist2.count()
 
-        #cutoff_tags = dist2.index.levels[0]
+        # cutoff_tags = dist2.index.levels[0]
         cutoff_tags_counts = dist2.count(level='tags')
 
-        cutoff_dist = cutoff_tags_counts/cutoff_tot_couples
+        cutoff_dist = cutoff_tags_counts / cutoff_tot_couples
 
         cutoff_dist = cutoff_dist.drop(cutoff_dist[cutoff_dist == 0.].index)
 
@@ -105,13 +105,13 @@ class Stat(object):
         self.unk_probs['from_state'] = '0'
         self.unk_probs['to_state'] = '0'
         self.unk_probs['tokens'] = '<unk>'
-        self.unk_probs['neg_log_tokens_given_tags_probs'] = -np.log(cutoff_dist/2).values
+        self.unk_probs['neg_log_tokens_given_tags_probs'] = -np.log(cutoff_dist / 2).values
 
     def write_token_unk_pos_probs(self):
         cols_to_keep = ['from_state', 'to_state', 'tokens', 'tags', 'neg_log_tokens_given_tags_probs']
         self.tok_pos_probs_to_keep = pd.DataFrame(self.tok_pos_probs[cols_to_keep])
-        self.tok_pos_probs_to_keep.to_csv(self.unigram_conc_unk, index=None,  header=None,sep='\t', mode='w')
-        self.unk_probs[cols_to_keep].to_csv(self.unigram_conc_unk, header=None, index = None, sep = '\t', mode='a')
+        self.tok_pos_probs_to_keep.to_csv(self.unigram_conc_unk, index=None, header=None, sep='\t', mode='w')
+        self.unk_probs[cols_to_keep].to_csv(self.unigram_conc_unk, header=None, index=None, sep='\t', mode='a')
         with open(self.unigram_conc_unk, "a") as f:
             f.write('0')
 
@@ -142,7 +142,6 @@ class Stat(object):
                 thefile.write("%s\t" % l)
             thefile.write("\n")
         thefile.close()
-
 
     def read_sentences_tokens_tags(self, inputFile=""):
         """
@@ -185,12 +184,11 @@ class Stat(object):
     def get_token_distribution(self):
         return self.data['tokens'].value_counts(normalize=True)
 
-
     def max_min_avg(self, listStrings):
         lengths = [len(s.split()) for s in listStrings]
-        return max(lengths), min (lengths), sum(lengths)/len(lengths)
+        return max(lengths), min(lengths), sum(lengths) / len(lengths)
 
-    def print_dists(self, inputFile, filelabel = ""):
+    def print_dists(self, inputFile, filelabel=""):
         """
         plots distribution of current dataFrame data
         """
@@ -199,19 +197,20 @@ class Stat(object):
         data = pd.read_csv(inputFile, sep='\t', header=None)
         data.columns = ['tokens', 'tags']
 
-        dir = FileNames.PLOTS_DIR.value
+        dir = "../plots/"
         if not os.path.exists(dir):
             os.makedirs(dir)
 
         fig = plt.figure()
         dist = data['tags'].value_counts(normalize=False)
-        dist.index = [x[2:] if x!='O' else x for x in dist.index]
+        dist.index = [x[2:] if x != 'O' else x for x in dist.index]
+        dist = dist.groupby(level=0).sum().sort_values(ascending=False)
         plt.xlabel("Concepts")
         plt.ylabel("Frequency")
-        dist[:20].plot(kind='bar')
+        dist[1:].plot(kind='bar')
         plt.tight_layout()
         plt.show()
-        fig.savefig(dir + filelabel + "tags_dist" + ".pdf", format='pdf')
+        fig.savefig(dir + filelabel + "_tags_dist" + ".pdf", format='pdf')
 
         fig = plt.figure()
         dist = data['tokens'].value_counts(normalize=False)
@@ -219,9 +218,8 @@ class Stat(object):
         plt.ylabel("Frequency")
         dist[:30].plot(kind='bar')
         plt.tight_layout()
-        #plt.show()
-        fig.savefig(dir + filelabel + "tokens_dist" + ".pdf", format='pdf')
-
+        # plt.show()
+        fig.savefig(dir + filelabel + "_tokens_dist" + ".pdf", format='pdf')
 
     def unk_count(self, testFile, trainFile):
         train = pd.read_csv(trainFile, sep='\t', header=None)
@@ -237,5 +235,4 @@ class Stat(object):
 
         unk = [x for x in test['tokens'].tolist() if x not in train_tokens]
 
-        #list_toks_train = self.read_sentences_tokens_tags(inputFile= trainFile)
-
+        # list_toks_train = self.read_sentences_tokens_tags(inputFile= trainFile)
